@@ -1,9 +1,9 @@
-# Business Analytics: Excel & KPI Development Project
+# Business Analytics: Excel KPI Dashboard Project
 
 Start with `PROJECT_OVERVIEW.md` for what you're building and why. This
 file (`README.md`) is where the step-by-step setup lives.
 
-**Due:** 5 days, run as a sprint. See `CHECKLIST_TIMELINE.md` for the
+**Due:** 7 days, run as a sprint. See `CHECKLIST_TIMELINE.md` for the
 day-by-day pace and the full submission checklist.
 
 This repo is a **GitHub template** — a starting point, not something you
@@ -16,7 +16,7 @@ edit directly on Marcy's copy of it.
 On this repo's GitHub page, click **"Use this template" → "Create a new
 repository"** (not Fork — Fork keeps a visible link back to this template,
 which isn't what you want for a portfolio project). Name it something like
-`business-analytics-kpi`, keep it **public**, and create it.
+`business-analytics-dashboard`, keep it **public**, and create it.
 
 ### Step 2: Clone your new repo locally
 
@@ -40,49 +40,43 @@ git log --oneline
 `[YOUR NAME]` on the copyright line with your actual name. Commit that
 change alongside your other early commits.
 
-### Step 4: Set up free Excel and Google Sheets access
+### Step 4: Set up free Excel access
 
-See `GETTING_STARTED.md` — both tools are new this module and get their
-own dedicated setup walkthrough, including exactly how to submit a **live
-Google Sheets link** (this project's one genuinely different submission
-mechanic — nothing about Google Sheets lives in this git repo).
+See `GETTING_STARTED.md` — Excel is new this module and gets its own
+dedicated setup walkthrough. This project is **Excel only** — no Google
+Sheets component.
 
 ## Your domain and data
 
 See `SCENARIOS.md` and pick **one** of the 4 stakeholder domains. Each
-domain's starter workbook is already built at
-`starter/<domain>_workbook.xlsx` — real transactional data on one sheet,
-a reference/lookup table on a second sheet, and an empty "KPI Summary"
-sheet where your real work goes. **Delete the other 3 domains' workbooks
-from `starter/` once you've chosen** — same reasoning as every prior
-module's "pick one, remove the rest."
+domain's starter dashboard is already built at
+`starter/<domain>_dashboard.xlsx` — real transactional data on one or
+two sheets, a reference/lookup table, and an empty "Dashboard" sheet
+where your real work goes. **Delete the other 3 domains' files from
+`starter/` once you've chosen** — same reasoning as every prior module's
+"pick one, remove the rest."
 
 ## What to do
 
 - Open your chosen `.xlsx` in Excel (Excel Online is fine — see
-  `GETTING_STARTED.md`). The raw data and reference table are given and
-  already formatted as real Excel Tables (ready for PivotTables to source
-  from); the "KPI Summary" sheet is empty except for a prompt.
-- Fill in `starter/kpi_definitions.md` **before** you build anything in
-  the spreadsheet — name your stakeholder, their decision, and each KPI's
-  formula/target/data source. `exemplar_guidance` is direct about this:
-  pick the decision first, work backward to which 3 KPIs actually inform
-  it.
-- Build 3+ KPIs on the "KPI Summary" sheet using real PivotTables (≥2
-  dimensions each) and at least 1 XLOOKUP/VLOOKUP join to the reference
-  sheet. Test that your XLOOKUP survives a row being inserted above it —
-  a formula that only works because nothing ever changes isn't done.
-- For each KPI, check the underlying variable's real distribution shape
-  (skew, outliers) before deciding mean or median — this is Module 2's
-  own five-number-summary/skew habit, reused for real here.
-- Do the AI-formula-verification exercise
-  (`starter/ai_formula_verification.md`) — ask an AI assistant to suggest
-  a KPI or XLOOKUP formula, then manually check it against a small
-  hand-computed sample before trusting it.
-- Rebuild the same KPI summary in a new Google Sheet (`File → Import` your
-  `.xlsx`, or start fresh from the same raw data) using a native pivot
-  table or `QUERY`. Share it view-access and record the link per
-  `GETTING_STARTED.md`.
+  `GETTING_STARTED.md`). The raw data and reference table(s) are given
+  and already formatted as real Excel Tables; the "Dashboard" sheet is
+  empty except for a prompt.
+- Fill in `starter/kpi_definitions.md` **before** you build anything —
+  name your stakeholder, their decision, and each of your 3 KPI cards'
+  role (North Star / Leading / Lagging), formula, and reasoning.
+- Build your dashboard: 3 KPI cards, at least 2 real charts, at least 1
+  XLOOKUP/VLOOKUP (zero `#N/A`), and one interactive "as of month"
+  dropdown driving your Leading indicator's trailing-3-month-vs-prior-
+  year comparison. Test the dropdown with more than one month and
+  confirm the cards/chart actually update.
+- Do the real data cleaning your domain's data needs — see
+  `data/SOURCE.md` for the specific real issue, and document your fix in
+  `kpi_definitions.md`.
+- Do the 2-part AI exercise (`starter/ai_dashboard_review.md`) — a real
+  AI-suggested improvement, assessed; a real AI-diagnosed misleading
+  chart (using the given `starter/misleading_chart_example.xlsx`),
+  verified yourself.
 - Write `starter/memo.md` — one page, leads with the recommended action.
 
 `CHECKLIST_TIMELINE.md` has the suggested day-by-day pace and the full

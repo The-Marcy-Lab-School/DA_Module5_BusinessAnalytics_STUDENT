@@ -1,10 +1,8 @@
 # Stakeholder Memo
 
-**Google Sheets version:** TODO — paste your live, view-access Google
-Sheets link here. Confirm it works in a private/incognito window before
-you submit — see `../GETTING_STARTED.md`.
-
----
+**Dashboard file:** TODO — name your `.xlsx` (e.g.
+`professional_services_dashboard.xlsx`), so a reader knows exactly which
+file this memo is about.
 
 **To:** TODO (your stakeholder's role — from `kpi_definitions.md`)
 **From:** TODO (your name)

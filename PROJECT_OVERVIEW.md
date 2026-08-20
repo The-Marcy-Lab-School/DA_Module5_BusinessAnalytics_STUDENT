@@ -1,81 +1,90 @@
-# Project Overview: Business Analytics — Excel & KPI Development
+# Project Overview: Business Analytics — Excel KPI Dashboard
 
 ## The objective
 
-Pick one of 4 real stakeholder domains (`SCENARIOS.md`), then build a KPI
-summary workbook for the specific decision that stakeholder needs to make:
-**3+ KPIs**, each with a PivotTable-based calculation spanning at least 2
-dimensions, and **at least one XLOOKUP/VLOOKUP join** to a reference table
-with zero `#N/A` errors. For each KPI, decide whether a mean or median
-framing actually represents the underlying variable — check its real
-distribution shape first (the Module 2 habit), don't default to mean out
-of convention. Build the **same summary a second time in Google Sheets**
-(a native pivot table or `QUERY`, your choice) — not a from-scratch
-redesign, a platform-transfer rep of a KPI logic you've already solved
-once. Then write a one-page stakeholder memo that **leads with the
-recommended action**, not the methodology.
+Pick one of 4 real stakeholder domains (`SCENARIOS.md`), then build a
+real, interactive **Excel dashboard** — not a static report — for the
+specific decision that stakeholder needs to make. Your dashboard needs:
+
+- **3 KPI cards**, each explicitly labeled as a **North Star**, a
+  **Leading indicator**, or a **Lagging indicator** — a real business-
+  analytics framework, not three arbitrary numbers. At least one must be
+  a genuine **normalized/rate metric** (a ratio with a real denominator
+  — a utilization rate, a payout ratio, a cost-per-unit — not just a raw
+  count, and not just "pick mean or median").
+- **At least 2 real charts** (a trend line, a dimension breakdown bar
+  chart, etc.) built from live formulas, not pasted-in images.
+- **One real interactive control** — a dropdown that lets a user pick an
+  "as of" month, which drives your Leading indicator's **trailing
+  3-months-vs-the-same-3-months-one-year-prior** comparison and its
+  chart.
+- **At least one XLOOKUP or VLOOKUP** joining your raw data to a
+  reference table, zero `#N/A` errors.
+- **Real data cleaning** — every domain's data has a genuine, documented
+  issue (see `data/SOURCE.md`); find it, handle it, show your work.
+- **A 2-part AI exercise**: ask an AI assistant for a real improvement
+  to your dashboard and assess it; then ask an AI assistant to identify
+  what's misleading about a given chart and verify its answer yourself.
+- **A one-page stakeholder memo** that leads with the recommended
+  action, not the methodology.
+
+This is **Excel only** — no parallel Google Sheets build this time.
 
 ## Why it matters
 
-This is the first project in the program where the deliverable isn't code
-at all — it's a real spreadsheet, the tool most stakeholders outside a
-data team will actually open. Being able to build a trustworthy PivotTable
-summary and a lookup formula that survives someone else editing the sheet
-later is a distinct skill from writing a script that does the same thing
-once and never gets touched again — and knowing when a recurring report
-*should* graduate from a workbook to a script (a real tradeoff, not just a
-tool preference) is worth understanding directly. **Module 6** builds a
-dashboard from data shaped exactly like the KPI summary you build here.
+A dashboard someone can actually open, click through, and trust is a
+different skill than a one-time analysis. Choosing the right North Star/
+leading/lagging framing for a real decision, picking a metric that's
+genuinely comparable (not just a raw count that happens to be biggest),
+and building something that survives a stakeholder clicking the dropdown
+themselves — that's the real, portfolio-worthy skill this project tests.
+**Module 6** builds a dashboard from data shaped exactly like what you
+build here, on a different tool (Tableau/Power BI) — the underlying
+KPI-framing skill carries directly.
 
 ## Deliverables at a glance
 
-- One domain chosen from `SCENARIOS.md`, its starter workbook kept
-  (`starter/<domain>_workbook.xlsx`), the other 3 domains' workbooks
-  deleted.
-- 3+ KPIs built with real PivotTable-based calculations (≥2 dimensions
-  each) in the given `.xlsx`.
-- At least 1 XLOOKUP or VLOOKUP formula joining your raw data sheet to the
-  given reference sheet — zero `#N/A` errors, and correct enough
-  relative/absolute references that the formula still works if a row is
-  inserted above it.
-- Each KPI's mean-vs-median framing justified in writing, tied to the
-  variable's actual checked distribution shape.
-- `starter/kpi_definitions.md` filled in: formula, target, and data
-  source for each KPI — not just "a metric I could calculate."
-- The AI-formula-verification exercise done for real
-  (`starter/ai_formula_verification.md`): a real AI-suggested formula,
-  manually checked against a small hand-computed sample before trusting
-  it in the workbook.
-- The same KPI summary reproduced in a real Google Sheet, submitted as a
-  live, view-access share link (see `GETTING_STARTED.md` for exactly how).
+- One domain chosen from `SCENARIOS.md`, its dashboard `.xlsx` kept, the
+  other 3 deleted.
+- 3 KPI cards (North Star, Leading, Lagging), at least one a real
+  normalized/rate metric, each defined in `kpi_definitions.md` with a
+  formula, and reasoning for why it fills that role.
+- At least 2 real charts sourced from live formulas.
+- A working "as of month" dropdown driving the trailing-3-month-vs-
+  prior-year comparison and its chart — tested with more than one
+  selected month.
+- At least 1 XLOOKUP/VLOOKUP, zero `#N/A` errors, references that
+  survive a row being inserted.
+- A real, documented data-cleaning fix specific to your domain's actual
+  issue.
+- `starter/ai_dashboard_review.md` completed for real: an AI-suggested
+  dashboard improvement (assessed, not just accepted), and an AI-
+  identified misleading-chart diagnosis (verified, not just trusted).
 - At least 2 specific, real clarifying questions about your data's
-  origin/completeness, posed before trusting the KPI built on it.
-- A one-page stakeholder memo (`starter/memo.md`) that opens with the
-  recommended action, free of unexplained jargon.
+  origin/completeness.
+- `starter/memo.md`: one page, leads with the recommended action.
 
 ## Skills you'll practice
 
-- **Excel** — PivotTables spanning real dimensions, XLOOKUP/VLOOKUP joins,
-  and cell-reference discipline that survives a row being inserted.
-- **Google Sheets** — reproducing the same summary logic on a second real
-  platform, not re-deriving it from scratch.
-- **KPI Development** — turning a raw number into something with a
-  formula, a target, and an owner tied to a real decision.
+- **Excel** — real dashboard-building: KPI cards, native charts, a
+  working interactive control, XLOOKUP/VLOOKUP, reference discipline
+  that survives a row insert.
+- **KPI Development** — the North Star/leading/lagging framework, and
+  choosing the right denominator for a metric to actually be comparable.
 - **Business Acumen** — framing a finding in terms of revenue, cost, or
-  risk, not just the statistic itself.
-- **Attention to Detail** — a workbook with zero formula errors, correct
-  references, that survives being edited after you hand it off.
+  risk.
+- **Attention to Detail** — zero formula errors, correct references, an
+  interactive control that actually works when tested.
 - **Stakeholder Communication** — a memo that leads with the action.
-- **Critical Thinking** — questioning a dataset's origin and completeness
-  before building a decision on top of it.
+- **Critical Thinking** — questioning your data's origin/completeness,
+  and verifying an AI assistant's visual-design judgment instead of
+  trusting it outright.
 
 ## Timeline
 
-See `CHECKLIST_TIMELINE.md` for the day-by-day sprint pace and the full
-submission checklist.
+7 days. See `CHECKLIST_TIMELINE.md` for the day-by-day sprint pace and
+the full submission checklist.
 
 ## Where to start
 
-Go to `README.md`, then `GETTING_STARTED.md` — they walk through getting
-your own copy of this repo, setting up free Excel Online / Google Sheets
-access, and exactly how to submit a live Google Sheets link.
+Go to `README.md`, then `GETTING_STARTED.md` for free Excel setup.
