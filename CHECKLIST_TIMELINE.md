@@ -24,6 +24,11 @@ up," it's a workbook that survives someone else touching it later.
 - [ ] Test it: insert a row into your raw data sheet and confirm your
       PivotTables/lookups still work. Then undo, or re-verify your row
       counts are back to normal.
+- [ ] If you copy/paste a formula into adjacent cells, check whether each
+      reference should have shifted (relative) or stayed fixed
+      (absolute, `$`) — a copied formula that silently shifted a
+      reference it should have locked is a real, common way a workbook
+      looks right until someone edits it.
 
 ## Day 3 — Mean-vs-median + AI-verification
 
