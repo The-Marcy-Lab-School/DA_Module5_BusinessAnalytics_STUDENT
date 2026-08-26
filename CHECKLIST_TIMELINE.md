@@ -76,3 +76,14 @@ correct together, not just look right once.
       prompts/responses and your own verification.
 - [ ] `starter/memo.md` — one page, leads with the action.
 - [ ] Other 3 domains' dashboards deleted from `starter/`.
+- [ ] **Delete `PROJECT_OVERVIEW.md` and `SCENARIOS.md`** — they explain
+      the assignment, not your project; a real portfolio repo shouldn't
+      have "here's what you were asked to build" sitting in it.
+- [ ] **Replace `README.md`'s content with your own real project README**
+      — an Excel file isn't browsable on GitHub, so this is what a
+      visitor actually reads:
+  - **Business Problem** — the decision and domain you picked.
+  - **KPI Definitions & Rationale** — your North Star/Leading/Lagging
+    picks and why.
+  - **Key Findings** — what the dashboard actually shows.
+  - **Recommendations** — the action from `memo.md`, restated here.
