@@ -11,8 +11,10 @@ this template directly.
 You don't need a paid Microsoft 365 license. Go to
 [office.com](https://www.office.com), sign in with (or create) any free
 Microsoft account, and open **Excel Online** from the app launcher.
-PivotTables, XLOOKUP, native charts, and data-validation dropdowns all
-work in the free web version — everything this project needs is covered.
+XLOOKUP, native charts, and data-validation dropdowns all work in the
+free web version — everything this project needs is covered. (You don't
+need PivotTables for this project — the dashboard is built from KPI
+cards, charts, and a dropdown, not a PivotTable summary.)
 If you already have desktop Excel through school or work, that's fine
 too; just make sure whatever you use actually supports XLOOKUP (a
 genuinely recent function — if yours doesn't have it, use `VLOOKUP`

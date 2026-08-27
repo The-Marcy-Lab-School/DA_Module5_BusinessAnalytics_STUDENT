@@ -6,6 +6,9 @@ correct together, not just look right once.
 
 ## Day 1 — Pick the decision and domain, not the dashboard
 
+- [ ] `.gitignore`/`LICENSE`/git history confirmed already present;
+      `LICENSE`'s `[YOUR NAME]` placeholder replaced with your actual
+      name, committed.
 - [ ] Read `SCENARIOS.md`, pick one domain, delete the other 3 `.xlsx`
       files from `starter/`.
 - [ ] Fill in `starter/kpi_definitions.md`'s "The decision" section —
@@ -58,6 +61,11 @@ correct together, not just look right once.
 ## Day 7 — Memo, finish, verify, submit
 
 - [ ] Write `starter/memo.md` — lead with the recommended action.
+- [ ] Re-read your own `memo.md` (and `kpi_definitions.md`) as if you
+      were the stakeholder, not the analyst: flag any term a
+      non-technical reader wouldn't understand (`XLOOKUP`, "structured
+      Table," "normalized metric," etc.) and either cut it or explain it
+      in plain language.
 - [ ] Final QA pass: no `#REF!`/`#N/A` anywhere; insert a test row into
       your raw data and confirm formulas/references still work; re-test
       the dropdown one more time.

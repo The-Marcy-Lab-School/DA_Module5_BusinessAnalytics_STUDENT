@@ -12,6 +12,18 @@ specific decision that stakeholder needs to make. Your dashboard needs:
   a genuine **normalized/rate metric** (a ratio with a real denominator
   — a utilization rate, a payout ratio, a cost-per-unit — not just a raw
   count, and not just "pick mean or median").
+
+  **What North Star/Leading/Lagging actually mean:** a North Star is the
+  one number that best answers "is this decision going well right now."
+  A Leading indicator moves early, giving warning before the North Star
+  does — useful because it's still possible to act on it. A Lagging
+  indicator confirms a past outcome after the fact, once it's already
+  too late to change it. Example: for a subscription business, trial
+  signups this week are a Leading indicator (an early signal), Monthly
+  Recurring Revenue is the North Star (the current state of the
+  business), and last quarter's churn rate is Lagging (a confirmed
+  outcome you can no longer undo). See `starter/kpi_definitions.md` for
+  how to apply this to your own dashboard.
 - **At least 2 real charts** (a trend line, a dimension breakdown bar
   chart, etc.) built from live formulas, not pasted-in images.
 - **One real interactive control** — a dropdown that lets a user pick an
