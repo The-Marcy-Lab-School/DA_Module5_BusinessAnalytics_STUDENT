@@ -94,8 +94,9 @@ KPI-framing skill carries directly.
 
 ## Timeline
 
-7 days. See `CHECKLIST_TIMELINE.md` for the day-by-day sprint pace and
-the full submission checklist.
+7 days, plus a required share-out session scheduled after. See
+`CHECKLIST_TIMELINE.md` for the day-by-day sprint pace and the full
+submission checklist.
 
 ## Where to start
 
