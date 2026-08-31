@@ -71,6 +71,18 @@ correct together, not just look right once.
       the dropdown one more time.
 - [ ] Commit and push.
 
+## Day 8 — Share-out
+
+Your instructor schedules this once every submission is in — usually a
+few days after Day 7, not necessarily the next calendar day. Real
+session, not optional: after a brief group readout of each memo's
+recommendation, you'll work in groups of 3, reading 2-3 anonymized
+classmates' `memo.md` and dashboard `.xlsx` as the stakeholder they're
+addressed to — opening the actual dashboard, testing the "as of month"
+dropdown, and filling in a shared peer-review doc before reporting
+patterns back to the room. Nothing extra to prepare beyond your own
+submission — see your instructor for the exact date.
+
 ## Submission checklist
 
 - [ ] `starter/<your-domain>_dashboard.xlsx` — 3 labeled KPI cards
