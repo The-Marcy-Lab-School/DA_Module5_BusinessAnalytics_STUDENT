@@ -50,7 +50,7 @@ leading/lagging framing for a real decision, picking a metric that's
 genuinely comparable (not just a raw count that happens to be biggest),
 and building something that survives a stakeholder clicking the dropdown
 themselves — that's the real, portfolio-worthy skill this project tests.
-**Module 6** builds a dashboard from data shaped exactly like what you
+**Module 7** builds a dashboard from data shaped exactly like what you
 build here, on a different tool (Tableau/Power BI) — the underlying
 KPI-framing skill carries directly.
 
