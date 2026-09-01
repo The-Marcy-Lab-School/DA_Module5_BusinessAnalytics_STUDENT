@@ -32,7 +32,7 @@ dashboard**: if this same dashboard had to refresh every week instead of
 being built once, what would actually break or become painful about the
 spreadsheet version, and at what point would it be worth rebuilding as a
 script? Be concrete about *this* dashboard, not a generic answer. (This
-same tradeoff gets revisited for real, with actual code, in **Module 8**'s
+same tradeoff gets revisited for real, with actual code, in **Module 9**'s
 ETL/orchestration work.)
 
 ## A given-code cross-check back to Module 4
