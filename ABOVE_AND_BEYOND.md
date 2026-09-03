@@ -48,7 +48,7 @@ break or become painful about the current version, and at what point
 would it be worth rebuilding as a script pulling from a live database
 connection? Be concrete about *that* dashboard, not a generic answer.
 (This same tradeoff gets revisited for real, with actual code, in
-**Module 9**'s ETL/orchestration work.)
+**Module 8**'s ETL/orchestration work.)
 
 ### A given-code cross-check back to Module 4
 
