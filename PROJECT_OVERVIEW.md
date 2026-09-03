@@ -1,103 +1,91 @@
-# Project Overview: Business Analytics — Excel KPI Dashboard
+# Project Overview: Business Analytics & Data Visualization
 
 ## The objective
 
-Pick one of 4 real stakeholder domains (`SCENARIOS.md`), then build a
-real, interactive **Excel dashboard** — not a static report — for the
-specific decision that stakeholder needs to make. Your dashboard needs:
+Pick one of 4 real domains (`SCENARIOS.md`). Build **two real
+interactive dashboards for two different real stakeholders** in that
+domain — one in **Excel** (Part A), one in **Tableau Public** (Part
+B) — then write a real, specific comparison of the two tools for the
+decisions you just built.
 
-- **3 KPI cards**, each explicitly labeled as a **North Star**, a
-  **Leading indicator**, or a **Lagging indicator** — a real business-
-  analytics framework, not three arbitrary numbers. At least one must be
-  a genuine **normalized/rate metric** (a ratio with a real denominator
-  — a utilization rate, a payout ratio, a cost-per-unit — not just a raw
-  count, and not just "pick mean or median").
+**Part A — Excel dashboard**: 3 KPI cards (North Star/Leading/Lagging,
+at least one a genuine normalized/rate metric), at least 2 native
+charts, one interactive control (a dropdown driving a
+trailing-3-months comparison), at least 1 XLOOKUP/VLOOKUP, real
+domain-specific data cleaning, a 2-part AI-output-validation exercise,
+and a one-page stakeholder memo.
 
-  **What North Star/Leading/Lagging actually mean:** a North Star is the
-  one number that best answers "is this decision going well right now."
-  A Leading indicator moves early, giving warning before the North Star
-  does — useful because it's still possible to act on it. A Lagging
-  indicator confirms a past outcome after the fact, once it's already
-  too late to change it. Example: for a subscription business, trial
-  signups this week are a Leading indicator (an early signal), Monthly
-  Recurring Revenue is the North Star (the current state of the
-  business), and last quarter's churn rate is Lagging (a confirmed
-  outcome you can no longer undo). See `starter/kpi_definitions.md` for
-  how to apply this to your own dashboard.
-- **At least 2 real charts** (a trend line, a dimension breakdown bar
-  chart, etc.) built from live formulas, not pasted-in images.
-- **One real interactive control** — a dropdown that lets a user pick an
-  "as of" month, which drives your Leading indicator's **trailing
-  3-months-vs-the-same-3-months-one-year-prior** comparison and its
-  chart.
-- **At least one XLOOKUP or VLOOKUP** joining your raw data to a
-  reference table, zero `#N/A` errors.
-- **Real data cleaning** — every domain's data has a genuine, documented
-  issue (see `data/SOURCE.md`); find it, handle it, show your work.
-- **A 2-part AI exercise**: ask an AI assistant for a real improvement
-  to your dashboard and assess it; then ask an AI assistant to identify
-  what's misleading about a given chart and verify its answer yourself.
-- **A one-page stakeholder memo** that leads with the recommended
-  action, not the methodology.
+**Part B — Tableau dashboard**: ≥4 coordinated visuals for a
+*different* real stakeholder in the same domain, all 6 required
+Tableau techniques (calculated field, context filter, LOD expression,
+drill-down hierarchy, action filter, analytical/statistical sheet), a
+separate QA dashboard, published to a real public link, and a
+stakeholder walkthrough.
 
-This is **Excel only** — no parallel Google Sheets build this time.
+**Part C — Tool comparison**: `starter/tool_comparison.md` — a real,
+specific reflection on what actually differed about building the same
+kind of decision-support artifact in two tools, for two different
+audiences.
 
 ## Why it matters
 
 A dashboard someone can actually open, click through, and trust is a
-different skill than a one-time analysis. Choosing the right North Star/
-leading/lagging framing for a real decision, picking a metric that's
-genuinely comparable (not just a raw count that happens to be biggest),
-and building something that survives a stakeholder clicking the dropdown
-themselves — that's the real, portfolio-worthy skill this project tests.
-**Module 7** builds a dashboard from data shaped exactly like what you
-build here, on a different tool (Tableau/Power BI) — the underlying
-KPI-framing skill carries directly.
+different skill than a one-time analysis — and picking the *right
+tool* for a given stakeholder and decision is its own real,
+professional judgment call, not just a technology preference. Every
+earlier version of this content treated Excel and Tableau as two
+separate, sequential modules; this version asks the sharper question
+directly: for this decision and this audience, which tool, and why?
+Building genuinely different dashboards for genuinely different
+stakeholders (not the same KPIs relabeled) is what makes that
+comparison real instead of superficial.
 
 ## Deliverables at a glance
 
-- One domain chosen from `SCENARIOS.md`, its dashboard `.xlsx` kept, the
-  other 3 deleted.
-- 3 KPI cards (North Star, Leading, Lagging), at least one a real
-  normalized/rate metric, each defined in `kpi_definitions.md` with a
-  formula, and reasoning for why it fills that role.
-- At least 2 real charts sourced from live formulas.
-- A working "as of month" dropdown driving the trailing-3-month-vs-
-  prior-year comparison and its chart — tested with more than one
-  selected month.
-- At least 1 XLOOKUP/VLOOKUP, zero `#N/A` errors, references that
-  survive a row being inserted.
-- A real, documented data-cleaning fix specific to your domain's actual
-  issue.
-- `starter/ai_dashboard_review.md` completed for real: an AI-suggested
-  dashboard improvement (assessed, not just accepted), and an AI-
-  identified misleading-chart diagnosis (verified, not just trusted).
-- At least 2 specific, real clarifying questions about your data's
-  origin/completeness.
-- `starter/memo.md`: one page, leads with the recommended action.
+- One domain from `SCENARIOS.md`. Both stakeholders' decisions
+  (`kpi_definitions.md` for Part A, `kpi_notes.md` for Part B) defined
+  before building either dashboard.
+- `starter/<domain>_dashboard.xlsx` (Part A) — 3 labeled KPI cards, ≥2
+  charts, a working dropdown, ≥1 XLOOKUP/VLOOKUP.
+- `starter/ai_dashboard_review.md` and `starter/memo.md` (Part A).
+- A real, published Tableau Public workbook (Part B) — ≥4 coordinated
+  visuals, all 6 required techniques (`starter/required_techniques.md`),
+  a QA dashboard (`starter/qa_dashboard_notes.md`).
+- `starter/ai_chart_suggestion.md` (Part B) and a delivered stakeholder
+  walkthrough.
+- `starter/tool_comparison.md` (Part C).
+
+See `required_components.md`-equivalent detail spread across
+`kpi_definitions.md`, `kpi_notes.md`, `required_techniques.md`, and
+`tool_comparison.md` themselves, and `CHECKLIST_TIMELINE.md` for
+pacing.
 
 ## Skills you'll practice
 
-- **Excel** — real dashboard-building: KPI cards, native charts, a
-  working interactive control, XLOOKUP/VLOOKUP, reference discipline
-  that survives a row insert.
-- **KPI Development** — the North Star/leading/lagging framework, and
-  choosing the right denominator for a metric to actually be comparable.
-- **Business Acumen** — framing a finding in terms of revenue, cost, or
-  risk.
-- **Attention to Detail** — zero formula errors, correct references, an
-  interactive control that actually works when tested.
-- **Stakeholder Communication** — a memo that leads with the action.
-- **Critical Thinking** — questioning your data's origin/completeness,
-  and verifying an AI assistant's visual-design judgment instead of
-  trusting it outright.
+**Part A:** Excel (real dashboard-building), KPI Development (North
+Star/Leading/Lagging, choosing a real denominator), Business Acumen.
+
+**Part B:** Data Visualization (chart-type-to-question matching),
+Tableau (calculated fields, LODs, hierarchies, action filters,
+publishing).
+
+**Both parts:** Attention to Detail (a dashboard that survives being
+handed off and clicked through by someone else), Stakeholder
+Communication (a memo that leads with the action; a walkthrough that
+answers a real follow-up by pointing at a specific visual), Critical
+Thinking (questioning your data's origin/completeness; verifying an
+AI's visual judgment instead of trusting it; a real, grounded
+comparison of what each tool actually cost and bought you).
 
 ## Timeline
 
-7 days, plus a required share-out session scheduled after. See
-`CHECKLIST_TIMELINE.md` for the day-by-day sprint pace and the full
-submission checklist.
+8 days, plus a required share-out session scheduled after. See
+`CHECKLIST_TIMELINE.md` for the day-by-day pace and the full
+submission checklist. This is a genuinely tight sprint — two real
+dashboards in 8 days — plan your time against the checklist closely,
+not just the deliverable list.
 
 ## Where to start
 
-Go to `README.md`, then `GETTING_STARTED.md` for free Excel setup.
+Go to `README.md`, then `GETTING_STARTED.md` for free Excel *and*
+Tableau Public setup.

@@ -1,0 +1,1100 @@
+encounter_id,start_time,stop_time,facility_id,encounter_class,description,total_claim_cost,wait_minutes,attended,no_show
+7b080a9f-348b-1951-5396-1dd95558b849,1931-09-03 21:04:17,1931-09-03 21:19:17,fbf6180e-b800-3ebe-b91d-93d0288c400e,ambulatory,Hypertension follow-up encounter,77.49,15.8,True,False
+dff90e22-3769-e9e7-b301-fea61eed9e6a,1937-07-08 18:34:00,1937-07-08 18:49:00,e002090d-4e92-300e-b41e-7d1f21dee4c6,ambulatory,Encounter for symptom,77.49,27.6,True,False
+2a3aeddd-2b8d-24a4-8409-6f27d835e7bb,1937-09-07 21:04:17,1937-09-07 21:19:17,c1c0c43e-ca87-3ee5-9549-be3f28afde81,wellness,General examination of patient (procedure),1074.87,13.4,True,False
+5ee5f3de-2df1-1f4e-9679-4c0cc62dcda7,1940-04-16 11:58:49,1940-04-16 12:13:49,db0acede-4abe-3c01-8d03-5c68a190d8c7,ambulatory,Prenatal visit,17583.08,27.2,True,False
+NOSHOW-900028,1940-04-16 11:58:49,,db0acede-4abe-3c01-8d03-5c68a190d8c7,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+e82e7937-8d71-0357-a021-a780859f913e,1941-06-03 11:29:38,1941-06-03 11:44:38,37eb7694-de8f-3407-b95f-1a6a31fb0f6a,wellness,General examination of patient (procedure),645.81,8.0,True,False
+e5052b52-d4a7-0125-baf9-6d0f8c40c1d9,1941-09-15 19:51:58,1941-09-15 20:06:58,8ad64ecf-c817-3753-bee7-006a8e662e06,ambulatory,Prenatal visit,17331.42,20.4,True,False
+NOSHOW-900123,1946-04-29 01:34:00,,be4c63f3-8d38-3fa9-a183-62045b5c85f6,wellness,Scheduled appointment -- no-show (synthetic),,,False,True
+4e8cbef2-7798-73c3-044b-208bdf8fb300,1946-04-29 01:34:00,1946-04-29 01:49:00,be4c63f3-8d38-3fa9-a183-62045b5c85f6,wellness,General examination of patient (procedure),786.33,9.7,True,False
+e66c7cee-afac-99e8-1c00-7c64dd21dd40,1947-06-11 07:51:58,1947-06-11 08:06:58,8ad64ecf-c817-3753-bee7-006a8e662e06,ambulatory,Encounter for symptom,77.49,18.1,True,False
+b82b6291-a3be-12ce-0eae-15e90c145411,1947-12-02 13:16:55,1947-12-02 13:31:55,db0acede-4abe-3c01-8d03-5c68a190d8c7,ambulatory,Encounter for symptom,5095.3,7.7,True,False
+NOSHOW-900003,1947-12-02 13:16:55,,db0acede-4abe-3c01-8d03-5c68a190d8c7,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+a14f4c80-dcc5-523a-f62a-d21e4c8707f7,1948-03-24 15:56:07,1948-03-24 16:11:07,d311e70d-86e7-3c03-b115-53892bcf7ef1,wellness,General examination of patient (procedure),1425.04,17.1,True,False
+9105a3a1-4d3a-9227-9645-9793f95e1d8e,1948-11-05 18:47:25,1948-11-05 19:02:25,ebc3f5c4-6700-34af-8323-85621c313726,ambulatory,Prenatal initial visit,16986.07,10.2,True,False
+042518f7-e608-788b-d557-1aff80359bff,1954-06-08 16:15:32,1954-06-08 16:30:32,3bd5eda0-16da-3ba5-8500-4dfd6ae118b8,ambulatory,Encounter for symptom,77.49,27.9,True,False
+NOSHOW-900103,1954-08-04 19:41:16,,3d10019f-c88e-3de5-9916-6107b9c0263d,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+b8a0b4f1-0607-725f-4abf-93db2540e6cc,1954-08-04 19:41:16,1954-08-04 19:56:16,3d10019f-c88e-3de5-9916-6107b9c0263d,ambulatory,Encounter for symptom,77.49,8.8,True,False
+NOSHOW-900124,1955-07-04 01:34:00,,be4c63f3-8d38-3fa9-a183-62045b5c85f6,wellness,Scheduled appointment -- no-show (synthetic),,,False,True
+bfa42a0f-747d-4324-d4d9-275c00a952d0,1955-07-04 01:34:00,1955-07-04 01:49:00,be4c63f3-8d38-3fa9-a183-62045b5c85f6,wellness,General examination of patient (procedure),786.33,53.7,True,False
+f1ea88e6-6be0-309b-b45a-ee360279c2b9,1956-09-25 11:29:38,1956-09-25 11:44:38,37eb7694-de8f-3407-b95f-1a6a31fb0f6a,wellness,General examination of patient (procedure),1337.84,16.9,True,False
+33eb75eb-acf2-c4dc-be44-00faee4838e7,1957-06-25 21:04:17,1957-06-25 21:19:17,c1c0c43e-ca87-3ee5-9549-be3f28afde81,wellness,General examination of patient (procedure),786.33,13.9,True,False
+NOSHOW-900186,1958-03-29 08:46:25,,3bd5eda0-16da-3ba5-8500-4dfd6ae118b8,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+d20123c3-c164-fbd7-28e6-237c1a66c421,1958-03-29 08:46:25,1958-03-29 09:01:25,3bd5eda0-16da-3ba5-8500-4dfd6ae118b8,outpatient,Encounter for check up (procedure),77.49,13.5,True,False
+24d4bc0d-2514-2158-8e07-29015e3344db,1958-10-07 11:29:38,1958-10-07 11:44:38,37eb7694-de8f-3407-b95f-1a6a31fb0f6a,wellness,General examination of patient (procedure),1626.18,15.2,True,False
+324af473-ea7c-0aaf-37e6-af40e66b0461,1958-11-06 01:34:00,1958-11-06 01:49:00,e002090d-4e92-300e-b41e-7d1f21dee4c6,ambulatory,Encounter for problem,77.49,19.5,True,False
+c813e31d-0675-bb12-f461-1975b9272161,1960-07-29 01:34:00,1960-07-29 01:49:00,be4c63f3-8d38-3fa9-a183-62045b5c85f6,ambulatory,Follow-up encounter,77.49,17.8,True,False
+a57e2ad4-fdbc-2fc8-c332-d82603a964c7,1961-10-12 09:29:10,1961-10-12 09:44:10,b1ddf812-1fdd-3adf-b1d5-32cc8bd07ebb,outpatient,Encounter for check up (procedure),218.01,13.2,True,False
+7c181feb-af13-ca7d-66e6-3cd30728053c,1962-04-11 17:49:52,1962-04-11 18:04:52,ecc51621-0af3-3b35-ac3e-8b1e34022e92,ambulatory,Encounter for problem,77.49,27.3,True,False
+NOSHOW-900067,1962-04-11 17:49:52,,ecc51621-0af3-3b35-ac3e-8b1e34022e92,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+b7f95a94-48b4-418d-d3ed-2d01e75a15ec,1963-03-19 15:24:54,1963-03-19 15:39:54,d311e70d-86e7-3c03-b115-53892bcf7ef1,wellness,General examination of patient (procedure),786.33,22.0,True,False
+NOSHOW-900127,1963-08-19 01:34:00,,be4c63f3-8d38-3fa9-a183-62045b5c85f6,wellness,Scheduled appointment -- no-show (synthetic),,,False,True
+7c63a847-1149-57f8-fbbd-921446468ae8,1963-08-19 01:34:00,1963-08-19 01:49:00,be4c63f3-8d38-3fa9-a183-62045b5c85f6,wellness,General examination of patient (procedure),786.33,7.1,True,False
+7456b566-f6e9-0151-0689-dc28199374cb,1964-09-15 20:45:19,1964-09-15 21:00:19,6f122869-a856-3d65-8db9-099bf4f5bbb8,outpatient,Encounter for check up (procedure),77.49,24.9,True,False
+9a9ade78-2eff-055d-d0cc-92292c2bec14,1965-03-09 18:07:04,1965-03-09 18:22:04,4861d01f-019c-3dac-a153-8334e50919f9,ambulatory,Encounter for symptom,77.49,26.7,True,False
+NOSHOW-900023,1965-03-18 21:04:17,,c1c0c43e-ca87-3ee5-9549-be3f28afde81,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+84663b5f-542c-b841-5fc6-eab24abbbcfd,1965-03-18 21:04:17,1965-03-18 21:19:17,c1c0c43e-ca87-3ee5-9549-be3f28afde81,ambulatory,Follow-up encounter,77.49,7.2,True,False
+827b41c8-7f88-ca6b-2b4a-97cd6d8bcda2,1966-05-16 01:34:00,1966-05-16 01:49:00,be4c63f3-8d38-3fa9-a183-62045b5c85f6,outpatient,Encounter for check up (procedure),77.49,10.0,True,False
+e6333ef9-2a11-950d-5f7b-a37f4ca42087,1967-01-26 06:50:47,1967-01-26 07:50:47,5e765f2b-e908-3888-9fc7-df2cb87beb58,emergency,Obstetric emergency hospital admission,2486.88,139.4,True,False
+3b8aeed0-6e2c-5061-081a-6d876e665c00,1967-06-13 11:29:38,1967-06-13 11:44:38,37eb7694-de8f-3407-b95f-1a6a31fb0f6a,wellness,General examination of patient (procedure),1309.52,10.8,True,False
+15beec2c-2266-adf4-bda1-ee855397ad99,1968-04-29 01:34:00,1968-04-29 01:49:00,be4c63f3-8d38-3fa9-a183-62045b5c85f6,outpatient,Encounter for check up (procedure),77.49,25.1,True,False
+bf1a80b1-1d37-c21f-2e2f-dec63eae863e,1968-10-29 20:45:19,1968-10-29 21:00:19,6f122869-a856-3d65-8db9-099bf4f5bbb8,outpatient,Encounter for check up (procedure),77.49,44.8,True,False
+NOSHOW-900177,1968-10-29 20:45:19,,6f122869-a856-3d65-8db9-099bf4f5bbb8,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+a28e3298-6193-1151-6afb-d7bec7e1538b,1969-02-22 19:39:29,1969-02-22 19:54:29,465de31f-3098-365c-af70-48a071e1f5aa,ambulatory,Encounter for symptom,77.49,22.6,True,False
+7c057b69-f283-f8ac-9353-ebd9c8ca74d5,1969-04-22 15:24:54,1969-04-22 15:39:54,d311e70d-86e7-3c03-b115-53892bcf7ef1,wellness,General examination of patient (procedure),1669.08,14.1,True,False
+NOSHOW-900125,1969-07-23 15:56:07,,d311e70d-86e7-3c03-b115-53892bcf7ef1,wellness,Scheduled appointment -- no-show (synthetic),,,False,True
+fff9afcc-becb-25e5-fe65-5bdf79664714,1969-07-23 15:56:07,1969-07-23 16:11:07,d311e70d-86e7-3c03-b115-53892bcf7ef1,wellness,General examination of patient (procedure),786.33,7.7,True,False
+NOSHOW-900129,1969-07-23 15:56:07,,d311e70d-86e7-3c03-b115-53892bcf7ef1,wellness,Scheduled appointment -- no-show (synthetic),,,False,True
+1b95ac7e-40e6-e44a-b18b-356e8e18544a,1969-08-25 01:34:00,1969-08-25 01:49:00,be4c63f3-8d38-3fa9-a183-62045b5c85f6,outpatient,Encounter for check up (procedure),218.01,8.6,True,False
+8b49aa80-4b45-cc68-4f51-5b3fb5c43906,1969-11-18 22:24:51,1969-11-18 22:39:51,3d10019f-c88e-3de5-9916-6107b9c0263d,ambulatory,Encounter for problem,594.14,21.3,True,False
+32187023-896d-d249-df5a-fff15534907a,1970-07-03 08:03:07,1970-07-03 08:18:07,db0acede-4abe-3c01-8d03-5c68a190d8c7,outpatient,Encounter for check up (procedure),218.01,34.1,True,False
+d51206b9-c5a3-905a-77a1-3a16cf5ac05e,1970-07-09 13:07:04,1970-07-09 13:22:04,4861d01f-019c-3dac-a153-8334e50919f9,ambulatory,Encounter for problem,77.49,23.8,True,False
+f5219ba8-089c-2217-d4f2-baf478a98705,1970-09-18 20:21:02,1970-09-18 20:36:02,23834663-ed53-3da9-b330-d6e1ecb8428e,outpatient,Encounter for check up (procedure),77.49,43.7,True,False
+6f5e9ec7-eb75-2647-bb17-345a2738c8fa,1970-10-06 15:03:18,1970-10-06 15:18:18,226098a2-6a40-3588-b5bb-db56c3a30a04,ambulatory,Follow-up encounter,77.49,19.9,True,False
+892ba5f3-c044-0a97-5fd7-1de700bae5eb,1971-08-20 15:24:54,1971-08-20 15:39:54,f71ce1a9-cca7-3295-9a1e-c88ac3479b6f,ambulatory,Encounter for symptom,77.49,31.4,True,False
+e63a1125-f210-a664-f5d7-52044403200e,1971-11-04 09:49:06,1971-11-04 10:23:23,3bd5eda0-16da-3ba5-8500-4dfd6ae118b8,ambulatory,Encounter for 'check-up',13911.68,44.2,True,False
+49fa23e7-04b6-c6d0-d2bb-217e9817ff2b,1972-01-10 01:34:00,1972-01-10 01:49:00,be4c63f3-8d38-3fa9-a183-62045b5c85f6,outpatient,Encounter for check up (procedure),77.49,17.3,True,False
+843772ff-3acc-76b3-427e-2e74d8ae5631,1972-03-21 21:04:17,1972-03-21 21:19:17,c1c0c43e-ca87-3ee5-9549-be3f28afde81,wellness,General examination of patient (procedure),786.33,19.0,True,False
+b0a99fc7-17ab-4372-8db6-51a03916abc4,1972-08-07 05:23:50,1972-08-07 05:38:50,3d10019f-c88e-3de5-9916-6107b9c0263d,outpatient,Encounter for check up (procedure),1201.62,12.8,True,False
+e419edc0-9b32-f341-042d-9b17a9f4d58b,1972-12-07 15:03:18,1972-12-07 16:03:18,c44f361c-2efb-3050-8f97-0354a12e2920,emergency,Cardiac Arrest,53265.83,331.5,True,False
+cb2718ad-f321-fa52-2111-18acabfca845,1973-02-19 00:36:53,1973-02-19 00:51:53,4861d01f-019c-3dac-a153-8334e50919f9,outpatient,Consultation for treatment,129.16,10.4,True,False
+637ed834-5ef9-9390-8fd4-28b03487849d,1973-08-21 02:42:58,1973-08-21 02:57:58,5e765f2b-e908-3888-9fc7-df2cb87beb58,ambulatory,Asthma follow-up,129.16,10.0,True,False
+2bc8f164-bd53-e537-0a5c-0d8865f94625,1973-10-02 23:58:05,1973-10-03 00:13:05,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Encounter for 'check-up',77.49,77.3,True,False
+dd1f5b7d-e518-5b78-b8ce-2d4187bc2602,1973-10-15 01:34:00,1973-10-15 01:49:00,be4c63f3-8d38-3fa9-a183-62045b5c85f6,wellness,General examination of patient (procedure),645.81,27.2,True,False
+dd8ea0f2-5826-edc0-b26b-29762120ae74,1973-10-21 21:29:33,1973-10-21 21:44:33,fbf6180e-b800-3ebe-b91d-93d0288c400e,ambulatory,Hypertension follow-up encounter,77.49,18.9,True,False
+c15df053-59da-4ce1-f159-c7c3c7bb3cc9,1974-03-27 09:54:43,1974-03-27 10:09:43,e002090d-4e92-300e-b41e-7d1f21dee4c6,outpatient,Encounter for check up (procedure),218.01,26.0,True,False
+8d1575ac-e6f1-fd9b-4fa9-d774a1bcf9b5,1974-05-26 14:29:38,1974-05-26 14:44:38,37eb7694-de8f-3407-b95f-1a6a31fb0f6a,ambulatory,Encounter for symptom,77.49,6.4,True,False
+112c38c0-f1fb-6400-d522-20afd1223556,1974-11-03 19:51:58,1974-11-03 20:06:58,8ad64ecf-c817-3753-bee7-006a8e662e06,ambulatory,Follow-up encounter,77.49,24.1,True,False
+14b2a9d7-57d4-d32e-063d-9e463606538b,1974-12-28 07:16:07,1974-12-28 07:31:07,ef6ab57c-ed94-3dbe-9861-812d515918b3,outpatient,Encounter for check up (procedure),218.01,28.2,True,False
+c3b98e47-3273-a095-9d87-426a2fa10a12,1975-01-09 01:34:00,1975-01-09 01:49:00,be4c63f3-8d38-3fa9-a183-62045b5c85f6,ambulatory,Follow-up encounter,77.49,16.5,True,False
+3462e674-a156-f912-02b9-0c32bdc62d32,1975-05-28 18:44:36,1975-05-28 18:59:36,4861d01f-019c-3dac-a153-8334e50919f9,ambulatory,Prenatal initial visit,61623.19,7.8,True,False
+19c4a62c-b299-be74-88be-ec33a188fb39,1975-07-06 17:45:15,1975-07-07 17:45:15,8ad64ecf-c817-3753-bee7-006a8e662e06,inpatient,Encounter for problem,13863.38,,True,False
+b6c8ff2a-3322-b1ca-782d-1e23e2e74d16,1975-08-12 11:29:38,1975-08-12 11:44:38,37eb7694-de8f-3407-b95f-1a6a31fb0f6a,outpatient,Encounter for check up (procedure),77.49,25.9,True,False
+NOSHOW-900099,1975-09-08 08:25:47,,d5117822-5756-389d-9547-891a372d580f,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+64ff0007-e801-ee5c-bb5a-889cfc23ecaa,1975-09-08 08:25:47,1975-09-08 08:40:47,d5117822-5756-389d-9547-891a372d580f,ambulatory,Encounter for symptom,77.49,18.3,True,False
+a50aa352-8c40-be17-30f2-baa734c00734,1976-02-06 08:37:15,1976-02-07 08:37:15,8ad64ecf-c817-3753-bee7-006a8e662e06,inpatient,Encounter for problem,15762.04,,True,False
+NOSHOW-900170,1976-04-20 20:45:19,,6f122869-a856-3d65-8db9-099bf4f5bbb8,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+cfe97f51-fe75-5eb1-e3d7-c451d605ab54,1976-04-20 20:45:19,1976-04-20 21:00:19,6f122869-a856-3d65-8db9-099bf4f5bbb8,outpatient,Encounter for check up (procedure),77.49,42.3,True,False
+3fec0743-2cd7-aa30-c7b6-4ed582e6771d,1976-10-24 16:47:25,1976-10-24 17:02:25,ebc3f5c4-6700-34af-8323-85621c313726,ambulatory,Encounter for symptom,77.49,22.3,True,False
+d676f274-340f-0845-f15e-9c2cd424dfd7,1976-11-02 19:51:58,1976-11-02 20:06:58,8ad64ecf-c817-3753-bee7-006a8e662e06,ambulatory,Follow-up encounter,77.49,16.2,True,False
+aedc530c-8d3f-26d1-dc43-84be4f208ee4,1977-01-18 13:15:15,1977-01-19 13:15:15,8ad64ecf-c817-3753-bee7-006a8e662e06,inpatient,Encounter for problem,14091.96,,True,False
+7133fcef-6d1c-426d-b04a-6a54123dada0,1977-01-19 18:44:36,1977-01-19 18:59:36,4861d01f-019c-3dac-a153-8334e50919f9,ambulatory,Prenatal initial visit,17882.69,6.6,True,False
+6f1e2a65-62e5-eed8-18f9-5729b231ec15,1977-09-06 21:04:17,1977-09-06 21:19:17,c1c0c43e-ca87-3ee5-9549-be3f28afde81,outpatient,Encounter for check up (procedure),77.49,41.9,True,False
+fa09e13a-fb57-dcab-7918-26f86e28ca2d,1977-11-02 19:51:58,1977-11-02 20:06:58,8ad64ecf-c817-3753-bee7-006a8e662e06,ambulatory,Follow-up encounter,77.49,21.6,True,False
+79327727-2dd2-3139-0ee9-ae8dd55ecb17,1978-08-07 01:34:00,1978-08-07 01:49:00,be4c63f3-8d38-3fa9-a183-62045b5c85f6,outpatient,Encounter for check up (procedure),77.49,14.1,True,False
+NOSHOW-900193,1978-12-01 20:21:02,,0b78995f-8b45-34d3-969d-afcc456bb1c7,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+a43461a6-14c5-a0b4-3917-943d4326514f,1978-12-01 20:21:02,1978-12-01 20:36:02,0b78995f-8b45-34d3-969d-afcc456bb1c7,outpatient,Encounter for check up (procedure),77.49,15.3,True,False
+6753b3c9-303f-6241-53e4-0b0522d553fe,1978-12-19 11:29:38,1978-12-19 11:44:38,37eb7694-de8f-3407-b95f-1a6a31fb0f6a,outpatient,Encounter for check up (procedure),77.49,24.6,True,False
+NOSHOW-900167,1978-12-19 11:29:38,,37eb7694-de8f-3407-b95f-1a6a31fb0f6a,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+e6bf4c0b-61d7-4ceb-4f26-62a3d76a81ae,1979-01-30 21:04:17,1979-01-30 21:19:17,c1c0c43e-ca87-3ee5-9549-be3f28afde81,outpatient,Encounter for check up (procedure),1666.38,18.1,True,False
+dce7a5de-1528-7f1f-548f-75c176bcf5b9,1979-08-29 07:22:49,1979-08-29 07:37:49,c1c0c43e-ca87-3ee5-9549-be3f28afde81,outpatient,Encounter for check up (procedure),77.49,6.5,True,False
+bd636b0a-04a9-91de-67f1-7761f6ea905a,1980-02-13 15:56:07,1980-02-13 16:11:07,d311e70d-86e7-3c03-b115-53892bcf7ef1,wellness,Death Certification,0.0,11.5,True,False
+063cf683-c503-1814-155b-52e16668f47c,1980-02-24 10:27:15,1980-02-25 10:27:15,8ad64ecf-c817-3753-bee7-006a8e662e06,inpatient,Encounter for problem,13921.07,,True,False
+b0b5f05d-8706-a600-0a55-13e0920325d0,1980-02-29 07:28:32,1980-03-01 07:28:32,8ad64ecf-c817-3753-bee7-006a8e662e06,inpatient,Gynecology service (qualifier value),3682.85,,True,False
+787aa2a9-ad63-f3d7-68c4-73f9f7701e12,1980-11-10 20:43:51,1980-11-10 20:58:51,d311e70d-86e7-3c03-b115-53892bcf7ef1,wellness,General examination of patient (procedure),2366.17,21.3,True,False
+08c06f55-28c5-4d31-8b8f-014a0b19f881,1980-12-24 07:22:49,1980-12-24 07:37:49,c1c0c43e-ca87-3ee5-9549-be3f28afde81,outpatient,Encounter for check up (procedure),77.49,15.5,True,False
+96a44b0c-8224-9d06-5b5b-8655fbc83272,1981-04-28 21:04:17,1981-04-28 21:19:17,c1c0c43e-ca87-3ee5-9549-be3f28afde81,outpatient,Encounter for check up (procedure),1732.23,39.6,True,False
+8b29ccc4-1bf3-80c3-8528-e022f7baea9c,1981-05-15 05:40:25,1981-05-15 05:55:25,c44f361c-2efb-3050-8f97-0354a12e2920,outpatient,Consultation for treatment,129.16,13.1,True,False
+76b677c6-c126-f9bf-7f1b-3ec486a5b80b,1982-01-26 11:29:38,1982-01-26 11:44:38,37eb7694-de8f-3407-b95f-1a6a31fb0f6a,outpatient,Encounter for check up (procedure),77.49,6.3,True,False
+dcfafa36-89c2-940e-5a9f-13a99cdf265c,1982-02-13 15:56:07,1982-02-13 16:11:07,24cb4eab-6166-3530-bddc-a5a8a14a4fc1,ambulatory,Follow-up encounter,77.49,29.7,True,False
+8159e4d7-83e9-a4d3-0f17-1bac66fff5a3,1982-02-16 11:29:38,1982-02-16 11:44:38,37eb7694-de8f-3407-b95f-1a6a31fb0f6a,wellness,General examination of patient (procedure),1941.93,12.5,True,False
+d84d3134-74de-c007-e4e8-6aeeb669c1f6,1982-07-24 01:34:00,1982-07-24 01:49:00,be4c63f3-8d38-3fa9-a183-62045b5c85f6,ambulatory,Follow-up encounter,77.49,31.6,True,False
+b93e4096-f004-0996-e3a4-f3e0c5f79539,1982-10-05 19:54:04,1982-10-05 20:09:04,fbf6180e-b800-3ebe-b91d-93d0288c400e,outpatient,Encounter for check up (procedure),218.01,13.4,True,False
+NOSHOW-900066,1983-02-09 21:10:45,,f1fbcbfb-fcfa-3bd2-b7f4-df20f1b3c3a4,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+02c8e7a5-2336-3545-2ea3-16e05f4276d1,1983-02-09 21:10:45,1983-02-09 21:25:45,f1fbcbfb-fcfa-3bd2-b7f4-df20f1b3c3a4,ambulatory,Domiciliary or rest home patient evaluation and management,209.0,22.7,True,False
+8e62b6ff-bd12-cfe2-13d1-ab2cf0fe0334,1983-07-24 01:34:00,1983-07-24 01:49:00,be4c63f3-8d38-3fa9-a183-62045b5c85f6,ambulatory,Follow-up encounter,77.49,47.4,True,False
+041d031c-fb0d-c81b-3eba-d8b1bdfd17cc,1983-12-09 20:21:02,1983-12-09 20:36:02,23834663-ed53-3da9-b330-d6e1ecb8428e,outpatient,Encounter for check up (procedure),77.49,12.4,True,False
+29e26cd5-2e6b-dba2-a562-1ff177ea9fa0,1984-02-15 20:56:07,1984-02-15 21:11:07,d311e70d-86e7-3c03-b115-53892bcf7ef1,ambulatory,Encounter for symptom,77.49,9.0,True,False
+NOSHOW-900082,1984-02-15 20:56:07,,d311e70d-86e7-3c03-b115-53892bcf7ef1,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+d6fa1471-36c5-c9f3-1f21-272dde2a589a,1984-04-26 16:22:35,1984-04-26 16:37:35,69176529-fd1f-3b3f-abce-a0a3626769eb,outpatient,Encounter for check up (procedure),218.01,16.8,True,False
+4c8b3eb6-6bd5-ed15-6166-df5346aa485d,1984-04-28 06:24:42,1984-04-28 06:39:42,b1ddf812-1fdd-3adf-b1d5-32cc8bd07ebb,ambulatory,Prenatal visit,8703.56,13.0,True,False
+8532036a-2039-619c-0eca-0a5a0a44be5b,1984-07-09 17:38:47,1984-07-10 17:38:47,d311e70d-86e7-3c03-b115-53892bcf7ef1,inpatient,Encounter for problem,19821.84,,True,False
+79ec1d9f-962d-200c-933a-faddee465c6b,1984-08-22 22:16:35,1984-08-22 22:31:35,226098a2-6a40-3588-b5bb-db56c3a30a04,ambulatory,Prenatal visit,13205.43,14.8,True,False
+67508a25-f6d3-5d2a-7e97-040db3271af2,1984-08-29 17:51:10,1984-08-29 18:06:10,4861d01f-019c-3dac-a153-8334e50919f9,ambulatory,Encounter for symptom,77.49,18.7,True,False
+4123460c-ea96-5143-7c12-1e8af18da03a,1984-12-09 01:45:20,1984-12-09 02:00:20,3d10019f-c88e-3de5-9916-6107b9c0263d,ambulatory,Prenatal visit,10035.44,42.6,True,False
+e995ad36-1068-11b0-1a9e-7535da516708,1985-07-02 00:36:30,1985-07-02 00:51:30,f4e7709c-02f6-37ca-aeea-8247d74e88e7,outpatient,Encounter for check up (procedure),77.49,32.9,True,False
+4fb34af9-fcb8-f17d-6311-da55566f6f7b,1985-08-06 11:58:49,1985-08-06 12:13:49,12c9daf5-a29c-36c9-ac55-28972463e566,outpatient,Encounter for check up (procedure),77.49,58.0,True,False
+df4d4ed6-fd62-db88-bc8b-552f8a0afa00,1986-05-27 22:47:25,1986-05-27 23:02:25,ebc3f5c4-6700-34af-8323-85621c313726,ambulatory,Encounter for symptom,2678.97,50.1,True,False
+dcb94912-f715-eb71-4551-1d57616ba63b,1986-06-09 20:10:47,1986-06-10 20:10:47,d311e70d-86e7-3c03-b115-53892bcf7ef1,inpatient,Encounter for problem,16907.31,,True,False
+5c897bd9-dc66-a3b4-7f57-3c48b8eb125d,1986-07-13 13:45:48,1986-07-13 14:00:48,fbf6180e-b800-3ebe-b91d-93d0288c400e,ambulatory,Prenatal visit,15903.71,27.7,True,False
+d041ea35-3e4f-58a7-546b-116a4f084fe2,1986-08-10 13:45:48,1986-08-10 14:00:48,fbf6180e-b800-3ebe-b91d-93d0288c400e,ambulatory,Prenatal visit,14111.55,14.6,True,False
+85b905a6-c144-2b0d-c4e1-5ddaad50365d,1986-08-30 11:58:49,1986-08-30 12:13:49,12c9daf5-a29c-36c9-ac55-28972463e566,ambulatory,Follow-up encounter,77.49,13.0,True,False
+8fe04793-4c67-225f-182c-3e01a8a7a0a5,1986-10-27 01:34:00,1986-10-27 01:49:00,be4c63f3-8d38-3fa9-a183-62045b5c85f6,outpatient,Encounter for check up (procedure),218.01,16.3,True,False
+e3d04b9a-7ce9-9c32-b210-d91fa4f0fc92,1986-11-30 13:45:48,1986-11-30 14:00:48,fbf6180e-b800-3ebe-b91d-93d0288c400e,ambulatory,Prenatal visit,14510.11,9.5,True,False
+0289e5ea-7e28-2d94-31d0-2ad7d8bfdcd1,1987-02-04 02:32:43,1987-02-04 02:47:43,e002090d-4e92-300e-b41e-7d1f21dee4c6,ambulatory,Hypertension follow-up encounter,77.49,31.6,True,False
+70f04f3e-5fa6-6bdc-fde9-444243cf8ba1,1987-02-20 19:51:58,1987-02-20 20:06:58,5e765f2b-e908-3888-9fc7-df2cb87beb58,ambulatory,Follow-up encounter,77.49,23.7,True,False
+NOSHOW-900126,1987-03-25 15:56:07,,d311e70d-86e7-3c03-b115-53892bcf7ef1,wellness,Scheduled appointment -- no-show (synthetic),,,False,True
+9c867f5c-4d71-78fc-36c1-4178d8bb073d,1987-03-25 15:56:07,1987-03-25 16:11:07,d311e70d-86e7-3c03-b115-53892bcf7ef1,wellness,Death Certification,0.0,23.5,True,False
+fa953bec-8dc3-0381-9297-e1f4b6333924,1987-04-06 08:03:13,1987-04-06 08:18:13,37eb7694-de8f-3407-b95f-1a6a31fb0f6a,ambulatory,Encounter for problem,77.49,12.6,True,False
+5832f8ab-7ea0-1d33-a271-a6e83dfe86c6,1987-10-31 19:51:58,1987-10-31 20:06:58,8ad64ecf-c817-3753-bee7-006a8e662e06,ambulatory,Follow-up encounter,77.49,20.5,True,False
+d1273e9a-f6ef-42e5-8afc-6533e5253967,1987-11-29 09:29:10,1987-11-29 09:44:10,b1ddf812-1fdd-3adf-b1d5-32cc8bd07ebb,ambulatory,Follow-up encounter,77.49,29.0,True,False
+f4c84c87-2f5a-6f1e-a1f5-6aa7f7b1c536,1988-03-22 04:06:42,1988-03-22 04:21:42,b0e04623-b02c-3f8b-92ea-943fc4db60da,outpatient,Encounter for check up (procedure),77.49,36.7,True,False
+NOSHOW-900183,1988-03-22 04:06:42,,b0e04623-b02c-3f8b-92ea-943fc4db60da,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+NOSHOW-900190,1988-03-22 04:06:42,,b0e04623-b02c-3f8b-92ea-943fc4db60da,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+9c62cf5d-aad3-53d9-35cd-9b544176bdab,1988-04-18 01:34:00,1988-04-18 01:49:00,be4c63f3-8d38-3fa9-a183-62045b5c85f6,outpatient,Encounter for check up (procedure),77.49,14.2,True,False
+6d3af60b-e0d4-cae7-5435-1fd6ff6f50a0,1988-05-06 20:21:02,1988-05-06 20:36:02,0b78995f-8b45-34d3-969d-afcc456bb1c7,outpatient,Encounter for check up (procedure),218.01,24.2,True,False
+bea3aabd-64ff-5daa-566e-e553fba79891,1988-08-19 20:21:02,1988-08-19 20:36:02,23834663-ed53-3da9-b330-d6e1ecb8428e,outpatient,Encounter for check up (procedure),77.49,39.5,True,False
+NOSHOW-900133,1988-08-19 20:21:02,,23834663-ed53-3da9-b330-d6e1ecb8428e,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+f04cdd7a-de1f-6546-542c-71b43621babe,1988-08-26 19:41:26,1988-08-26 19:56:26,ecc51621-0af3-3b35-ac3e-8b1e34022e92,ambulatory,Follow-up encounter,77.49,14.0,True,False
+169f101e-9845-72e2-74bc-32fd72127323,1988-10-14 20:21:02,1988-10-14 20:36:02,0b78995f-8b45-34d3-969d-afcc456bb1c7,outpatient,Encounter for check up (procedure),77.49,14.4,True,False
+cda549e6-8f27-bf0e-eae6-2527e6bbf1fd,1988-11-01 21:04:17,1988-11-01 21:19:17,c1c0c43e-ca87-3ee5-9549-be3f28afde81,wellness,General examination of patient (procedure),3142.11,13.8,True,False
+9552aa09-5b1a-05ef-53dc-9ca08e59229e,1989-01-10 11:58:49,1989-01-10 12:13:49,12c9daf5-a29c-36c9-ac55-28972463e566,outpatient,Encounter for check up (procedure),218.01,34.4,True,False
+f43e006a-392d-551e-9e8c-aabe7c8704ea,1989-03-26 13:45:48,1989-03-26 14:48:41,fbf6180e-b800-3ebe-b91d-93d0288c400e,outpatient,Patient encounter procedure,8161.47,20.3,True,False
+c6c73092-6a8a-758e-f0d4-43fad3730a9b,1989-10-19 10:04:43,1989-10-19 10:19:43,8ad64ecf-c817-3753-bee7-006a8e662e06,ambulatory,Follow-up encounter,77.49,21.1,True,False
+beb90ba3-ebbe-d009-08e9-464c69d543cc,1989-11-28 09:29:10,1989-11-28 09:44:10,b1ddf812-1fdd-3adf-b1d5-32cc8bd07ebb,ambulatory,Follow-up encounter,77.49,10.7,True,False
+6985ed28-5c0c-7d22-0898-a31375f3e27f,1989-12-23 05:20:04,1989-12-23 05:35:04,b0e04623-b02c-3f8b-92ea-943fc4db60da,ambulatory,Follow-up encounter,77.49,27.5,True,False
+NOSHOW-900112,1989-12-23 05:20:04,,b0e04623-b02c-3f8b-92ea-943fc4db60da,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+b0405c74-b533-908b-1b0e-c4e92d110978,1990-01-21 03:21:54,1990-01-21 03:36:54,226098a2-6a40-3588-b5bb-db56c3a30a04,ambulatory,Prenatal visit,12587.68,17.4,True,False
+da1e80b4-dbba-62b4-7fc8-514db3de1dbe,1990-01-24 15:11:53,1990-01-24 15:26:53,ef58ea08-d883-3957-8300-150554edc8fb,outpatient,Encounter for check up (procedure),218.01,11.4,True,False
+98d81f6f-f6d6-7ca4-1a96-b9dceb605583,1990-04-10 03:13:14,1990-04-11 03:13:14,7fb56531-86bd-3e4a-8619-4df9942da309,inpatient,Encounter Inpatient,77.49,,True,False
+044b88aa-5038-5407-4257-d64dc8f62421,1990-05-19 22:34:40,1990-05-19 22:49:40,d692e283-0833-3201-8e55-4f868a9c0736,ambulatory,Follow-up encounter,77.49,17.6,True,False
+57687a4b-9860-990f-47ab-cf98a9a0fa91,1990-05-31 19:51:30,1990-06-01 19:51:30,ef58ea08-d883-3957-8300-150554edc8fb,inpatient,Encounter Inpatient,77.49,,True,False
+e23cd079-33ac-b826-163f-fdb1125110b8,1990-08-21 15:24:54,1990-08-21 15:39:54,d311e70d-86e7-3c03-b115-53892bcf7ef1,wellness,General examination of patient (procedure),34837.17,6.1,True,False
+NOSHOW-900048,1990-11-21 21:03:55,,8ad64ecf-c817-3753-bee7-006a8e662e06,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+58c48223-ca38-79d1-0384-9b09df6a3485,1990-11-21 21:03:55,1990-11-21 21:18:55,8ad64ecf-c817-3753-bee7-006a8e662e06,ambulatory,Encounter for symptom,77.49,15.6,True,False
+32e171de-70ce-9b41-8860-49de70233332,1990-11-25 18:44:36,1990-11-26 18:44:36,4861d01f-019c-3dac-a153-8334e50919f9,inpatient,Encounter Inpatient,77.49,,True,False
+f4b4f925-2d5e-acb6-81f4-2153eb3b196c,1991-06-06 22:04:11,1991-06-06 22:54:20,0b78995f-8b45-34d3-969d-afcc456bb1c7,ambulatory,Outpatient procedure,13021.8,17.0,True,False
+d5a64e15-15f8-12e4-7f31-7a1215de89ca,1991-12-03 11:29:38,1991-12-03 11:44:38,37eb7694-de8f-3407-b95f-1a6a31fb0f6a,outpatient,Encounter for check up (procedure),77.49,19.9,True,False
+098abbd1-351c-1e03-8238-234cb841031a,1991-12-17 05:29:28,1991-12-18 05:29:28,226098a2-6a40-3588-b5bb-db56c3a30a04,inpatient,Encounter for problem,11204.54,,True,False
+5dd628bc-1bdf-aecf-1b71-1c50b5d4daab,1992-05-14 18:04:17,1992-05-14 18:19:17,c1c0c43e-ca87-3ee5-9549-be3f28afde81,ambulatory,Encounter for symptom,77.49,34.5,True,False
+cab81baa-3b75-926d-cdb5-d241c8cdc665,1992-07-16 20:40:54,1992-07-16 21:36:56,fbf6180e-b800-3ebe-b91d-93d0288c400e,ambulatory,Outpatient procedure,11565.02,12.6,True,False
+70f5802e-f756-7912-7b6f-4cd09dc537e3,1992-07-25 16:58:00,1992-07-25 17:58:00,f71ce1a9-cca7-3295-9a1e-c88ac3479b6f,emergency,Encounter for Problem,8396.04,457.9,True,False
+7fd7485e-e5a3-352f-f76a-79fe0e48662b,1993-03-23 08:14:45,1993-03-23 08:29:45,d5117822-5756-389d-9547-891a372d580f,outpatient,Encounter for check up (procedure),77.49,14.9,True,False
+e5c8072f-f991-35b9-210f-5d89ce75bb07,1993-05-10 23:41:21,1993-05-10 23:56:21,d692e283-0833-3201-8e55-4f868a9c0736,ambulatory,Encounter for symptom,1970.15,22.0,True,False
+5c94fa95-b0d8-f815-5c77-6e8c4d158419,1993-07-20 11:58:49,1993-07-20 12:13:49,12c9daf5-a29c-36c9-ac55-28972463e566,outpatient,Encounter for check up (procedure),77.49,17.0,True,False
+105296ea-c620-3f9f-ae5b-e8c887c7b735,1993-10-31 20:45:19,1993-10-31 21:00:19,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Follow-up encounter,77.49,29.2,True,False
+06588bb6-51e5-cae4-f1b2-68395bba28de,1993-12-28 11:58:49,1993-12-28 12:13:49,12c9daf5-a29c-36c9-ac55-28972463e566,outpatient,Encounter for check up (procedure),77.49,16.8,True,False
+c106a991-68af-6c28-99ef-f3e195bd6e2e,1994-04-19 11:29:38,1994-04-19 11:44:38,37eb7694-de8f-3407-b95f-1a6a31fb0f6a,outpatient,Encounter for check up (procedure),77.49,18.2,True,False
+3d40b8f2-ead7-3b82-f045-41b620a4abdd,1994-05-03 19:41:50,1994-05-03 19:56:50,f71ce1a9-cca7-3295-9a1e-c88ac3479b6f,ambulatory,Hypertension follow-up encounter,77.49,39.6,True,False
+02673528-a845-2d58-530f-2bb9ada92aed,1994-09-23 04:30:47,1994-09-23 04:45:47,49318f80-bd8b-3fc7-a096-ac43088b0c12,ambulatory,Follow-up encounter,77.49,18.6,True,False
+3eb1cee2-3e2e-bdb5-e478-bf7c2f87b647,1994-10-04 21:04:17,1994-10-04 21:19:17,c1c0c43e-ca87-3ee5-9549-be3f28afde81,outpatient,Encounter for check up (procedure),358.53,23.1,True,False
+a15e405c-3053-5dc1-697d-364268a79034,1994-10-04 21:10:45,1994-10-04 21:25:45,f1fbcbfb-fcfa-3bd2-b7f4-df20f1b3c3a4,outpatient,Encounter for check up (procedure),77.49,43.7,True,False
+efcb71d3-b7ba-908d-e3f8-5fa135d9222c,1994-12-02 20:21:02,1994-12-02 20:36:02,0b78995f-8b45-34d3-969d-afcc456bb1c7,outpatient,Encounter for check up (procedure),77.49,15.0,True,False
+90fb8d3c-c338-941a-c31c-78fcffe241af,1995-01-10 20:45:19,1995-01-10 21:00:19,6f122869-a856-3d65-8db9-099bf4f5bbb8,outpatient,Encounter for check up (procedure),218.01,34.0,True,False
+f408781e-503a-1d99-118e-9dbe2fbaef92,1995-04-10 01:34:00,1995-04-10 01:49:00,be4c63f3-8d38-3fa9-a183-62045b5c85f6,outpatient,Encounter for check up (procedure),30073.49,7.9,True,False
+6f41e2d2-97d8-137b-0d82-913d86e2a484,1995-06-28 18:44:36,1995-06-28 18:59:36,4861d01f-019c-3dac-a153-8334e50919f9,outpatient,Encounter for check up (procedure),77.49,13.3,True,False
+NOSHOW-900135,1995-06-28 18:44:36,,4861d01f-019c-3dac-a153-8334e50919f9,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+NOSHOW-900130,1995-06-28 18:44:36,,4861d01f-019c-3dac-a153-8334e50919f9,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+60f7215e-9fd4-9851-8c84-395ee4514773,1995-08-16 03:21:54,1995-08-16 03:36:54,226098a2-6a40-3588-b5bb-db56c3a30a04,ambulatory,Encounter for symptom,265.93,26.2,True,False
+cbabebb1-395e-2d1d-a1da-02aefd87e169,1995-09-28 21:45:21,1995-09-28 23:46:34,f4e7709c-02f6-37ca-aeea-8247d74e88e7,emergency,Emergency Room Admission,8456.33,470.7,True,False
+fc49f65e-f2e3-217b-6b2f-eee06debc761,1995-10-11 18:44:36,1995-10-11 18:59:36,4861d01f-019c-3dac-a153-8334e50919f9,outpatient,Encounter for problem (procedure),77.49,15.7,True,False
+f87521d7-95ab-a679-7f42-e22c99b78135,1996-02-25 19:22:08,1996-02-25 20:22:08,69176529-fd1f-3b3f-abce-a0a3626769eb,emergency,Emergency Room Admission,129.16,370.7,True,False
+NOSHOW-900144,1996-02-28 07:22:49,,c1c0c43e-ca87-3ee5-9549-be3f28afde81,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+c032717d-cec7-74ee-cf1f-81a0c48e7c85,1996-02-28 07:22:49,1996-02-28 07:37:49,c1c0c43e-ca87-3ee5-9549-be3f28afde81,outpatient,Encounter for check up (procedure),77.49,17.1,True,False
+dcb2f140-f903-7e4a-a1a0-1ea8014923fa,1996-03-20 03:57:20,1996-03-20 04:12:20,ef6ab57c-ed94-3dbe-9861-812d515918b3,outpatient,Encounter for check up (procedure),77.49,8.9,True,False
+db93008d-d80d-757b-7105-b128fbba8b1e,1996-08-31 13:29:25,1996-08-31 14:29:25,12c9daf5-a29c-36c9-ac55-28972463e566,emergency,Emergency room admission (procedure),1162.46,211.0,True,False
+420ce3ea-1749-e019-7b4c-40a0a622307e,1997-01-28 15:56:07,1997-01-28 16:11:07,24cb4eab-6166-3530-bddc-a5a8a14a4fc1,ambulatory,Follow-up encounter,77.49,11.5,True,False
+091fe917-e839-dae5-7144-24877de062d8,1997-06-23 20:45:19,1997-06-23 21:00:19,6f122869-a856-3d65-8db9-099bf4f5bbb8,outpatient,Encounter for problem (procedure),77.49,35.2,True,False
+b84367cf-e9c8-286c-a45d-04be458eaccb,1997-07-08 00:20:18,1997-07-08 00:35:18,69176529-fd1f-3b3f-abce-a0a3626769eb,ambulatory,Hypertension follow-up encounter,77.49,23.6,True,False
+8a60de85-d042-b088-5cf4-9e103d8cf607,1997-09-18 15:12:35,1997-09-18 15:27:35,12c9daf5-a29c-36c9-ac55-28972463e566,ambulatory,Prenatal visit,13121.69,50.8,True,False
+NOSHOW-900088,1997-10-13 06:41:21,,d692e283-0833-3201-8e55-4f868a9c0736,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+cb9bec14-02fc-0468-1fc1-7c4cdf019906,1997-10-13 06:41:21,1997-10-13 06:56:21,d692e283-0833-3201-8e55-4f868a9c0736,ambulatory,Encounter for symptom,77.49,27.3,True,False
+c77dbb49-7820-5500-f922-a74b7c39175d,1997-10-31 20:21:02,1997-10-31 20:36:02,23834663-ed53-3da9-b330-d6e1ecb8428e,outpatient,Encounter for check up (procedure),77.49,36.7,True,False
+cba7da8a-f095-9dac-6849-5512286ad0e4,1997-12-27 20:15:56,1997-12-27 20:52:07,24cb4eab-6166-3530-bddc-a5a8a14a4fc1,ambulatory,Encounter for problem,594.14,21.4,True,False
+ad7fe3c5-aff2-77fd-c5d8-3a69f8daa9eb,1998-01-02 20:21:02,1998-01-02 20:36:02,23834663-ed53-3da9-b330-d6e1ecb8428e,outpatient,Encounter for check up (procedure),77.49,31.4,True,False
+7cb24071-e17c-740e-42ce-9642be0fcc8a,1998-02-26 15:31:31,1998-02-26 15:46:31,d311e70d-86e7-3c03-b115-53892bcf7ef1,wellness,General examination of patient (procedure),786.33,4.7,True,False
+401915e4-e6e1-a8c3-09a9-8b8a7b9265c8,1998-08-24 19:41:26,1998-08-24 19:56:26,ecc51621-0af3-3b35-ac3e-8b1e34022e92,ambulatory,Follow-up encounter,77.49,38.8,True,False
+85d16e40-bad5-11b3-24ac-337fadeae1d0,1998-08-29 03:53:39,1998-08-29 04:34:02,226098a2-6a40-3588-b5bb-db56c3a30a04,ambulatory,Encounter for 'check-up',16282.0,22.3,True,False
+ee68e3ac-ac0b-0a0c-35e4-46b386761ae2,1998-08-31 01:34:00,1998-08-31 01:49:00,be4c63f3-8d38-3fa9-a183-62045b5c85f6,outpatient,Encounter for check up (procedure),10567.4,10.7,True,False
+NOSHOW-900037,1998-08-31 10:30:41,,37c0de84-bcaf-3624-82bf-a89b2ac441b8,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+b6a6911b-319a-b6fe-3202-e7532f62d1b4,1998-08-31 10:30:41,1998-08-31 10:45:41,37c0de84-bcaf-3624-82bf-a89b2ac441b8,ambulatory,Hypertension follow-up encounter,77.49,20.3,True,False
+00f2f74c-a522-af1f-0c5f-f2b99d554437,1998-11-22 21:45:21,1998-11-22 22:00:21,f4e7709c-02f6-37ca-aeea-8247d74e88e7,ambulatory,Encounter for symptom,77.49,19.2,True,False
+90bebf85-2b84-cb1d-5fb3-76b65bbb7d0c,1998-11-25 07:22:49,1998-11-25 07:37:49,c1c0c43e-ca87-3ee5-9549-be3f28afde81,outpatient,Encounter for check up (procedure),77.49,21.9,True,False
+5fd6dad2-feec-c5c5-f39d-4d4b5d0d8097,1999-03-09 20:43:51,1999-03-09 20:58:51,d311e70d-86e7-3c03-b115-53892bcf7ef1,ambulatory,Follow-up encounter,77.49,10.0,True,False
+f36d9ae4-6cd0-71ba-9996-6d3796184f22,1999-07-01 14:30:50,1999-07-01 15:30:50,b0e04623-b02c-3f8b-92ea-943fc4db60da,emergency,Obstetric emergency hospital admission,9709.28,293.5,True,False
+NOSHOW-900055,1999-09-13 14:14:51,,b0e04623-b02c-3f8b-92ea-943fc4db60da,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+4682d1c4-3e1b-93b4-a1cc-94f235d5c17f,1999-09-13 14:14:51,1999-09-13 14:29:51,b0e04623-b02c-3f8b-92ea-943fc4db60da,ambulatory,Follow-up encounter,77.49,14.1,True,False
+NOSHOW-900020,1999-09-13 14:14:51,,b0e04623-b02c-3f8b-92ea-943fc4db60da,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+e7a516f0-a670-ff94-286b-d7e8e27f9a64,1999-09-14 20:00:19,1999-09-14 22:12:19,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Encounter for problem (procedure),780.09,16.7,True,False
+ad54aa7f-7cf9-6529-9a45-e75d97300159,1999-10-09 22:23:19,1999-10-10 01:57:19,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Encounter for problem (procedure),760.19,12.3,True,False
+07bea8d0-6792-1f7e-8007-3f658da2f816,1999-11-05 20:21:02,1999-11-05 20:36:02,0b78995f-8b45-34d3-969d-afcc456bb1c7,outpatient,Encounter for check up (procedure),77.49,24.6,True,False
+dd2f4cca-1905-e153-88d1-402b820f897d,1999-11-24 06:40:58,1999-11-24 06:55:58,b1ddf812-1fdd-3adf-b1d5-32cc8bd07ebb,ambulatory,Follow-up encounter,77.49,10.8,True,False
+2ae0ad14-38c1-b6da-4cfe-46cba6444412,1999-12-17 20:21:02,1999-12-17 20:36:02,ecc51621-0af3-3b35-ac3e-8b1e34022e92,ambulatory,Follow-up encounter,77.49,27.4,True,False
+3c56c822-6777-1fe1-35bc-6619b74cadb0,1999-12-21 05:20:04,1999-12-21 05:35:04,b0e04623-b02c-3f8b-92ea-943fc4db60da,ambulatory,Follow-up encounter,77.49,9.5,True,False
+NOSHOW-900005,1999-12-21 05:20:04,,b0e04623-b02c-3f8b-92ea-943fc4db60da,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+a3b6b69d-ede7-1fae-7dda-f57949b4890a,1999-12-21 11:29:38,1999-12-21 11:44:38,37eb7694-de8f-3407-b95f-1a6a31fb0f6a,outpatient,Encounter for check up (procedure),46924.39,27.5,True,False
+7388658d-0b17-1347-0579-bb9c88095cb1,2000-01-18 01:45:19,2000-01-18 04:20:19,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Encounter for problem (procedure),1289.11,9.6,True,False
+c963840a-19ef-7275-40dd-7e40d673717b,2000-02-02 17:24:19,2000-02-02 20:34:19,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Encounter for problem (procedure),1307.87,7.7,True,False
+cab5d710-201e-3d61-864d-fd26a1e90ed3,2000-06-22 03:10:19,2000-06-22 05:21:19,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Encounter for problem (procedure),899.92,20.6,True,False
+NOSHOW-900086,2000-06-22 03:10:19,,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+NOSHOW-900063,2000-06-22 03:10:19,,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+7f7d258f-98ea-4dd4-51c8-f0b3cc143c92,2000-07-04 20:45:19,2000-07-04 21:00:19,6f122869-a856-3d65-8db9-099bf4f5bbb8,outpatient,Encounter for check up (procedure),218.01,39.4,True,False
+499f87da-cb2b-8d39-8a5f-d80112567f08,2000-07-18 11:58:49,2000-07-18 12:13:49,12c9daf5-a29c-36c9-ac55-28972463e566,outpatient,Encounter for check up (procedure),77.49,51.1,True,False
+NOSHOW-900150,2000-07-18 11:58:49,,12c9daf5-a29c-36c9-ac55-28972463e566,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+00def7c2-b71d-9774-4706-7d5e3887ec15,2000-09-12 06:47:09,2000-09-12 07:02:09,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Follow-up encounter,77.49,9.4,True,False
+8371588f-8ebc-cfc0-ac36-b37c7b256efc,2000-11-15 14:33:19,2000-11-15 18:21:19,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Encounter for problem (procedure),1378.04,21.9,True,False
+594976f8-a5cd-fbe0-d710-8d49628fd360,2001-02-04 23:28:19,2001-02-05 01:42:19,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Encounter for problem (procedure),1195.36,15.9,True,False
+3befa62c-9d42-9421-7e37-59c9bd2bc373,2001-02-18 08:42:55,2001-02-18 08:57:55,12c9daf5-a29c-36c9-ac55-28972463e566,ambulatory,Encounter for symptom,457.58,22.5,True,False
+96ac958b-bd56-002a-a3f9-4cec9e40ddf3,2001-03-14 07:22:49,2001-03-14 07:37:49,c1c0c43e-ca87-3ee5-9549-be3f28afde81,outpatient,Encounter for check up (procedure),77.49,31.3,True,False
+NOSHOW-900151,2001-04-17 20:45:19,,6f122869-a856-3d65-8db9-099bf4f5bbb8,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+ae8c3967-04d3-5a8e-f1fe-429e374e933f,2001-04-17 20:45:19,2001-04-17 21:00:19,6f122869-a856-3d65-8db9-099bf4f5bbb8,outpatient,Encounter for check up (procedure),77.49,26.3,True,False
+NOSHOW-900089,2001-05-21 18:21:20,,ebc3f5c4-6700-34af-8323-85621c313726,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+1afd6886-213d-cc6b-c7aa-36ad13218652,2001-05-21 18:21:20,2001-05-21 18:36:20,ebc3f5c4-6700-34af-8323-85621c313726,ambulatory,Encounter for problem,77.49,25.1,True,False
+b9605c0b-c529-0d55-9407-cb1a0baf3e1d,2001-06-06 16:02:12,2001-06-06 16:17:12,4861d01f-019c-3dac-a153-8334e50919f9,ambulatory,Encounter for symptom,77.49,9.5,True,False
+7137da9d-50c8-4dc3-f40a-b093b5b9fb4a,2001-06-30 14:59:52,2001-06-30 15:14:52,465de31f-3098-365c-af70-48a071e1f5aa,outpatient,Consultation for treatment,129.16,44.6,True,False
+NOSHOW-900175,2001-06-30 14:59:52,,465de31f-3098-365c-af70-48a071e1f5aa,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+9985a251-12e3-37a8-52a8-4774833ce9a9,2001-07-08 08:14:45,2001-07-08 08:29:45,d5117822-5756-389d-9547-891a372d580f,ambulatory,Follow-up encounter,77.49,15.5,True,False
+1f3d0771-198f-c8b3-5cb6-e186979eaad6,2001-08-08 03:49:29,2001-08-08 04:04:29,d5117822-5756-389d-9547-891a372d580f,ambulatory,Encounter for 'check-up',77.49,14.9,True,False
+a8841087-6345-863e-358a-9bc0250fd66e,2001-08-10 20:21:02,2001-08-10 20:36:02,23834663-ed53-3da9-b330-d6e1ecb8428e,outpatient,Encounter for check up (procedure),77.49,23.2,True,False
+8b7ed24b-e12c-bf02-1f7f-36dcb965a044,2001-08-24 08:33:58,2001-08-24 08:48:58,37c0de84-bcaf-3624-82bf-a89b2ac441b8,outpatient,Encounter for check up (procedure),218.01,19.7,True,False
+ff514d8d-a1de-2fd6-6567-9438c46a8fd0,2001-09-13 03:54:40,2001-09-13 04:09:40,b1ddf812-1fdd-3adf-b1d5-32cc8bd07ebb,ambulatory,Encounter for symptom,77.49,17.5,True,False
+6d5073f7-aed4-3723-3d31-8242d9007bb3,2001-09-20 01:24:36,2001-09-20 01:39:36,d5117822-5756-389d-9547-891a372d580f,ambulatory,Encounter for symptom,77.49,29.7,True,False
+NOSHOW-900120,2001-09-20 01:24:36,,d5117822-5756-389d-9547-891a372d580f,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+c2ccd166-d5d6-9ee5-adda-05564d1cf768,2001-09-21 03:35:19,2001-09-21 06:18:19,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Encounter for problem (procedure),1225.41,7.6,True,False
+NOSHOW-900016,2001-09-21 03:35:19,,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+NOSHOW-900111,2001-10-22 09:09:19,,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+9696a9b7-c3be-a530-49f3-046f7ee63fe0,2001-10-22 09:09:19,2001-10-22 11:33:19,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Encounter for problem (procedure),1489.12,8.5,True,False
+e010e65e-ca2e-824a-1264-0714e3220def,2001-10-28 14:59:19,2001-10-28 18:24:19,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Encounter for problem (procedure),866.32,24.8,True,False
+76bda284-09ca-a484-406d-a0d657b05e51,2001-11-06 23:13:19,2001-11-07 02:29:19,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Encounter for problem (procedure),1221.64,18.5,True,False
+9ec0941f-076d-c17c-a78a-45751993fcb9,2001-11-25 09:29:10,2001-11-25 09:44:10,b1ddf812-1fdd-3adf-b1d5-32cc8bd07ebb,ambulatory,Follow-up encounter,77.49,37.3,True,False
+NOSHOW-900022,2001-11-25 09:29:10,,b1ddf812-1fdd-3adf-b1d5-32cc8bd07ebb,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+ff67fe2c-c827-4e7f-c66d-22eaf133c5c1,2001-12-29 23:18:19,2001-12-30 02:04:19,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Encounter for problem (procedure),983.23,18.8,True,False
+b4166e9b-cf5d-5f88-1c1e-af00092bfa0a,2002-02-20 21:08:55,2002-02-21 21:08:55,0b78995f-8b45-34d3-969d-afcc456bb1c7,inpatient,Encounter for problem,13288.38,,True,False
+41370273-1f0e-e9b1-1dcd-54d823a304f4,2002-02-24 08:36:19,2002-02-24 12:32:19,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Encounter for problem (procedure),748.02,37.4,True,False
+14b78c75-a374-92c8-d550-161bd0c4d02b,2002-04-24 03:20:10,2002-04-24 03:35:10,db0acede-4abe-3c01-8d03-5c68a190d8c7,outpatient,Encounter for check up (procedure),77.49,16.2,True,False
+23fbff32-f745-7e21-5746-e5fa4797c3e8,2002-05-16 22:34:40,2002-05-16 22:49:40,d692e283-0833-3201-8e55-4f868a9c0736,ambulatory,Follow-up encounter,77.49,13.8,True,False
+NOSHOW-900136,2002-06-08 04:12:09,,f4e7709c-02f6-37ca-aeea-8247d74e88e7,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+86f61234-2bc4-9657-78fe-17dca85b7018,2002-06-08 04:12:09,2002-06-08 04:27:09,f4e7709c-02f6-37ca-aeea-8247d74e88e7,outpatient,Encounter for check up (procedure),77.49,38.7,True,False
+bd06a158-cec2-1aa8-b39e-ab299b20f2e3,2002-06-10 16:39:19,2002-06-10 18:50:19,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Encounter for problem (procedure),1599.23,13.2,True,False
+0a7cfba5-3fb2-d93a-c8aa-0025f4e80db6,2002-07-08 08:14:45,2002-07-08 08:29:45,d5117822-5756-389d-9547-891a372d580f,ambulatory,Follow-up encounter,77.49,26.1,True,False
+NOSHOW-900060,2002-08-31 00:32:19,,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+afeaaaf0-2048-25e5-bde6-138b0dbc5162,2002-08-31 00:32:19,2002-08-31 02:43:19,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Encounter for problem (procedure),1080.47,8.7,True,False
+2157ff07-8c78-8f18-0340-311223fd0f8f,2002-10-07 12:55:19,2002-10-07 16:36:19,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Encounter for problem (procedure),866.39,16.2,True,False
+d3ca35f0-2367-feff-96a8-f58acf014016,2002-10-10 15:55:11,2002-10-10 16:55:11,b0e04623-b02c-3f8b-92ea-943fc4db60da,emergency,Emergency Room Admission,129.16,139.0,True,False
+e535bc71-b2ad-2d16-1269-e355f0c03a9b,2002-10-29 20:45:19,2002-10-29 21:00:19,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Follow-up encounter,77.49,18.1,True,False
+c1cfa8ae-c973-d3e1-e8da-c05a1159d2eb,2002-11-03 08:33:36,2002-11-03 08:48:36,0b78995f-8b45-34d3-969d-afcc456bb1c7,outpatient,Encounter for problem (procedure),77.49,55.8,True,False
+NOSHOW-900061,2002-12-12 05:55:19,,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+566b3ac3-d330-673c-e282-4d5bf5766e73,2002-12-12 05:55:19,2002-12-12 08:34:19,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Encounter for problem (procedure),691.95,20.5,True,False
+b1f632ed-ba5c-9c04-719b-a84a4175f585,2003-03-14 11:25:47,2003-03-14 11:40:47,d5117822-5756-389d-9547-891a372d580f,ambulatory,Prenatal initial visit,69895.61,10.1,True,False
+f9c6894b-057f-fa88-61d8-a54b466da6dd,2003-03-25 13:04:19,2003-03-25 13:19:19,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Encounter for problem (procedure),77.49,19.2,True,False
+4658990c-a923-a952-b0fb-ff10e678a3ac,2003-04-13 02:42:19,2003-04-13 06:39:19,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Encounter for problem (procedure),697.01,9.3,True,False
+c10a881f-6e0f-1c18-7468-7727ddfa178e,2003-04-16 06:39:19,2003-04-16 09:01:19,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Encounter for problem (procedure),981.48,10.3,True,False
+NOSHOW-900014,2003-05-01 05:19:39,,226098a2-6a40-3588-b5bb-db56c3a30a04,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+ece90819-e7fc-d9c0-479f-aaddd435a5c4,2003-05-01 05:19:39,2003-05-01 05:34:39,226098a2-6a40-3588-b5bb-db56c3a30a04,ambulatory,Encounter for problem,1902.06,21.4,True,False
+ded20a62-9b7e-1349-1e25-db0a6d5af379,2003-05-14 08:42:19,2003-05-14 11:27:19,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Encounter for problem (procedure),1550.12,15.5,True,False
+e17dcb69-ae9a-5644-2245-1ab80ee91e31,2003-06-23 06:09:28,2003-06-23 06:24:28,d5117822-5756-389d-9547-891a372d580f,outpatient,Encounter for check up (procedure),218.01,37.4,True,False
+NOSHOW-900069,2003-07-18 21:07:19,,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+b6e9ebbe-14a2-4453-4135-59493c0881ab,2003-07-18 21:07:19,2003-07-19 00:37:19,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Encounter for problem (procedure),954.56,13.5,True,False
+2748b05e-d90c-98e7-b2bd-9f47e2442c82,2003-09-09 22:48:26,2003-09-10 01:16:35,f4e7709c-02f6-37ca-aeea-8247d74e88e7,emergency,Emergency Room Admission,9991.46,217.1,True,False
+16f0be51-92dc-a23d-687b-ab716cb5271a,2003-09-20 23:51:45,2003-09-21 00:06:45,ef58ea08-d883-3957-8300-150554edc8fb,outpatient,Encounter for check up (procedure),218.01,16.5,True,False
+ab873889-2ee7-c8cc-e79b-be147e8f1cd7,2003-09-21 04:30:47,2003-09-21 04:45:47,49318f80-bd8b-3fc7-a096-ac43088b0c12,ambulatory,Follow-up encounter,77.49,21.3,True,False
+b37ec532-c650-a0a5-8eaf-fa1516131e7d,2003-09-30 11:29:38,2003-09-30 11:44:38,37eb7694-de8f-3407-b95f-1a6a31fb0f6a,outpatient,Encounter for check up (procedure),15667.78,10.9,True,False
+6a79e724-cb7b-91be-21e7-9f766e53ee9b,2003-12-16 01:37:19,2003-12-16 04:07:19,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Encounter for problem (procedure),1171.92,30.7,True,False
+NOSHOW-900108,2003-12-16 01:37:19,,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+NOSHOW-900012,2003-12-16 01:37:19,,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+b464c48a-be13-d4d2-3593-dbdff0a929b5,2004-05-18 20:45:19,2004-05-18 21:00:19,6f122869-a856-3d65-8db9-099bf4f5bbb8,outpatient,Encounter for check up (procedure),218.01,16.2,True,False
+856addb0-1acb-fbc2-c526-e5f45a86a5c3,2004-07-09 04:38:19,2004-07-09 07:33:19,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Encounter for problem (procedure),1243.49,10.5,True,False
+7400714f-2c12-7ef8-f52e-31fdf0bb2c04,2004-08-31 02:53:25,2004-08-31 03:08:25,ef6ab57c-ed94-3dbe-9861-812d515918b3,ambulatory,Follow-up encounter,77.49,12.1,True,False
+c9c5542e-fe25-b402-081e-d36a6764214b,2004-09-22 03:13:14,2004-09-22 04:13:14,7fb56531-86bd-3e4a-8619-4df9942da309,emergency,Emergency Room Admission,129.16,110.1,True,False
+35f839db-9259-aa9a-05f2-d71f4ebc0fc5,2004-10-08 18:44:36,2004-10-08 18:59:36,4861d01f-019c-3dac-a153-8334e50919f9,ambulatory,Follow-up encounter,77.49,10.0,True,False
+c32ce7a1-3a81-64f5-0ac4-df14af155006,2004-12-31 12:08:48,2004-12-31 13:08:48,69176529-fd1f-3b3f-abce-a0a3626769eb,emergency,Emergency Room Admission,129.16,117.6,True,False
+c9be3981-b658-032c-f84a-d626770607f0,2005-01-06 15:12:35,2005-01-06 15:27:35,12c9daf5-a29c-36c9-ac55-28972463e566,outpatient,Encounter for check up (procedure),77.49,8.9,True,False
+NOSHOW-900181,2005-01-06 15:12:35,,12c9daf5-a29c-36c9-ac55-28972463e566,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+7a3196db-1bfd-2b3f-97f7-56d4dc107cbd,2005-01-08 03:37:50,2005-01-08 03:52:50,ecc51621-0af3-3b35-ac3e-8b1e34022e92,outpatient,Encounter for check up (procedure),218.01,26.0,True,False
+63da9394-5640-79e3-70fe-0ab5949830e4,2005-01-12 15:28:19,2005-01-12 19:07:19,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Encounter for problem (procedure),976.75,13.9,True,False
+70150ea2-3e30-0fbd-821f-199a200bcf79,2005-01-17 03:10:39,2005-01-17 03:25:39,d5117822-5756-389d-9547-891a372d580f,ambulatory,Prenatal visit,17353.73,35.0,True,False
+9f1cef53-e50e-3794-91a9-47ec7bba9ec6,2005-02-28 15:57:19,2005-02-28 18:56:19,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Encounter for problem (procedure),1224.82,19.2,True,False
+NOSHOW-900092,2005-02-28 15:57:19,,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+78d10e08-afc4-adc7-f3ce-8f89e6935ecc,2005-03-06 01:45:55,2005-03-06 02:00:55,c44f361c-2efb-3050-8f97-0354a12e2920,ambulatory,Encounter for symptom,77.49,20.2,True,False
+NOSHOW-900036,2005-03-06 01:45:55,,c44f361c-2efb-3050-8f97-0354a12e2920,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+5e3dce3b-2253-86c6-be7f-138a95dd0108,2005-03-31 23:41:19,2005-04-01 02:12:19,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Encounter for problem (procedure),1300.95,24.1,True,False
+e5b12de9-ce6d-8fdf-49e2-0de4332c31aa,2005-06-08 16:42:19,2005-06-08 20:18:19,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Encounter for problem (procedure),893.26,19.9,True,False
+NOSHOW-900029,2005-06-08 16:42:19,,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+NOSHOW-900075,2005-06-08 16:42:19,,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+dc366a28-9c89-0624-7c20-457ee4cb2fe4,2005-07-19 11:58:49,2005-07-19 12:13:49,03347b4d-994e-302b-848b-58019a4e274d,outpatient,Encounter for check up (procedure),77.49,29.9,True,False
+NOSHOW-900159,2005-09-01 22:59:05,,ecc51621-0af3-3b35-ac3e-8b1e34022e92,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+915aaaac-a920-197e-0448-0d2375123a77,2005-09-01 22:59:05,2005-09-01 23:14:05,ecc51621-0af3-3b35-ac3e-8b1e34022e92,outpatient,Encounter for check up (procedure),30758.11,20.1,True,False
+c65399a5-316e-22fd-ce36-d1b96e8d0c99,2005-09-03 20:16:07,2005-09-03 20:31:07,ef6ab57c-ed94-3dbe-9861-812d515918b3,ambulatory,Encounter for symptom,77.49,24.1,True,False
+NOSHOW-900057,2005-10-05 07:55:19,,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+9e4d291d-bd58-9a2b-eaf9-244b81ca18e8,2005-10-05 07:55:19,2005-10-05 11:19:19,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Encounter for problem (procedure),796.04,16.4,True,False
+5f187637-3ecf-5af1-3293-bb8948e14394,2005-11-08 20:45:19,2005-11-08 21:00:19,6f122869-a856-3d65-8db9-099bf4f5bbb8,outpatient,Encounter for check up (procedure),77.49,17.2,True,False
+5517301a-0222-93d1-1d3a-50c86f27b8c2,2005-11-16 07:22:49,2005-11-16 07:37:49,c1c0c43e-ca87-3ee5-9549-be3f28afde81,outpatient,Encounter for check up (procedure),77.49,57.0,True,False
+1b724e71-23f0-56a2-1932-6d917d55e317,2005-11-17 11:54:55,2005-11-17 12:09:55,7fb56531-86bd-3e4a-8619-4df9942da309,ambulatory,Encounter for problem,77.49,17.3,True,False
+f87077d6-8716-8076-5b68-75efa9f80a9e,2005-12-02 12:37:09,2005-12-02 12:52:09,b1ddf812-1fdd-3adf-b1d5-32cc8bd07ebb,outpatient,Encounter for check up (procedure),77.49,16.9,True,False
+143d5db2-f64e-9901-938e-9feb5dd50a22,2005-12-06 15:35:19,2005-12-06 15:50:19,d5117822-5756-389d-9547-891a372d580f,ambulatory,Encounter for symptom,77.49,11.4,True,False
+00a4ee71-c1cb-f1df-4031-3a095ab8cba7,2006-01-16 13:51:19,2006-01-16 16:52:19,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Encounter for problem (procedure),769.26,28.8,True,False
+989d7233-9372-a20b-2005-b3a2a38837e6,2006-04-18 11:29:38,2006-04-18 11:44:38,37eb7694-de8f-3407-b95f-1a6a31fb0f6a,outpatient,Encounter for check up (procedure),37537.6,15.2,True,False
+e30ab671-f4f2-deeb-60c3-cf0b500d554d,2006-06-08 07:27:48,2006-06-08 07:42:48,3d10019f-c88e-3de5-9916-6107b9c0263d,ambulatory,Hypertension follow-up encounter,77.49,13.6,True,False
+01728580-75dd-39fc-8587-b14a2a4fcdc3,2006-06-28 06:20:19,2006-06-28 10:17:19,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Encounter for problem (procedure),1375.64,11.7,True,False
+a6fa03b8-a935-0e93-e011-39f0d698ed30,2006-09-27 03:57:20,2006-09-27 04:12:20,ef6ab57c-ed94-3dbe-9861-812d515918b3,outpatient,Encounter for check up (procedure),218.01,12.1,True,False
+100908c4-6eea-bf8f-f3a6-e4feeebbabcf,2006-12-04 10:20:22,2006-12-04 10:35:22,f99c74cc-7d1a-3f95-9a33-4a9357bf2f2a,ambulatory,Encounter for symptom,77.49,11.7,True,False
+66af6ff8-0fb1-135e-738b-651d32cd5b59,2006-12-23 09:15:19,2006-12-23 12:57:19,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Encounter for problem (procedure),1281.35,5.7,True,False
+NOSHOW-900081,2006-12-23 09:15:19,,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+1085bd3b-6171-c093-9fd8-6df2e6edb5ca,2006-12-29 16:27:19,2006-12-29 20:10:19,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Encounter for problem (procedure),722.25,15.2,True,False
+f9c37369-4c29-c819-3900-7a6b37d640c7,2007-01-16 13:12:30,2007-01-16 13:27:34,d692e283-0833-3201-8e55-4f868a9c0736,outpatient,Patient encounter procedure,4568.47,19.1,True,False
+NOSHOW-900001,2007-02-08 08:56:19,,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+3b238590-2d58-b362-b39d-e6bf0e9bc87c,2007-02-08 08:56:19,2007-02-08 11:00:19,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Encounter for problem (procedure),946.7,17.6,True,False
+NOSHOW-900009,2007-02-08 08:56:19,,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+60d9eb24-0311-6e68-c8d1-dee8d0eb0bb4,2007-04-24 11:58:49,2007-04-24 12:13:49,12c9daf5-a29c-36c9-ac55-28972463e566,outpatient,Encounter for check up (procedure),77.49,35.9,True,False
+64c06a57-d902-ecac-9951-f76e5ec20e44,2007-06-02 16:42:00,2007-06-02 16:57:00,3d10019f-c88e-3de5-9916-6107b9c0263d,outpatient,Encounter for check up (procedure),218.01,12.0,True,False
+c3818f47-9373-83d8-2f77-74f45a83c8de,2007-06-12 15:37:22,2007-06-12 16:18:13,37b4d73f-652d-3033-a16e-d97b9e8b4cda,ambulatory,Outpatient procedure,16900.61,45.3,True,False
+f87c210b-b2aa-8ee8-7370-c0fb99353154,2007-07-31 20:45:19,2007-07-31 21:00:19,6f122869-a856-3d65-8db9-099bf4f5bbb8,outpatient,Encounter for check up (procedure),77.49,20.4,True,False
+fd68d6bb-136b-2766-557c-8fe2ad5e0dd3,2007-09-04 11:58:49,2007-09-04 12:58:49,12c9daf5-a29c-36c9-ac55-28972463e566,emergency,Emergency Encounter,129.16,164.4,True,False
+NOSHOW-900143,2007-09-10 20:43:51,,d311e70d-86e7-3c03-b115-53892bcf7ef1,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+f98b612a-693e-c754-a4f9-6ef879841566,2007-09-10 20:43:51,2007-09-10 20:58:51,d311e70d-86e7-3c03-b115-53892bcf7ef1,outpatient,Encounter for check up (procedure),77.49,48.1,True,False
+NOSHOW-900047,2007-10-18 00:14:51,,b0e04623-b02c-3f8b-92ea-943fc4db60da,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+e622f205-ff17-5f76-01f0-8f06ff9d385c,2007-10-18 00:14:51,2007-10-18 00:29:51,b0e04623-b02c-3f8b-92ea-943fc4db60da,ambulatory,Encounter for symptom,77.49,9.4,True,False
+NOSHOW-900100,2007-10-18 00:14:51,,b0e04623-b02c-3f8b-92ea-943fc4db60da,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+NOSHOW-900049,2007-10-18 00:14:51,,b0e04623-b02c-3f8b-92ea-943fc4db60da,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+3897ece9-9383-f35d-6cfc-d097d0573bef,2007-11-18 02:53:26,2007-11-18 03:08:26,b0e04623-b02c-3f8b-92ea-943fc4db60da,outpatient,Encounter for check up (procedure),218.01,30.4,True,False
+560063c4-6e63-0482-9a3f-f99ca7e10d4c,2007-11-28 20:26:19,2007-11-28 23:06:19,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Encounter for problem (procedure),1312.67,12.3,True,False
+9b1d62a9-5359-25b9-3715-160de7cdad57,2007-12-24 17:39:00,2007-12-24 17:54:00,ef58ea08-d883-3957-8300-150554edc8fb,ambulatory,Prenatal visit,15656.58,21.4,True,False
+2a0ed0ce-9279-5531-f501-5f13acb7fc42,2007-12-28 23:52:33,2007-12-29 23:52:33,d5117822-5756-389d-9547-891a372d580f,inpatient,Encounter for problem,11804.79,,True,False
+80d697d8-077c-5b53-4efe-001580b7fbe0,2008-01-19 03:13:14,2008-01-19 03:28:14,7fb56531-86bd-3e4a-8619-4df9942da309,ambulatory,Domiciliary or rest home patient evaluation and management,207.15,11.5,True,False
+NOSHOW-900121,2008-01-19 03:13:14,,7fb56531-86bd-3e4a-8619-4df9942da309,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+NOSHOW-900109,2008-01-19 03:13:14,,7fb56531-86bd-3e4a-8619-4df9942da309,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+52619afa-8cd0-f488-dba7-37617b3b9354,2008-01-28 23:35:20,2008-01-28 23:50:20,f1fbcbfb-fcfa-3bd2-b7f4-df20f1b3c3a4,ambulatory,Encounter for symptom,77.49,11.0,True,False
+5824ac1a-9bab-a031-8b22-ef199aacdc10,2008-02-25 15:32:27,2008-02-25 15:47:27,8ad64ecf-c817-3753-bee7-006a8e662e06,ambulatory,Follow-up encounter,77.49,14.2,True,False
+ec4d9917-9274-1258-cc6b-f1c2b9481a74,2008-04-07 06:09:28,2008-04-07 06:24:28,d5117822-5756-389d-9547-891a372d580f,ambulatory,Encounter for 'check-up',10189.8,11.8,True,False
+NOSHOW-900070,2008-04-07 06:09:28,,d5117822-5756-389d-9547-891a372d580f,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+NOSHOW-900117,2008-04-07 06:09:28,,d5117822-5756-389d-9547-891a372d580f,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+1aa752b4-290b-5efd-8b44-061be78642b6,2008-04-07 06:09:28,2008-04-07 06:24:28,d5117822-5756-389d-9547-891a372d580f,ambulatory,Encounter for 'check-up',9690.6,22.5,True,False
+42a6c84b-0b94-53cb-1770-591a85504687,2008-04-24 19:51:30,2008-04-24 20:51:30,ef58ea08-d883-3957-8300-150554edc8fb,emergency,Emergency Room Admission,129.16,131.8,True,False
+c710409b-6364-dab1-ed8f-d799b1eeda90,2008-07-20 19:26:58,2008-07-20 19:43:29,3d10019f-c88e-3de5-9916-6107b9c0263d,outpatient,Consultation for treatment,2564.22,13.0,True,False
+98a56933-5f72-0d96-032c-0ef569718c5c,2008-08-08 03:46:19,2008-08-08 07:22:19,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Encounter for problem (procedure),1065.19,60.4,True,False
+b78aa91a-4ddd-bcdb-c929-c334fa434767,2008-08-30 02:53:25,2008-08-30 03:08:25,ef6ab57c-ed94-3dbe-9861-812d515918b3,ambulatory,Follow-up encounter,77.49,13.2,True,False
+a60d776f-1a7b-31d2-dd40-f71fc7f8c60c,2008-10-29 07:22:49,2008-10-29 07:37:49,c1c0c43e-ca87-3ee5-9549-be3f28afde81,outpatient,Encounter for check up (procedure),77.49,22.6,True,False
+4f550bcf-c814-1c0c-89a8-fea4a03fe80e,2008-11-08 04:12:09,2008-11-08 04:27:09,f4e7709c-02f6-37ca-aeea-8247d74e88e7,ambulatory,Prenatal initial visit,76542.84,17.2,True,False
+575e66fd-d66b-eb01-1e61-9f16b4098394,2008-12-10 02:15:22,2008-12-10 02:30:22,f71ce1a9-cca7-3295-9a1e-c88ac3479b6f,ambulatory,Follow-up encounter,77.49,28.6,True,False
+b3deaae3-2abe-9f59-c1ea-a853828d4637,2008-12-18 05:20:04,2008-12-18 05:35:04,b0e04623-b02c-3f8b-92ea-943fc4db60da,ambulatory,Follow-up encounter,77.49,7.9,True,False
+78cd2a3d-6ad2-435e-b0fe-10b0b4c97c6e,2009-01-13 13:12:30,2009-01-13 13:31:04,d692e283-0833-3201-8e55-4f868a9c0736,outpatient,Patient encounter procedure,2904.28,29.2,True,False
+722cf523-6e94-9f4b-1725-14b10f20e41d,2009-02-14 19:51:58,2009-02-14 20:06:58,5e765f2b-e908-3888-9fc7-df2cb87beb58,ambulatory,Follow-up encounter,77.49,14.3,True,False
+2b81512b-44b0-dc9f-c853-368b8a44789d,2009-04-03 08:51:33,2009-04-04 08:51:33,d5117822-5756-389d-9547-891a372d580f,inpatient,Encounter for problem,19246.65,,True,False
+5109d765-af2f-f566-519a-548fb5aa85c9,2009-04-23 04:46:50,2009-04-23 05:01:50,b0e04623-b02c-3f8b-92ea-943fc4db60da,ambulatory,Follow-up encounter,77.49,76.9,True,False
+a65441bf-eaa9-dfb9-3de0-ad2658ec7fae,2009-04-27 10:25:38,2009-04-27 10:40:38,f99c74cc-7d1a-3f95-9a33-4a9357bf2f2a,ambulatory,Encounter for symptom,594.14,15.9,True,False
+NOSHOW-900068,2009-05-12 12:03:47,,23834663-ed53-3da9-b330-d6e1ecb8428e,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+8751078d-f5d6-b542-71bf-dbfed5692b71,2009-05-12 12:03:47,2009-05-12 12:18:47,23834663-ed53-3da9-b330-d6e1ecb8428e,ambulatory,Telemedicine consultation with patient,129.16,8.6,True,False
+54bfe4cf-6c47-51c7-2f83-831a2f83c8a8,2009-05-16 12:03:47,2009-05-16 12:18:47,23834663-ed53-3da9-b330-d6e1ecb8428e,ambulatory,Telemedicine consultation with patient,129.16,12.5,True,False
+961706b2-bc13-5d3d-beca-50e600a51ac7,2009-06-12 12:03:47,2009-06-12 12:18:47,23834663-ed53-3da9-b330-d6e1ecb8428e,ambulatory,Telemedicine consultation with patient,129.16,28.7,True,False
+NOSHOW-900026,2009-06-12 12:03:47,,23834663-ed53-3da9-b330-d6e1ecb8428e,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+a7737298-a25e-7821-8928-a4a3bd66e848,2009-07-11 12:03:47,2009-07-11 12:18:47,23834663-ed53-3da9-b330-d6e1ecb8428e,ambulatory,Telemedicine consultation with patient,129.16,25.1,True,False
+032ae04a-021f-df21-2c3c-b3226b144c6d,2009-07-28 12:03:47,2009-07-29 13:01:03,23834663-ed53-3da9-b330-d6e1ecb8428e,inpatient,Admission to intensive care unit (procedure),4165.6,,True,False
+ae67b259-721e-3e75-a476-4ac29d655b1b,2009-09-15 16:41:26,2009-09-15 17:12:07,12c9daf5-a29c-36c9-ac55-28972463e566,ambulatory,Encounter for problem,594.14,13.0,True,False
+23f5432b-ffb7-9eb9-69b0-5a4adc602824,2009-09-21 01:34:19,2009-09-21 01:49:19,7fb56531-86bd-3e4a-8619-4df9942da309,ambulatory,Prenatal initial visit,65508.48,18.7,True,False
+b7747160-74d8-6f43-5ba0-2f134ef224ea,2009-10-13 13:12:30,2009-10-13 13:28:14,d692e283-0833-3201-8e55-4f868a9c0736,outpatient,Patient encounter procedure,2379.48,37.8,True,False
+8ab91f61-2063-ffe5-9589-3bc9892b308c,2009-10-18 00:15:57,2009-10-18 00:30:57,ef6ab57c-ed94-3dbe-9861-812d515918b3,outpatient,Encounter for check up (procedure),77.49,20.7,True,False
+e950ac44-0909-ae18-33fc-d7e3b3a2ad5d,2010-03-25 11:11:05,2010-03-25 11:26:05,24cb4eab-6166-3530-bddc-a5a8a14a4fc1,outpatient,Consultation for treatment,129.16,18.8,True,False
+c1a2de75-81cd-803f-149a-bcf85ae24a4f,2010-03-26 20:21:02,2010-03-26 20:36:02,0b78995f-8b45-34d3-969d-afcc456bb1c7,wellness,General examination of patient (procedure),1320.26,21.3,True,False
+da23f2e8-cd0c-a322-9976-114b23bd459c,2010-04-24 10:30:41,2010-04-24 10:45:41,37c0de84-bcaf-3624-82bf-a89b2ac441b8,outpatient,Encounter for check up (procedure),77.49,25.0,True,False
+NOSHOW-900140,2010-05-02 06:26:34,,d692e283-0833-3201-8e55-4f868a9c0736,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+9d4798fd-6d40-4e3d-7d2f-b37639a4fd39,2010-05-02 06:26:34,2010-05-02 06:41:34,d692e283-0833-3201-8e55-4f868a9c0736,outpatient,Encounter for check up (procedure),77.49,12.3,True,False
+f85e426f-bdb6-3f72-75ff-83ea315a95c5,2010-05-06 15:31:31,2010-05-06 15:46:31,d311e70d-86e7-3c03-b115-53892bcf7ef1,wellness,General examination of patient (procedure),786.33,37.6,True,False
+56bfdbf0-9137-b3c1-68ee-7678415602d1,2010-05-07 08:33:36,2010-05-07 08:48:36,0b78995f-8b45-34d3-969d-afcc456bb1c7,outpatient,Encounter for check up (procedure),77.49,8.4,True,False
+4bad5013-8ad4-c2c0-941b-27aadf34feea,2010-06-02 10:45:20,2010-06-02 11:00:20,ef6ab57c-ed94-3dbe-9861-812d515918b3,ambulatory,Follow-up encounter,77.49,32.9,True,False
+48888ee7-051a-ea64-3686-4c82e0a74cea,2010-07-23 15:59:33,2010-07-24 15:59:33,d5117822-5756-389d-9547-891a372d580f,inpatient,Encounter for problem,14695.19,,True,False
+NOSHOW-900171,2010-08-04 03:57:20,,ef6ab57c-ed94-3dbe-9861-812d515918b3,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+5c24b6b7-2134-3eb6-d73e-a1c930f4ca4c,2010-08-04 03:57:20,2010-08-04 04:12:20,ef6ab57c-ed94-3dbe-9861-812d515918b3,outpatient,Encounter for check up (procedure),77.49,47.4,True,False
+2d3dbae3-b710-c5aa-1dc0-0cc24c0e45d7,2010-09-20 00:36:30,2010-09-20 00:51:30,f4e7709c-02f6-37ca-aeea-8247d74e88e7,ambulatory,Follow-up encounter,77.49,6.2,True,False
+NOSHOW-900064,2010-09-20 00:36:30,,f4e7709c-02f6-37ca-aeea-8247d74e88e7,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+54672241-31fe-bc3e-52d4-5104e0687ed9,2010-10-15 08:33:36,2010-10-15 08:48:36,0b78995f-8b45-34d3-969d-afcc456bb1c7,outpatient,Encounter for check up (procedure),77.49,21.6,True,False
+8079741f-3de6-04e3-a556-482dd185d424,2010-11-17 07:15:19,2010-11-17 07:59:47,b0e04623-b02c-3f8b-92ea-943fc4db60da,ambulatory,Encounter for 'check-up',13342.47,8.6,True,False
+47348d55-41c0-e0df-2b87-ecafb8be309e,2011-01-02 09:39:55,2011-01-02 09:54:55,b1ddf812-1fdd-3adf-b1d5-32cc8bd07ebb,ambulatory,Telemedicine consultation with patient,129.16,16.7,True,False
+4607d44b-0379-5e9d-0f2e-af1eac289bf0,2011-01-03 18:15:33,2011-01-03 18:30:33,d692e283-0833-3201-8e55-4f868a9c0736,ambulatory,Hypertension follow-up encounter,77.49,28.5,True,False
+254cf519-6816-a2ca-6682-b7b0b93a453d,2011-01-09 09:39:55,2011-01-09 09:54:55,b1ddf812-1fdd-3adf-b1d5-32cc8bd07ebb,ambulatory,Telemedicine consultation with patient,129.16,40.1,True,False
+NOSHOW-900006,2011-01-09 09:39:55,,b1ddf812-1fdd-3adf-b1d5-32cc8bd07ebb,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+3fb68c38-8be9-db02-1586-61b1fd80d4a5,2011-01-12 07:22:49,2011-01-12 07:37:49,c1c0c43e-ca87-3ee5-9549-be3f28afde81,outpatient,Encounter for check up (procedure),218.01,34.8,True,False
+NOSHOW-900172,2011-01-12 07:22:49,,c1c0c43e-ca87-3ee5-9549-be3f28afde81,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+065b37eb-bc49-35f2-0e78-f979a695b3f4,2011-01-14 09:39:55,2011-01-14 09:54:55,b1ddf812-1fdd-3adf-b1d5-32cc8bd07ebb,ambulatory,Telemedicine consultation with patient,129.16,23.5,True,False
+159c0234-ded8-abe1-f9b8-d5f7f83071da,2011-02-06 15:56:07,2011-02-06 16:11:07,24cb4eab-6166-3530-bddc-a5a8a14a4fc1,ambulatory,Follow-up encounter,77.49,24.6,True,False
+46bab6e1-cf5f-065c-8e56-9b96ed883fc4,2011-02-19 08:25:07,2011-02-19 08:40:07,b1ddf812-1fdd-3adf-b1d5-32cc8bd07ebb,ambulatory,Follow-up encounter,77.49,15.3,True,False
+NOSHOW-900084,2011-03-06 12:13:56,,226098a2-6a40-3588-b5bb-db56c3a30a04,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+16bdb5b4-539b-c22e-4de5-ec4389150015,2011-03-06 12:13:56,2011-03-06 12:28:56,226098a2-6a40-3588-b5bb-db56c3a30a04,ambulatory,Encounter for problem,77.49,15.0,True,False
+c7d61a87-71b1-4829-9e41-3ee8f441dfb5,2011-04-24 03:46:35,2011-04-24 04:01:35,d5117822-5756-389d-9547-891a372d580f,ambulatory,Encounter for symptom,77.49,15.3,True,False
+966e4433-381a-c794-2f9e-08d793a7fec4,2011-04-28 06:20:06,2011-04-28 06:35:06,37b4d73f-652d-3033-a16e-d97b9e8b4cda,outpatient,Consultation for treatment,129.16,7.4,True,False
+93a0d8f9-dbbd-892b-dd99-e93e031fa2ae,2011-07-20 17:16:57,2011-07-20 17:31:57,23834663-ed53-3da9-b330-d6e1ecb8428e,outpatient,Consultation for treatment,129.16,20.9,True,False
+532737fd-9aa9-8a72-b6fc-5ebfff918e7f,2011-07-24 04:06:42,2011-07-24 04:21:42,b0e04623-b02c-3f8b-92ea-943fc4db60da,ambulatory,Patient-initiated encounter,13362.9,16.0,True,False
+994d3fa4-4604-7c09-e5e2-0b8ad541e0e6,2011-07-25 01:34:19,2011-07-25 01:49:19,7fb56531-86bd-3e4a-8619-4df9942da309,outpatient,Consultation for treatment,129.16,15.1,True,False
+62b69a3f-1430-e0e2-9590-118e4463117d,2011-08-13 08:46:22,2011-08-13 09:46:22,ef6ab57c-ed94-3dbe-9861-812d515918b3,emergency,Encounter for Problem,7171.71,138.3,True,False
+40ef91c5-d07e-8f8b-aaa1-5afda5fd4173,2011-09-28 03:57:20,2011-09-28 04:12:20,ef6ab57c-ed94-3dbe-9861-812d515918b3,outpatient,Encounter for check up (procedure),77.49,10.1,True,False
+059669f4-b82b-7eb7-8b02-3e253318cfd1,2011-09-30 08:33:36,2011-09-30 08:48:36,0b78995f-8b45-34d3-969d-afcc456bb1c7,outpatient,Encounter for check up (procedure),77.49,18.5,True,False
+0c328770-b76e-0676-ea1f-c16edcad17d3,2011-10-14 10:04:43,2011-10-14 10:19:43,8ad64ecf-c817-3753-bee7-006a8e662e06,ambulatory,Follow-up encounter,77.49,20.1,True,False
+0dcc4c8d-2143-f927-a5c6-332177625eba,2011-11-23 09:29:10,2011-11-23 09:44:10,b1ddf812-1fdd-3adf-b1d5-32cc8bd07ebb,ambulatory,Follow-up encounter,77.49,8.7,True,False
+cedac829-cc95-ca57-3044-6728e7fb1ba9,2011-12-03 04:24:29,2011-12-03 04:39:29,49318f80-bd8b-3fc7-a096-ac43088b0c12,ambulatory,Prenatal visit,10731.36,13.9,True,False
+6a030c0d-1369-b023-fa3d-332d77f4aaa8,2011-12-10 02:15:22,2011-12-10 02:30:22,f71ce1a9-cca7-3295-9a1e-c88ac3479b6f,ambulatory,Follow-up encounter,77.49,13.5,True,False
+NOSHOW-900087,2011-12-19 17:28:39,,f4e7709c-02f6-37ca-aeea-8247d74e88e7,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+00870882-1814-12f2-dc5d-6878845ddf1e,2011-12-19 17:28:39,2011-12-19 17:43:39,f4e7709c-02f6-37ca-aeea-8247d74e88e7,ambulatory,Hypertension follow-up encounter,77.49,10.7,True,False
+09b5f679-72f1-ccc0-c18c-446c346c164a,2012-01-10 12:10:48,2012-01-10 12:25:48,12c9daf5-a29c-36c9-ac55-28972463e566,ambulatory,Prenatal visit,16823.15,11.8,True,False
+965e9d72-7808-fac2-086e-2b14fda1a6e0,2012-01-18 06:05:04,2012-01-18 06:20:04,37c0de84-bcaf-3624-82bf-a89b2ac441b8,ambulatory,Prenatal visit,14685.16,15.2,True,False
+NOSHOW-900142,2012-01-31 13:10:44,,d692e283-0833-3201-8e55-4f868a9c0736,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+9971a667-1de5-3c01-f3a1-72c32c0da556,2012-01-31 13:10:44,2012-01-31 13:25:44,d692e283-0833-3201-8e55-4f868a9c0736,outpatient,Encounter for check up (procedure),1152.19,9.2,True,False
+c8c08fb5-0e37-d929-41fa-9f7edb32d25d,2012-02-03 08:53:53,2012-02-03 09:08:53,226098a2-6a40-3588-b5bb-db56c3a30a04,ambulatory,Prenatal visit,12198.43,11.5,True,False
+NOSHOW-900073,2012-02-07 02:28:24,,f99c74cc-7d1a-3f95-9a33-4a9357bf2f2a,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+31ec7eaf-f6bf-fc72-a9b4-60e25c8fe8c1,2012-02-07 02:28:24,2012-02-07 02:43:24,f99c74cc-7d1a-3f95-9a33-4a9357bf2f2a,ambulatory,Telemedicine consultation with patient,129.16,16.8,True,False
+7cc7268e-e140-69e1-d876-1b4e3fa82697,2012-02-07 05:41:11,2012-02-07 05:56:11,ecc51621-0af3-3b35-ac3e-8b1e34022e92,ambulatory,Postnatal visit,1162.46,26.2,True,False
+14897af6-c24a-4d3c-97cf-d168ff9a2a0b,2012-02-17 08:33:36,2012-02-17 08:48:36,f7a6cc79-3075-3124-9f62-6fe562440b1d,urgentcare,Urgent care clinic (procedure),129.16,44.9,True,False
+5a299b62-ff8a-72f0-e317-ace32b4622bf,2012-03-07 02:28:24,2012-03-07 02:43:24,f99c74cc-7d1a-3f95-9a33-4a9357bf2f2a,ambulatory,Telemedicine consultation with patient,129.16,19.7,True,False
+e1f3ad2b-932a-d24f-fe8d-4e7d29f0f0b8,2012-03-07 18:44:36,2012-03-07 18:59:36,4861d01f-019c-3dac-a153-8334e50919f9,outpatient,Encounter for check up (procedure),77.49,23.7,True,False
+5a08a4b9-02d6-fa7c-6695-017698670ad8,2012-03-08 12:54:24,2012-03-08 13:54:24,226098a2-6a40-3588-b5bb-db56c3a30a04,emergency,Emergency room admission (procedure),129.16,127.0,True,False
+a52e0046-919c-958b-570f-73afae31fa6d,2012-03-15 21:29:33,2012-03-15 21:44:33,fbf6180e-b800-3ebe-b91d-93d0288c400e,ambulatory,Follow-up encounter,77.49,12.1,True,False
+NOSHOW-900033,2012-03-15 21:29:33,,fbf6180e-b800-3ebe-b91d-93d0288c400e,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+86a5e8d7-70b9-d406-cb88-d4e58ea4d962,2012-04-10 13:12:30,2012-04-10 13:27:30,d692e283-0833-3201-8e55-4f868a9c0736,outpatient,Patient encounter procedure,2999.94,24.0,True,False
+48206bfd-32ac-b70e-e0f1-cfea482582e2,2012-04-23 01:07:48,2012-04-23 01:43:17,ef6ab57c-ed94-3dbe-9861-812d515918b3,ambulatory,Outpatient procedure,17229.5,19.7,True,False
+d8913124-68cd-fd68-479b-1fa1366b99ba,2012-05-16 04:41:16,2012-05-16 05:41:16,3d10019f-c88e-3de5-9916-6107b9c0263d,emergency,Emergency hospital admission for asthma,129.16,90.1,True,False
+5bf9b964-3fd9-646a-e382-335ca5d75217,2012-05-18 23:41:16,2012-05-18 23:56:16,3d10019f-c88e-3de5-9916-6107b9c0263d,ambulatory,Asthma follow-up,129.16,7.5,True,False
+5033be08-86bb-262e-531b-b8acf24f2f2e,2012-05-22 23:53:55,2012-05-23 00:08:55,d692e283-0833-3201-8e55-4f868a9c0736,ambulatory,Patient-initiated encounter,9966.43,9.5,True,False
+b201650f-9758-8177-7c87-516283156f9b,2012-05-24 08:57:48,2012-05-24 09:12:50,4861d01f-019c-3dac-a153-8334e50919f9,outpatient,Patient encounter procedure,1945.13,17.3,True,False
+b7fd6039-4c44-e0e5-7226-0818799df2f1,2012-06-07 16:18:29,2012-06-07 21:13:55,f99c74cc-7d1a-3f95-9a33-4a9357bf2f2a,ambulatory,Encounter for check up,8956.89,22.5,True,False
+NOSHOW-900010,2012-06-16 05:34:46,,b0e04623-b02c-3f8b-92ea-943fc4db60da,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+441b86f2-1fe1-1421-be18-feb081287f03,2012-06-16 05:34:46,2012-06-16 05:49:46,b0e04623-b02c-3f8b-92ea-943fc4db60da,ambulatory,Domiciliary or rest home patient evaluation and management,206.59,24.8,True,False
+1099ea2b-3c12-e090-68f1-cfeedce46b65,2012-07-06 20:21:02,2012-07-06 21:21:02,23834663-ed53-3da9-b330-d6e1ecb8428e,emergency,Emergency Encounter,129.16,155.1,True,False
+fa99a7df-ec2f-1941-112d-18754fda3b7e,2012-07-20 16:50:22,2012-07-20 17:50:22,465de31f-3098-365c-af70-48a071e1f5aa,emergency,Obstetric emergency hospital admission,7303.73,232.1,True,False
+94b90f24-c3da-d645-c05f-b5d6450c10a0,2012-07-26 04:34:20,2012-07-26 04:49:20,b0e04623-b02c-3f8b-92ea-943fc4db60da,ambulatory,Encounter for symptom,77.49,22.3,True,False
+94cf5a1c-f55a-8b17-2af5-0983acea0322,2012-08-21 04:14:46,2012-08-21 04:29:46,24cb4eab-6166-3530-bddc-a5a8a14a4fc1,outpatient,Consultation for treatment,129.16,13.1,True,False
+aa59a564-8f95-9d5a-f2b8-cf28cc60db12,2012-08-26 19:50:33,2012-08-26 20:05:33,d692e283-0833-3201-8e55-4f868a9c0736,ambulatory,Encounter for 'check-up',77.49,12.3,True,False
+956b92c8-6a00-74ba-e079-33a81a4adee0,2012-09-19 23:08:48,2012-09-19 23:23:48,e002090d-4e92-300e-b41e-7d1f21dee4c6,ambulatory,Prenatal visit,12195.42,21.6,True,False
+d9ad3e27-7bae-9d30-4a67-b548142d91be,2012-10-02 00:49:16,2012-10-02 01:49:16,5e765f2b-e908-3888-9fc7-df2cb87beb58,emergency,Emergency room admission (procedure),129.16,164.7,True,False
+896cdbd7-7130-cf88-2f68-00967a6d1892,2012-10-09 11:58:49,2012-10-09 12:58:49,12c9daf5-a29c-36c9-ac55-28972463e566,emergency,Emergency Encounter,129.16,133.9,True,False
+e2bbecda-37dd-c757-f865-4b7ed2cbcd82,2012-10-13 01:08:28,2012-10-13 01:23:28,7fb56531-86bd-3e4a-8619-4df9942da309,ambulatory,Prenatal visit,10299.42,18.8,True,False
+NOSHOW-900002,2012-10-13 01:08:28,,7fb56531-86bd-3e4a-8619-4df9942da309,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+8d71d0d6-a013-d364-b39d-12a47592d9b6,2012-10-13 10:04:43,2012-10-13 10:19:43,8ad64ecf-c817-3753-bee7-006a8e662e06,ambulatory,Follow-up encounter,77.49,10.3,True,False
+NOSHOW-900030,2012-10-13 10:04:43,,8ad64ecf-c817-3753-bee7-006a8e662e06,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+78ff64a7-eeab-bdbc-c120-36f4e94adb90,2012-10-26 20:21:02,2012-10-26 20:36:02,f7a6cc79-3075-3124-9f62-6fe562440b1d,urgentcare,Urgent care clinic (procedure),129.16,45.6,True,False
+db6d6c90-f19e-db70-0d9d-451050f52938,2012-11-11 06:34:29,2012-11-12 06:34:29,49318f80-bd8b-3fc7-a096-ac43088b0c12,inpatient,Encounter for problem,11851.58,,True,False
+3edfded1-dcfe-3065-23d4-deb66eb88703,2012-11-24 05:59:58,2012-11-24 06:14:58,226098a2-6a40-3588-b5bb-db56c3a30a04,ambulatory,Encounter for symptom,77.49,34.6,True,False
+da1ca241-1092-78a3-e519-120b24eef8dd,2012-11-29 04:35:13,2012-11-29 04:50:13,ef6ab57c-ed94-3dbe-9861-812d515918b3,ambulatory,Encounter for 'check-up',16175.87,10.2,True,False
+2e23886c-ed2c-1cd3-ba30-9c5deac0c458,2012-12-04 23:53:55,2012-12-05 00:08:55,d692e283-0833-3201-8e55-4f868a9c0736,outpatient,Consultation for treatment,2782.95,22.9,True,False
+d787739d-795a-fa7d-a9d3-00980e877a13,2012-12-26 23:08:48,2012-12-27 00:08:48,69176529-fd1f-3b3f-abce-a0a3626769eb,emergency,Obstetric emergency hospital admission,4123.36,85.8,True,False
+NOSHOW-900118,2013-01-08 04:06:42,,b0e04623-b02c-3f8b-92ea-943fc4db60da,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+8f8a8d99-4530-f8b6-2b65-56dd973eeaf7,2013-01-08 04:06:42,2013-01-08 04:21:42,b0e04623-b02c-3f8b-92ea-943fc4db60da,ambulatory,Prenatal visit,11565.3,21.4,True,False
+fcfe5102-24fe-de9c-7471-9f8cf116d3ab,2013-01-18 08:26:11,2013-01-18 09:15:47,226098a2-6a40-3588-b5bb-db56c3a30a04,ambulatory,Outpatient procedure,7947.21,28.4,True,False
+8c9cf2a3-87a2-24f4-3f7f-6fdcf834f7fc,2013-01-29 12:20:18,2013-01-29 12:35:18,69176529-fd1f-3b3f-abce-a0a3626769eb,ambulatory,Encounter for symptom,77.49,11.9,True,False
+NOSHOW-900062,2013-01-29 12:20:18,,69176529-fd1f-3b3f-abce-a0a3626769eb,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+94a5822f-af9a-32b5-e029-e92df84f6f04,2013-02-09 15:08:03,2013-02-09 15:23:03,4861d01f-019c-3dac-a153-8334e50919f9,ambulatory,Encounter for symptom,2550.94,12.2,True,False
+f255fb23-a887-8056-acb7-886ebbc6ad37,2013-02-13 17:45:27,2013-02-13 18:40:48,24cb4eab-6166-3530-bddc-a5a8a14a4fc1,ambulatory,Outpatient procedure,19742.73,20.6,True,False
+98d8b177-c65f-26cf-0f9a-52870923d731,2013-02-15 20:21:02,2013-02-15 20:36:02,f7a6cc79-3075-3124-9f62-6fe562440b1d,urgentcare,Urgent care clinic (procedure),129.16,43.5,True,False
+4de1f53e-cc70-6864-d213-a1a0fbada8e2,2013-02-21 21:34:44,2013-02-21 22:16:14,4861d01f-019c-3dac-a153-8334e50919f9,ambulatory,Encounter for 'check-up',13907.54,13.8,True,False
+5cbb5277-9845-ff4f-ebd9-666d1204bcc1,2013-02-27 13:07:25,2013-02-27 13:22:25,37b4d73f-652d-3033-a16e-d97b9e8b4cda,outpatient,Patient encounter procedure,3174.58,11.8,True,False
+daac5ff5-779d-98d5-21bd-dc8dbeebdd9a,2013-03-11 13:19:33,2013-03-11 13:34:33,3d10019f-c88e-3de5-9916-6107b9c0263d,ambulatory,Prenatal visit,19032.97,23.7,True,False
+NOSHOW-900013,2013-03-12 08:35:10,,465de31f-3098-365c-af70-48a071e1f5aa,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+b1444c83-c98f-2cfc-158f-119d06e94ac4,2013-03-12 08:35:10,2013-03-12 08:50:10,465de31f-3098-365c-af70-48a071e1f5aa,ambulatory,Asthma follow-up,129.16,33.6,True,False
+4c372f09-bfbe-b215-2c5e-fa0f6db9bda0,2013-03-23 23:29:54,2013-03-23 23:44:54,69176529-fd1f-3b3f-abce-a0a3626769eb,ambulatory,Prenatal visit,17377.44,12.5,True,False
+da8c36f9-9df4-1214-73d1-2d29bc48cd23,2013-04-05 16:18:29,2013-04-05 17:05:55,8ad64ecf-c817-3753-bee7-006a8e662e06,outpatient,Patient encounter procedure,8038.39,20.6,True,False
+NOSHOW-900188,2013-05-05 03:32:52,,8ad64ecf-c817-3753-bee7-006a8e662e06,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+NOSHOW-900166,2013-05-05 03:32:52,,8ad64ecf-c817-3753-bee7-006a8e662e06,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+42521a44-cfd5-de72-97cb-a89855532be1,2013-05-05 03:32:52,2013-05-05 03:48:44,8ad64ecf-c817-3753-bee7-006a8e662e06,outpatient,Patient encounter procedure,4194.8,27.6,True,False
+e7b51df3-00e7-b14a-716c-2f2161205a29,2013-05-25 13:12:30,2013-05-25 13:27:30,d692e283-0833-3201-8e55-4f868a9c0736,ambulatory,Patient-initiated encounter,12939.37,12.4,True,False
+dfcd9e7c-9641-7569-f718-15cb14987e83,2013-06-13 23:53:55,2013-06-14 00:08:55,d692e283-0833-3201-8e55-4f868a9c0736,outpatient,Patient encounter procedure,3538.71,12.6,True,False
+281e7aaf-5637-f5eb-c409-340c90b9bf7d,2013-07-13 12:26:15,2013-07-13 12:41:15,7fb56531-86bd-3e4a-8619-4df9942da309,ambulatory,Encounter for symptom,77.49,37.4,True,False
+e11eecfb-4f82-61ef-222d-8b68a1db0d7c,2013-07-14 05:40:25,2013-07-14 05:55:25,c44f361c-2efb-3050-8f97-0354a12e2920,outpatient,Encounter for check up (procedure),77.49,25.0,True,False
+5c64b335-dfa6-a1cc-5f58-c709d55ba695,2013-07-16 02:20:10,2013-07-16 02:35:10,db0acede-4abe-3c01-8d03-5c68a190d8c7,ambulatory,Encounter for symptom,77.49,8.4,True,False
+NOSHOW-900083,2013-07-19 09:31:21,,b1ddf812-1fdd-3adf-b1d5-32cc8bd07ebb,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+db6cfd67-58b6-e730-3cb2-1f12c43d73f9,2013-07-19 09:31:21,2013-07-19 10:02:32,b1ddf812-1fdd-3adf-b1d5-32cc8bd07ebb,ambulatory,Allergic disorder initial assessment,645.81,19.5,True,False
+4a60dabf-7ff4-f526-1c57-8c58386cebe6,2013-07-21 19:50:42,2013-07-21 20:50:42,b1ddf812-1fdd-3adf-b1d5-32cc8bd07ebb,emergency,Obstetric emergency hospital admission,645.81,68.8,True,False
+6ff8c739-6001-6893-1c0f-762dcca74225,2013-07-29 02:42:07,2013-07-29 02:57:07,69176529-fd1f-3b3f-abce-a0a3626769eb,outpatient,Consultation for treatment,2802.61,20.1,True,False
+d4759db5-a9dc-fb59-7d64-318877517bda,2013-07-29 16:17:00,2013-07-29 17:17:00,49318f80-bd8b-3fc7-a096-ac43088b0c12,emergency,Emergency room admission (procedure),1162.46,241.6,True,False
+019bea51-f6be-0b51-8f4a-0a91ff135693,2013-08-10 03:19:24,2013-08-10 03:43:06,49318f80-bd8b-3fc7-a096-ac43088b0c12,ambulatory,Outpatient procedure,13244.27,26.6,True,False
+08c170dd-5aa6-616b-6737-5b6ddf44b4d8,2013-09-08 06:57:17,2013-09-08 07:12:17,226098a2-6a40-3588-b5bb-db56c3a30a04,outpatient,Patient encounter procedure,4027.6,13.3,True,False
+f13267e9-636a-d4c1-38f9-20c1de6dc189,2013-09-11 13:56:23,2013-09-11 14:11:23,e002090d-4e92-300e-b41e-7d1f21dee4c6,ambulatory,Prenatal visit,18791.85,21.0,True,False
+NOSHOW-900011,2013-09-11 13:56:23,,e002090d-4e92-300e-b41e-7d1f21dee4c6,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+153dad8e-904a-4c16-a908-d6f2eceb1872,2013-09-14 19:21:05,2013-09-14 19:36:05,37c0de84-bcaf-3624-82bf-a89b2ac441b8,ambulatory,Prenatal visit,21674.3,19.5,True,False
+73a0eba8-53a2-ac38-e981-12042eb580e7,2013-10-06 04:06:10,2013-10-06 04:21:10,c44f361c-2efb-3050-8f97-0354a12e2920,ambulatory,Prenatal visit,11464.2,8.1,True,False
+43662f0b-e7b9-585a-677c-c766b0d306be,2013-10-10 08:17:48,2013-10-10 08:32:48,d692e283-0833-3201-8e55-4f868a9c0736,ambulatory,Encounter for symptom,77.49,18.8,True,False
+NOSHOW-900197,2013-10-11 20:21:02,,f7a6cc79-3075-3124-9f62-6fe562440b1d,urgentcare,Scheduled appointment -- no-show (synthetic),,,False,True
+b1043fab-2ad2-b0ea-f24e-09816a4d7c60,2013-10-11 20:21:02,2013-10-11 20:36:02,f7a6cc79-3075-3124-9f62-6fe562440b1d,urgentcare,Urgent care clinic (procedure),129.16,16.9,True,False
+3542103a-d430-2f65-f8dc-217695798a3a,2013-10-21 13:17:41,2013-10-21 14:17:41,d5117822-5756-389d-9547-891a372d580f,emergency,Emergency room admission (procedure),1162.46,152.6,True,False
+616c3dcc-a492-6077-5658-564ed49ad313,2013-11-01 08:33:36,2013-11-01 08:48:36,0b78995f-8b45-34d3-969d-afcc456bb1c7,wellness,General examination of patient (procedure),1571.26,37.3,True,False
+NOSHOW-900128,2013-11-01 08:33:36,,0b78995f-8b45-34d3-969d-afcc456bb1c7,wellness,Scheduled appointment -- no-show (synthetic),,,False,True
+35850bee-c79b-8568-01b8-afdb0630a2ca,2013-11-01 09:29:28,2013-11-01 09:44:28,4861d01f-019c-3dac-a153-8334e50919f9,outpatient,Consultation for treatment,129.16,15.6,True,False
+00a43007-61a1-805f-654a-95fe32fa56dd,2013-11-11 14:20:29,2013-11-11 14:35:29,465de31f-3098-365c-af70-48a071e1f5aa,ambulatory,Follow-up encounter,77.49,26.2,True,False
+63ad0afc-cd12-78c5-679f-9db00355de8b,2013-11-14 02:40:49,2013-11-15 02:40:49,8ad64ecf-c817-3753-bee7-006a8e662e06,inpatient,Encounter for problem,38243.27,,True,False
+552961b8-1c17-1c11-ec10-e361f7200c2f,2013-11-27 08:33:48,2013-11-27 08:48:48,24cb4eab-6166-3530-bddc-a5a8a14a4fc1,ambulatory,Encounter for symptom,77.49,39.5,True,False
+4482eefd-8cc7-08ed-bc88-4af3d788983a,2013-12-15 06:57:45,2013-12-15 07:12:45,37c0de84-bcaf-3624-82bf-a89b2ac441b8,ambulatory,Postnatal visit,1162.46,9.8,True,False
+1c9527ff-a7a4-2307-8b7e-5e3cdfab41f2,2013-12-16 06:58:39,2013-12-17 06:58:39,8ad64ecf-c817-3753-bee7-006a8e662e06,inpatient,Encounter for problem,594.14,,True,False
+fa405156-3086-9551-cfa8-f7d80163c048,2013-12-24 13:12:30,2013-12-24 13:27:30,d692e283-0833-3201-8e55-4f868a9c0736,ambulatory,Prenatal visit,19696.09,88.2,True,False
+587d866c-8706-f1d1-71fa-c39f26a84c71,2013-12-26 02:11:20,2013-12-26 02:26:20,f1fbcbfb-fcfa-3bd2-b7f4-df20f1b3c3a4,ambulatory,Encounter for problem,77.49,18.5,True,False
+9de5f443-cb2b-a0e0-b0f6-94a1de5f7d1d,2013-12-29 05:53:58,2013-12-29 06:08:58,f4e7709c-02f6-37ca-aeea-8247d74e88e7,ambulatory,Hypertension follow-up encounter,77.49,35.1,True,False
+344241b6-dc8e-37e7-6ba3-adf15746d335,2014-01-13 12:14:14,2014-01-14 12:14:14,c44f361c-2efb-3050-8f97-0354a12e2920,inpatient,Gynecology service (qualifier value),2560.55,,True,False
+86919456-d735-8506-961e-3c9e17966b60,2014-01-31 13:07:25,2014-01-31 13:22:25,37b4d73f-652d-3033-a16e-d97b9e8b4cda,outpatient,Encounter for problem (procedure),77.49,23.6,True,False
+138192c1-c53f-8417-f100-f7ab58a540c4,2014-02-03 05:32:07,2014-02-03 05:47:07,d692e283-0833-3201-8e55-4f868a9c0736,outpatient,Encounter for problem (procedure),77.49,30.7,True,False
+NOSHOW-900160,2014-02-03 05:32:07,,d692e283-0833-3201-8e55-4f868a9c0736,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+NOSHOW-900134,2014-02-03 05:32:07,,d692e283-0833-3201-8e55-4f868a9c0736,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+426a9fe5-aa3e-570b-8411-4f2f0895ee35,2014-02-04 13:44:31,2014-02-04 14:33:43,8ad64ecf-c817-3753-bee7-006a8e662e06,ambulatory,Patient encounter procedure (procedure),645.81,14.8,True,False
+8cbb4b50-2a57-a992-f192-5669b1545213,2014-02-05 02:53:25,2014-02-05 03:41:15,ef6ab57c-ed94-3dbe-9861-812d515918b3,ambulatory,Patient encounter procedure (procedure),645.81,8.1,True,False
+0fa4cb83-d272-0909-e1ef-bec6551cad76,2014-02-06 05:41:11,2014-02-06 05:56:11,23834663-ed53-3da9-b330-d6e1ecb8428e,outpatient,Encounter for problem (procedure),77.49,42.2,True,False
+d20c2e1d-15b0-2e35-92a7-b1e7dfb26b70,2014-02-06 14:02:11,2014-02-06 14:17:11,b0e04623-b02c-3f8b-92ea-943fc4db60da,outpatient,Encounter for problem (procedure),77.49,12.4,True,False
+ae3e1d4c-94a3-673a-7d16-6a6e1359458c,2014-02-08 04:20:19,2014-02-08 05:06:40,03347b4d-994e-302b-848b-58019a4e274d,ambulatory,Patient encounter procedure (procedure),645.81,16.6,True,False
+NOSHOW-900079,2014-02-08 08:25:48,,f71ce1a9-cca7-3295-9a1e-c88ac3479b6f,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+def87495-4870-3bf5-3317-101039d776e8,2014-02-08 08:25:48,2014-02-08 09:14:40,f71ce1a9-cca7-3295-9a1e-c88ac3479b6f,ambulatory,Patient encounter procedure (procedure),645.81,10.8,True,False
+ec5202c6-ae9e-cd51-2fc6-40bc9c2f87f1,2014-02-08 15:21:41,2014-02-08 16:14:45,5e765f2b-e908-3888-9fc7-df2cb87beb58,ambulatory,Patient encounter procedure (procedure),645.81,10.5,True,False
+1bea6a88-8fcd-163e-6857-c49af93dc589,2014-02-09 14:38:40,2014-02-09 15:27:46,e002090d-4e92-300e-b41e-7d1f21dee4c6,ambulatory,Patient encounter procedure (procedure),645.81,9.3,True,False
+NOSHOW-900110,2014-02-10 14:48:51,,4861d01f-019c-3dac-a153-8334e50919f9,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+5eabe56d-5d6d-a883-c296-b8211ebf662e,2014-02-10 14:48:51,2014-02-10 15:43:30,4861d01f-019c-3dac-a153-8334e50919f9,ambulatory,Patient encounter procedure (procedure),645.81,43.0,True,False
+NOSHOW-900046,2014-02-10 14:48:51,,4861d01f-019c-3dac-a153-8334e50919f9,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+NOSHOW-900071,2014-02-11 20:50:03,,ef58ea08-d883-3957-8300-150554edc8fb,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+NOSHOW-900027,2014-02-11 20:50:03,,ef58ea08-d883-3957-8300-150554edc8fb,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+ca2abc0a-b05d-dd60-2318-dde3e7e1177b,2014-02-11 20:50:03,2014-02-11 21:39:21,ef58ea08-d883-3957-8300-150554edc8fb,ambulatory,Patient encounter procedure (procedure),645.81,5.0,True,False
+fff07115-044d-71d3-2463-e2d65c30db5a,2014-02-12 01:36:42,2014-02-12 02:23:01,d692e283-0833-3201-8e55-4f868a9c0736,ambulatory,Patient encounter procedure (procedure),16110.82,27.3,True,False
+5494b120-1240-062c-c1f1-9682d927c9f0,2014-02-12 07:28:34,2014-02-12 08:20:03,ecc51621-0af3-3b35-ac3e-8b1e34022e92,ambulatory,Patient encounter procedure (procedure),645.81,18.5,True,False
+0ad5136e-f851-b0a6-4bd9-1c399a78374a,2014-02-12 18:17:18,2014-02-12 19:06:24,24cb4eab-6166-3530-bddc-a5a8a14a4fc1,ambulatory,Patient encounter procedure (procedure),9196.4,23.6,True,False
+105a61aa-14cc-5ef7-d668-2ad7d61468ab,2014-02-13 00:05:25,2014-02-13 00:53:43,24cb4eab-6166-3530-bddc-a5a8a14a4fc1,ambulatory,Patient encounter procedure (procedure),13980.02,7.8,True,False
+NOSHOW-900053,2014-02-14 06:26:00,,ecc51621-0af3-3b35-ac3e-8b1e34022e92,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+7cb5ffe8-4b5b-7773-9717-2c6e377dd5a0,2014-02-14 06:26:00,2014-02-14 07:15:35,ecc51621-0af3-3b35-ac3e-8b1e34022e92,ambulatory,Patient encounter procedure (procedure),645.81,12.8,True,False
+908873c0-c7ef-6e23-d67f-9ef6c7d70138,2014-02-15 02:23:01,2014-02-15 03:21:43,d692e283-0833-3201-8e55-4f868a9c0736,ambulatory,Patient encounter procedure (procedure),15236.51,15.6,True,False
+NOSHOW-900035,2014-02-15 02:52:43,,f71ce1a9-cca7-3295-9a1e-c88ac3479b6f,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+817c7d55-4dca-b97f-095d-25a3dcb75b2e,2014-02-15 02:52:43,2014-02-15 03:42:44,f71ce1a9-cca7-3295-9a1e-c88ac3479b6f,ambulatory,Patient encounter procedure (procedure),645.81,26.9,True,False
+95b502c2-bd10-1641-e219-323c7352082a,2014-02-15 22:51:05,2014-02-15 23:49:03,8ad64ecf-c817-3753-bee7-006a8e662e06,ambulatory,Patient encounter procedure (procedure),645.81,15.6,True,False
+0b89aa86-15ac-ac5e-0aee-bd8764cf94f8,2014-02-18 05:33:33,2014-02-18 06:22:43,db0acede-4abe-3c01-8d03-5c68a190d8c7,ambulatory,Patient encounter procedure (procedure),645.81,27.8,True,False
+569be3b9-8b25-1344-4010-3900c1a91c00,2014-02-18 18:00:22,2014-02-18 18:55:05,03347b4d-994e-302b-848b-58019a4e274d,ambulatory,Patient encounter procedure (procedure),645.81,22.9,True,False
+52919611-11ba-dff1-5ac5-217f792654bd,2014-02-19 11:08:56,2014-02-19 12:00:00,5e765f2b-e908-3888-9fc7-df2cb87beb58,ambulatory,Patient encounter procedure (procedure),645.81,14.9,True,False
+dd683d68-79a8-f6a0-2bd8-b4ebfdad8344,2014-02-19 12:44:10,2014-02-19 13:16:47,f71ce1a9-cca7-3295-9a1e-c88ac3479b6f,ambulatory,Patient encounter procedure (procedure),17683.83,7.1,True,False
+5c1e669a-92d2-2a0b-1767-ff4daa0772d9,2014-02-21 06:22:43,2014-02-21 07:10:11,db0acede-4abe-3c01-8d03-5c68a190d8c7,ambulatory,Patient encounter procedure (procedure),645.81,21.2,True,False
+38656746-9e86-f18b-4a1d-8a2bf2288349,2014-02-21 23:04:28,2014-02-21 23:59:32,ebc3f5c4-6700-34af-8323-85621c313726,ambulatory,Patient encounter procedure (procedure),645.81,11.9,True,False
+45e6a387-759c-9989-e386-75d863fe63cf,2014-02-25 10:10:21,2014-02-25 11:08:57,b0e04623-b02c-3f8b-92ea-943fc4db60da,ambulatory,Patient encounter procedure (procedure),645.81,15.2,True,False
+05c68d24-508b-fc19-8546-804d37b9a0cb,2014-02-25 12:46:04,2014-02-25 13:45:26,5e765f2b-e908-3888-9fc7-df2cb87beb58,ambulatory,Patient encounter procedure (procedure),645.81,14.5,True,False
+c269a494-8741-0ae5-a516-feea0780e102,2014-02-25 14:11:14,2014-02-25 15:10:54,f71ce1a9-cca7-3295-9a1e-c88ac3479b6f,ambulatory,Patient encounter procedure (procedure),15598.09,16.8,True,False
+1bbcc9f1-2854-2d63-31db-28520fc56785,2014-02-27 13:55:55,2014-02-27 14:54:04,4861d01f-019c-3dac-a153-8334e50919f9,ambulatory,Patient encounter procedure (procedure),645.81,8.7,True,False
+8e280d65-c177-f033-3682-88b63298139d,2014-03-01 17:39:57,2014-03-01 18:26:10,db0acede-4abe-3c01-8d03-5c68a190d8c7,ambulatory,Patient encounter procedure (procedure),645.81,15.5,True,False
+a0a03057-d68a-81d1-46dc-0bc95a987268,2014-03-03 13:23:06,2014-03-04 13:23:06,c44f361c-2efb-3050-8f97-0354a12e2920,inpatient,Encounter for problem,1534.05,,True,False
+851b9e67-d33e-0b6c-c706-17e92dd6c734,2014-03-03 15:39:08,2014-03-03 16:38:42,f4e7709c-02f6-37ca-aeea-8247d74e88e7,ambulatory,Patient encounter procedure (procedure),645.81,28.6,True,False
+d6beb122-9893-e23d-2110-a20f1252ffbb,2014-03-05 19:14:38,2014-03-05 20:01:49,ecc51621-0af3-3b35-ac3e-8b1e34022e92,ambulatory,Patient encounter procedure (procedure),645.81,25.4,True,False
+bbcaef4d-662a-d006-89a9-f4c2d28d29b3,2014-03-06 10:20:08,2014-03-06 10:35:08,b1ddf812-1fdd-3adf-b1d5-32cc8bd07ebb,ambulatory,Telemedicine consultation with patient,129.16,18.3,True,False
+NOSHOW-900096,2014-03-07 18:28:35,,3d10019f-c88e-3de5-9916-6107b9c0263d,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+6e03a06f-1b06-3460-6aa6-99bacb92ec66,2014-03-07 18:28:35,2014-03-07 18:43:35,3d10019f-c88e-3de5-9916-6107b9c0263d,ambulatory,Follow-up encounter (procedure),77.49,16.9,True,False
+e1a18963-b14d-eed9-0b5b-fefddbe7091a,2014-03-09 05:40:25,2014-03-09 06:40:25,226098a2-6a40-3588-b5bb-db56c3a30a04,emergency,Emergency Encounter,129.16,196.5,True,False
+6c71ed36-0aab-68e3-0e85-bbf5bfbf00cc,2014-03-13 20:45:19,2014-03-13 21:45:19,6f122869-a856-3d65-8db9-099bf4f5bbb8,emergency,Emergency Room Admission,129.16,132.8,True,False
+e788d010-1f4f-c752-c2fd-6ebec52924c6,2014-03-16 22:51:57,2014-03-16 23:06:57,ecc51621-0af3-3b35-ac3e-8b1e34022e92,ambulatory,Encounter for 'check-up',77.49,10.5,True,False
+0d65bbd8-43ab-8ec4-9ebb-ed5f270462c1,2014-03-21 08:40:58,2014-03-21 08:55:58,ef6ab57c-ed94-3dbe-9861-812d515918b3,ambulatory,Follow-up encounter (procedure),77.49,20.8,True,False
+NOSHOW-900154,2014-03-27 00:08:55,,69176529-fd1f-3b3f-abce-a0a3626769eb,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+b17d6c5c-65e3-93fb-3f1f-99dc932e8336,2014-03-27 00:08:55,2014-03-27 00:23:55,69176529-fd1f-3b3f-abce-a0a3626769eb,outpatient,Consultation for treatment,3767.15,17.6,True,False
+cf675942-9b9e-a4da-c6e3-0a626bef9a8e,2014-03-28 05:31:10,2014-03-28 05:46:10,ebc3f5c4-6700-34af-8323-85621c313726,ambulatory,Follow-up encounter (procedure),77.49,14.5,True,False
+ddaf8fda-259e-3b41-1377-fca2b75305c9,2014-03-28 22:34:24,2014-03-28 22:50:13,3d10019f-c88e-3de5-9916-6107b9c0263d,outpatient,Consultation for treatment,2314.51,31.9,True,False
+28375c81-84e8-64f9-b659-225549133f6a,2014-03-28 23:38:12,2014-03-28 23:53:12,12c9daf5-a29c-36c9-ac55-28972463e566,ambulatory,Postnatal visit,1162.46,9.9,True,False
+bba03619-cb8f-ffe3-34df-a306ccc8624f,2014-03-30 07:34:19,2014-03-30 07:49:19,7fb56531-86bd-3e4a-8619-4df9942da309,ambulatory,Follow-up encounter (procedure),77.49,14.4,True,False
+25ad9189-1300-2edf-0ae0-02ed56ec0b5d,2014-04-03 08:57:50,2014-04-04 08:57:50,c44f361c-2efb-3050-8f97-0354a12e2920,inpatient,Encounter for problem,1151.22,,True,False
+e636ceca-112e-33ab-d1c3-b24c8bad4a64,2014-04-13 09:36:38,2014-04-13 09:51:38,4861d01f-019c-3dac-a153-8334e50919f9,outpatient,Encounter for check up (procedure),218.01,19.2,True,False
+NOSHOW-900148,2014-04-13 09:36:38,,4861d01f-019c-3dac-a153-8334e50919f9,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+NOSHOW-900080,2014-04-17 14:45:55,,4861d01f-019c-3dac-a153-8334e50919f9,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+0f00d1c0-dc05-0734-0cd1-4f36c11fff4f,2014-04-17 14:45:55,2014-04-17 15:00:55,4861d01f-019c-3dac-a153-8334e50919f9,ambulatory,Encounter for symptom,10847.75,13.1,True,False
+9b6b0d69-3618-104b-d2ce-2d4c563673c3,2014-04-20 07:36:32,2014-04-20 07:51:32,e002090d-4e92-300e-b41e-7d1f21dee4c6,ambulatory,Prenatal initial visit,69764.57,25.1,True,False
+NOSHOW-900104,2014-04-20 07:36:32,,e002090d-4e92-300e-b41e-7d1f21dee4c6,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+a441b268-1845-d331-afc6-26b9fbe696fd,2014-04-25 18:17:41,2014-04-25 19:17:41,23834663-ed53-3da9-b330-d6e1ecb8428e,emergency,Emergency room admission (procedure),9039.37,253.9,True,False
+ed30adfa-5800-4ad6-f7fe-c3a36e1c5523,2014-05-03 02:41:38,2014-05-04 02:41:38,8ad64ecf-c817-3753-bee7-006a8e662e06,inpatient,Encounter for problem,1493.38,,True,False
+4ceb505c-3d11-eb31-31b1-e6f5241bba48,2014-05-07 20:57:07,2014-05-07 21:12:07,e002090d-4e92-300e-b41e-7d1f21dee4c6,ambulatory,Follow-up encounter (procedure),77.49,16.6,True,False
+a5a9bb12-2318-bc07-55a2-dcc1074f5652,2014-05-09 11:37:33,2014-05-10 11:37:33,8ad64ecf-c817-3753-bee7-006a8e662e06,inpatient,Encounter for problem,743.26,,True,False
+950ba855-b0f8-3bae-bb86-d296fafeb8e5,2014-05-11 05:15:42,2014-05-11 05:30:42,24cb4eab-6166-3530-bddc-a5a8a14a4fc1,ambulatory,Encounter for symptom,77.49,25.1,True,False
+1fd952e2-5694-71d5-e01c-5afbe85f75e5,2014-05-17 11:52:31,2014-05-17 12:07:31,b0e04623-b02c-3f8b-92ea-943fc4db60da,ambulatory,Follow-up encounter (procedure),77.49,15.1,True,False
+922e396c-6a0f-c3a2-f829-9d6ed0f009bd,2014-05-20 01:14:56,2014-05-20 01:29:56,5e765f2b-e908-3888-9fc7-df2cb87beb58,ambulatory,Follow-up encounter (procedure),77.49,20.1,True,False
+adaa5704-b044-c935-f537-efb53e44e1b3,2014-05-23 03:50:52,2014-05-23 04:05:52,b0e04623-b02c-3f8b-92ea-943fc4db60da,outpatient,Encounter for problem (procedure),77.49,28.9,True,False
+47d8192a-27cb-815f-6755-b282356391df,2014-05-29 15:31:31,2014-05-29 15:46:31,d311e70d-86e7-3c03-b115-53892bcf7ef1,wellness,General examination of patient (procedure),786.33,16.9,True,False
+8a16847d-86f2-8192-68f5-daddeab7ddf8,2014-06-06 05:51:58,2014-06-06 06:06:58,5e765f2b-e908-3888-9fc7-df2cb87beb58,ambulatory,Follow-up encounter (procedure),77.49,21.4,True,False
+c006138a-a76a-6706-8ef9-aceb2df86ca5,2014-06-07 01:25:13,2014-06-07 01:40:13,5d4b9df1-93ae-3bc9-b680-03249990e558,ambulatory,Asthma follow-up,129.16,6.8,True,False
+NOSHOW-900054,2014-06-07 06:28:35,,3d10019f-c88e-3de5-9916-6107b9c0263d,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+a9111dd4-1705-43d1-c4a2-4f702b6c5adc,2014-06-07 06:28:35,2014-06-07 06:43:35,3d10019f-c88e-3de5-9916-6107b9c0263d,ambulatory,Prenatal visit,8896.66,49.8,True,False
+d329aaf3-107b-f593-5073-767f4c991526,2014-06-10 11:29:38,2014-06-10 11:44:38,37eb7694-de8f-3407-b95f-1a6a31fb0f6a,outpatient,Encounter for check up (procedure),44274.01,17.7,True,False
+54837e1a-7e22-127a-ce4f-e7886918ac3a,2014-06-14 06:26:45,2014-06-14 06:41:45,d692e283-0833-3201-8e55-4f868a9c0736,ambulatory,Encounter for symptom,77.49,21.5,True,False
+68a2f867-56d0-e6dc-67b7-d5cff599a6a6,2014-06-25 07:22:49,2014-06-25 07:37:49,c1c0c43e-ca87-3ee5-9549-be3f28afde81,outpatient,Encounter for check up (procedure),77.49,9.1,True,False
+9a8526e9-09da-7e97-f072-b990af2eeab1,2014-07-04 10:20:08,2014-07-04 10:35:08,b1ddf812-1fdd-3adf-b1d5-32cc8bd07ebb,ambulatory,Telemedicine consultation with patient,129.16,17.2,True,False
+e4e56e01-764e-55c8-661e-40e34474b036,2014-07-05 08:14:45,2014-07-05 08:29:45,d5117822-5756-389d-9547-891a372d580f,ambulatory,Follow-up encounter,77.49,35.5,True,False
+NOSHOW-900196,2014-07-11 20:21:02,,f7a6cc79-3075-3124-9f62-6fe562440b1d,urgentcare,Scheduled appointment -- no-show (synthetic),,,False,True
+542de837-f96b-174c-dcd5-9387eedaa444,2014-07-11 20:21:02,2014-07-11 20:36:02,f7a6cc79-3075-3124-9f62-6fe562440b1d,urgentcare,Urgent care clinic (procedure),129.16,58.1,True,False
+NOSHOW-900192,2014-07-15 19:54:04,,fbf6180e-b800-3ebe-b91d-93d0288c400e,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+378a42d3-019c-24ae-bae0-68b3cc5c50f0,2014-07-15 19:54:04,2014-07-15 20:09:04,fbf6180e-b800-3ebe-b91d-93d0288c400e,outpatient,Encounter for problem (procedure),77.49,13.9,True,False
+c714ecde-43f1-8bbe-b98e-a3bcf73cb69e,2014-07-16 11:52:31,2014-07-16 12:07:31,b0e04623-b02c-3f8b-92ea-943fc4db60da,ambulatory,Follow-up encounter (procedure),77.49,19.7,True,False
+791c18ad-2be6-af06-08cb-03a5e318d35c,2014-07-25 10:04:29,2014-07-26 10:04:29,e002090d-4e92-300e-b41e-7d1f21dee4c6,inpatient,Gynecology service (qualifier value),2672.61,,True,False
+533b959b-8ed1-0926-9465-7bc31e45d7e2,2014-08-03 15:11:23,2014-08-03 15:26:23,d692e283-0833-3201-8e55-4f868a9c0736,ambulatory,Encounter for symptom,77.49,13.6,True,False
+b05fbeec-73b2-0294-8cd3-f1efb88f71e9,2014-08-06 04:43:19,2014-08-06 04:58:53,4861d01f-019c-3dac-a153-8334e50919f9,outpatient,Patient encounter procedure,3188.31,22.8,True,False
+NOSHOW-900106,2014-08-11 13:26:16,,37b4d73f-652d-3033-a16e-d97b9e8b4cda,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+ec0c9917-ddcc-0b57-01dd-fbaf0d3cce81,2014-08-11 13:26:16,2014-08-11 13:41:16,37b4d73f-652d-3033-a16e-d97b9e8b4cda,ambulatory,Encounter for symptom,77.49,18.4,True,False
+a2af73da-2a6b-0df4-d4c4-0159b119eca3,2014-08-13 06:15:24,2014-08-13 06:30:24,465de31f-3098-365c-af70-48a071e1f5aa,ambulatory,Follow-up encounter (procedure),77.49,8.2,True,False
+db31fe1d-8f6b-4da1-9987-88096e8baf25,2014-08-18 19:20:21,2014-08-18 19:35:21,ef6ab57c-ed94-3dbe-9861-812d515918b3,ambulatory,Follow-up encounter (procedure),77.49,20.7,True,False
+6b119a59-ab4e-7b46-9bdc-a693c51d7135,2014-08-20 09:01:12,2014-08-20 09:16:12,f1fbcbfb-fcfa-3bd2-b7f4-df20f1b3c3a4,outpatient,Encounter for problem (procedure),77.49,22.9,True,False
+d881d99b-213e-0f56-af97-f3de5e0a9560,2014-08-31 14:43:20,2014-08-31 14:58:20,5d4b9df1-93ae-3bc9-b680-03249990e558,outpatient,Encounter for check up (procedure),77.49,6.4,True,False
+NOSHOW-900178,2014-08-31 14:43:20,,5d4b9df1-93ae-3bc9-b680-03249990e558,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+17775b0a-5c55-6052-b8d0-106d7e40e046,2014-09-03 02:30:29,2014-09-04 02:30:29,49318f80-bd8b-3fc7-a096-ac43088b0c12,inpatient,Encounter for problem,8704.61,,True,False
+bd0d633b-6045-a27b-b6d3-f126524db4af,2014-09-12 20:34:27,2014-09-12 21:28:41,b1ddf812-1fdd-3adf-b1d5-32cc8bd07ebb,ambulatory,Outpatient procedure,12289.59,22.8,True,False
+c2872020-61ee-7ebd-d1b9-7a255b160d32,2014-09-17 14:19:39,2014-09-17 14:34:39,8ad64ecf-c817-3753-bee7-006a8e662e06,ambulatory,Postoperative follow-up visit (procedure),129.16,24.5,True,False
+NOSHOW-900034,2014-09-21 05:24:49,,8ad64ecf-c817-3753-bee7-006a8e662e06,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+07c272af-1119-fb7c-a442-243464d8ac7c,2014-09-21 05:24:49,2014-09-21 07:17:54,8ad64ecf-c817-3753-bee7-006a8e662e06,ambulatory,Encounter for problem,1110.79,22.3,True,False
+26812455-d3a6-1e13-a708-a58ff5f0b019,2014-09-21 08:50:03,2014-09-21 09:50:03,e002090d-4e92-300e-b41e-7d1f21dee4c6,ambulatory,Encounter for problem,15424.96,20.1,True,False
+52b9a484-e440-254f-56ec-a6096847b8a7,2014-09-25 22:59:05,2014-09-25 23:14:05,f7a6cc79-3075-3124-9f62-6fe562440b1d,urgentcare,Urgent care clinic (procedure),26098.9,32.7,True,False
+e9278efe-212c-a391-0ca7-ee75611b1f41,2014-10-01 20:00:52,2014-10-01 21:00:52,5e765f2b-e908-3888-9fc7-df2cb87beb58,emergency,Emergency room admission (procedure),15609.28,173.9,True,False
+5288a486-2a10-93e1-7438-f2e3f6e6267a,2014-10-03 08:33:36,2014-10-03 08:48:36,f7a6cc79-3075-3124-9f62-6fe562440b1d,urgentcare,Urgent care clinic (procedure),129.16,51.6,True,False
+de9f522b-3356-60fb-4163-93fa82e198d4,2014-10-06 03:10:39,2014-10-06 03:25:39,d5117822-5756-389d-9547-891a372d580f,ambulatory,Prenatal visit,14063.5,11.5,True,False
+NOSHOW-900077,2014-10-06 03:10:39,,d5117822-5756-389d-9547-891a372d580f,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+eaa0eb35-ca1c-389c-1b5f-2cc70ca79ffd,2014-10-06 18:44:36,2014-10-06 18:59:36,4861d01f-019c-3dac-a153-8334e50919f9,ambulatory,Follow-up encounter,77.49,30.1,True,False
+NOSHOW-900076,2014-10-06 18:44:36,,4861d01f-019c-3dac-a153-8334e50919f9,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+96f80952-8bac-1a5a-e7af-7d913e769e93,2014-10-15 03:17:11,2014-10-15 04:17:11,3d10019f-c88e-3de5-9916-6107b9c0263d,emergency,Emergency room admission (procedure),129.16,99.8,True,False
+54b941c8-6ea8-a45a-8df2-ccc2be0f8a7b,2014-10-16 00:15:38,2014-10-16 00:30:38,db0acede-4abe-3c01-8d03-5c68a190d8c7,ambulatory,Encounter for symptom,1852.34,18.0,True,False
+19f2e52a-34a9-9d8a-0096-2af5b54e0988,2014-10-18 18:44:36,2014-10-18 18:59:36,4861d01f-019c-3dac-a153-8334e50919f9,outpatient,Encounter for problem (procedure),77.49,25.4,True,False
+90c8fc59-fdab-d891-1935-538552a06298,2014-10-21 19:20:39,2014-10-21 21:08:42,8ad64ecf-c817-3753-bee7-006a8e662e06,ambulatory,Encounter for problem,1110.79,24.5,True,False
+ca94b320-4d46-6d93-ac40-a8c0f11f748d,2014-11-13 01:34:49,2014-11-13 01:49:49,226098a2-6a40-3588-b5bb-db56c3a30a04,ambulatory,Postoperative follow-up visit (procedure),129.16,26.7,True,False
+7127a6d6-422d-6197-9652-b6536489557e,2014-11-15 05:25:45,2014-11-15 05:40:45,8ad64ecf-c817-3753-bee7-006a8e662e06,ambulatory,Encounter for 'check-up',77.49,16.2,True,False
+70a42bf5-bcce-c9e1-d61d-3ccc152ed7bc,2014-11-15 14:05:02,2014-11-15 14:20:02,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Prenatal visit,14726.49,27.6,True,False
+07af71cf-9915-ad5d-eeaa-059ae0d33a8d,2014-11-22 09:34:20,2014-11-22 09:49:20,b0e04623-b02c-3f8b-92ea-943fc4db60da,ambulatory,Prenatal visit,20202.29,21.6,True,False
+NOSHOW-900008,2014-11-22 09:34:20,,b0e04623-b02c-3f8b-92ea-943fc4db60da,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+NOSHOW-900059,2014-11-22 09:34:20,,b0e04623-b02c-3f8b-92ea-943fc4db60da,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+23138c57-0c24-dadf-9c02-64e5538204c4,2014-11-26 03:17:11,2014-11-26 03:32:11,3d10019f-c88e-3de5-9916-6107b9c0263d,ambulatory,Encounter for 'check-up',77.49,22.4,True,False
+d1d0200b-443c-9270-33f9-6d5a1e6ff5b7,2014-12-02 05:14:56,2014-12-02 05:29:56,5e765f2b-e908-3888-9fc7-df2cb87beb58,ambulatory,Prenatal visit,18485.49,11.9,True,False
+NOSHOW-900095,2014-12-02 05:14:56,,5e765f2b-e908-3888-9fc7-df2cb87beb58,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+d566473c-510b-3080-c80d-49c88e5202ad,2014-12-05 12:56:47,2014-12-05 13:11:47,3bd5eda0-16da-3ba5-8500-4dfd6ae118b8,ambulatory,Encounter for symptom,77.49,24.9,True,False
+NOSHOW-900017,2014-12-12 03:33:58,,03347b4d-994e-302b-848b-58019a4e274d,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+360c994a-3b34-a63e-5f50-d3cf518a0aff,2014-12-12 03:33:58,2014-12-12 04:01:36,03347b4d-994e-302b-848b-58019a4e274d,ambulatory,Encounter for 'check-up',15082.25,11.1,True,False
+54fc2022-37ac-bc4f-6e0f-4cf04a7eb18e,2014-12-13 14:05:02,2014-12-13 14:20:02,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Prenatal visit,9506.14,17.1,True,False
+NOSHOW-900098,2014-12-13 14:05:02,,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+90cd8eb3-0f2a-5ccd-70ee-033206b9e9a4,2014-12-17 05:20:04,2014-12-17 05:35:04,b0e04623-b02c-3f8b-92ea-943fc4db60da,ambulatory,Follow-up encounter,77.49,15.2,True,False
+68e64609-da5a-8d5b-9dbf-2641fb4472d5,2014-12-21 04:23:42,2014-12-21 04:39:16,f4e7709c-02f6-37ca-aeea-8247d74e88e7,ambulatory,Encounter for symptom,378.26,37.7,True,False
+15b478f9-b89f-0113-f93b-51b0329bbf64,2014-12-24 20:41:58,2014-12-24 20:56:58,23834663-ed53-3da9-b330-d6e1ecb8428e,ambulatory,Encounter for problem,77.49,15.4,True,False
+NOSHOW-900038,2014-12-24 20:41:58,,23834663-ed53-3da9-b330-d6e1ecb8428e,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+662b206a-eb11-f18c-87da-0465dca14644,2015-01-04 09:10:02,2015-01-04 09:25:02,69176529-fd1f-3b3f-abce-a0a3626769eb,outpatient,Patient encounter procedure,3297.47,23.4,True,False
+aa500d1e-d181-e377-d7bc-f972b7b6fc80,2015-01-29 22:59:05,2015-01-29 23:14:05,f7a6cc79-3075-3124-9f62-6fe562440b1d,urgentcare,Urgent care clinic (procedure),34857.58,33.5,True,False
+95d24ba4-b839-c7e8-85b7-8dffc76dbc36,2015-01-30 09:01:12,2015-01-30 10:01:12,f1fbcbfb-fcfa-3bd2-b7f4-df20f1b3c3a4,emergency,Emergency Room Admission,129.16,122.5,True,False
+5fb0bbb7-c64a-f19c-57a2-509bb91bfe5c,2015-02-06 09:01:12,2015-02-06 09:16:12,f1fbcbfb-fcfa-3bd2-b7f4-df20f1b3c3a4,outpatient,Encounter for problem (procedure),77.49,32.8,True,False
+fe346927-b315-20f8-39b3-34873b0d727f,2015-02-08 17:23:41,2015-02-08 17:38:41,3d10019f-c88e-3de5-9916-6107b9c0263d,outpatient,Consultation for treatment,129.16,20.1,True,False
+41286922-97e9-957a-1756-7a0301c4b494,2015-02-13 10:04:23,2015-02-13 10:19:23,e002090d-4e92-300e-b41e-7d1f21dee4c6,ambulatory,Prenatal visit,9329.48,16.5,True,False
+a85eddc9-cea7-c3ef-eaf8-9f586e143ec2,2015-02-19 04:19:26,2015-02-19 05:11:27,c44f361c-2efb-3050-8f97-0354a12e2920,ambulatory,Outpatient procedure,16905.79,21.8,True,False
+f5a0f1fb-f167-c091-ad18-247f700eef27,2015-02-26 15:35:40,2015-02-26 15:54:41,03347b4d-994e-302b-848b-58019a4e274d,ambulatory,Outpatient procedure,14098.42,14.9,True,False
+09ac6b33-0754-6ca3-7b90-bab9f4c6bdd9,2015-03-16 22:34:40,2015-03-16 22:49:40,d692e283-0833-3201-8e55-4f868a9c0736,outpatient,Encounter for check up (procedure),38039.31,18.9,True,False
+472c3b5d-ed27-59cc-05ea-0982d384bfe8,2015-03-18 11:23:52,2015-03-18 11:38:52,69176529-fd1f-3b3f-abce-a0a3626769eb,outpatient,Consultation for treatment,129.16,39.0,True,False
+NOSHOW-900041,2015-03-22 17:14:15,,c44f361c-2efb-3050-8f97-0354a12e2920,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+5799fec5-31b3-12c0-ebf9-5ffce26caad4,2015-03-22 17:14:15,2015-03-22 17:29:15,c44f361c-2efb-3050-8f97-0354a12e2920,ambulatory,Encounter for symptom,77.49,22.6,True,False
+5289b357-0968-7a9f-d8c0-49199f5f2221,2015-03-27 19:51:30,2015-03-27 20:06:30,ef58ea08-d883-3957-8300-150554edc8fb,outpatient,Encounter for problem (procedure),77.49,24.9,True,False
+NOSHOW-900132,2015-03-27 19:51:30,,ef58ea08-d883-3957-8300-150554edc8fb,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+f4ff82c6-fa66-58e2-1c1a-358aebc062aa,2015-04-03 22:22:53,2015-04-03 23:01:40,3bd5eda0-16da-3ba5-8500-4dfd6ae118b8,ambulatory,Outpatient procedure,12549.3,21.9,True,False
+66f44315-e5a0-08cd-9a91-cc2a6849e5fa,2015-04-04 15:53:02,2015-04-04 16:53:02,3bd5eda0-16da-3ba5-8500-4dfd6ae118b8,emergency,Emergency room admission (procedure),12513.35,166.5,True,False
+NOSHOW-900040,2015-04-20 07:37:40,,b0e04623-b02c-3f8b-92ea-943fc4db60da,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+1ce8d2f0-2569-05f9-71e6-c3aba2582be9,2015-04-20 07:37:40,2015-04-20 07:52:40,b0e04623-b02c-3f8b-92ea-943fc4db60da,ambulatory,Encounter for 'check-up',77.49,10.9,True,False
+8e9f48d4-4b84-06f0-be5e-3446dd5ac89c,2015-04-23 01:27:36,2015-04-23 01:42:36,d692e283-0833-3201-8e55-4f868a9c0736,outpatient,Encounter for symptom,77.49,34.8,True,False
+222a7d41-5422-53fc-28c2-961b30f85e3f,2015-05-01 20:21:02,2015-05-01 21:21:02,23834663-ed53-3da9-b330-d6e1ecb8428e,emergency,Emergency Encounter,129.16,88.9,True,False
+fed6e412-48be-5064-6f28-41977f302bfd,2015-05-05 13:12:30,2015-05-05 13:27:30,d692e283-0833-3201-8e55-4f868a9c0736,ambulatory,Prenatal visit,13786.37,25.1,True,False
+NOSHOW-900056,2015-05-05 13:12:30,,d692e283-0833-3201-8e55-4f868a9c0736,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+b87cdf8a-34f5-9045-81b3-8559102eff03,2015-05-19 05:14:56,2015-05-19 05:29:56,5e765f2b-e908-3888-9fc7-df2cb87beb58,outpatient,Encounter for check up (procedure),218.01,11.9,True,False
+9e644945-0d63-269d-28a9-0326e72b82c4,2015-06-01 10:53:22,2015-06-01 11:08:22,ebc3f5c4-6700-34af-8323-85621c313726,ambulatory,Follow-up encounter,77.49,36.3,True,False
+bfdd2e6d-2f7f-bd02-62e4-f461e0e4e610,2015-06-02 13:12:30,2015-06-02 13:27:30,d692e283-0833-3201-8e55-4f868a9c0736,ambulatory,Prenatal visit,14488.35,14.7,True,False
+NOSHOW-900051,2015-06-02 13:12:30,,d692e283-0833-3201-8e55-4f868a9c0736,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+845127b9-59b2-7353-1fc9-27dce981df07,2015-06-06 04:35:13,2015-06-06 04:50:13,ef6ab57c-ed94-3dbe-9861-812d515918b3,ambulatory,Encounter for symptom,77.49,16.9,True,False
+ba3bea79-81a4-5e54-b9f1-6f58f91c597e,2015-06-12 19:00:25,2015-06-12 19:16:16,49318f80-bd8b-3fc7-a096-ac43088b0c12,ambulatory,Outpatient procedure,14045.12,20.3,True,False
+9dc748e6-ab6e-ae87-aa68-035299ec4879,2015-06-20 20:03:35,2015-06-20 20:18:35,03347b4d-994e-302b-848b-58019a4e274d,ambulatory,Follow-up encounter,77.49,11.5,True,False
+b188dbe8-6d4a-ef95-1e91-980b46dd339c,2015-06-29 20:24:18,2015-06-29 20:39:18,f99c74cc-7d1a-3f95-9a33-4a9357bf2f2a,ambulatory,Follow-up encounter,77.49,21.6,True,False
+28a5de26-4040-f16c-087c-01b091d9658c,2015-06-30 04:17:58,2015-06-30 04:32:58,db0acede-4abe-3c01-8d03-5c68a190d8c7,ambulatory,Prenatal visit,11359.06,13.1,True,False
+9ea381be-6b02-05a4-e232-648a7e393150,2015-07-05 09:22:20,2015-07-05 09:37:20,6f122869-a856-3d65-8db9-099bf4f5bbb8,outpatient,Consultation for treatment,129.16,16.0,True,False
+4975ba53-d809-c727-c42b-7e1e8bef7453,2015-07-24 09:59:55,2015-07-24 10:59:55,465de31f-3098-365c-af70-48a071e1f5aa,ambulatory,Encounter for problem,15135.09,63.4,True,False
+2cebb17e-abaf-f745-717e-961b84392cab,2015-07-31 05:53:58,2015-07-31 06:08:58,f4e7709c-02f6-37ca-aeea-8247d74e88e7,ambulatory,Prenatal initial visit,17512.64,11.0,True,False
+NOSHOW-900015,2015-07-31 05:53:58,,f4e7709c-02f6-37ca-aeea-8247d74e88e7,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+479498d0-6df2-341b-4871-cda359aca55d,2015-07-31 20:21:02,2015-07-31 21:21:02,23834663-ed53-3da9-b330-d6e1ecb8428e,emergency,Emergency Encounter,129.16,127.9,True,False
+a71e891a-1985-e58a-2ad1-f1f8ceb501fc,2015-08-26 19:26:49,2015-08-26 19:41:49,49318f80-bd8b-3fc7-a096-ac43088b0c12,ambulatory,Prenatal initial visit,68260.54,25.6,True,False
+b45e4fcd-4e66-7103-daef-dde6493a94b1,2015-08-27 22:59:05,2015-08-27 23:14:05,f7a6cc79-3075-3124-9f62-6fe562440b1d,urgentcare,Urgent care clinic (procedure),8984.39,18.4,True,False
+d5c4f94b-8700-165b-1981-408a649f6eba,2015-08-29 19:51:30,2015-08-29 20:51:30,ef58ea08-d883-3957-8300-150554edc8fb,emergency,Emergency Room Admission,129.16,85.2,True,False
+2a013604-8e6e-b069-82a1-1f63c7619c2c,2015-09-01 04:13:56,2015-09-01 04:28:56,226098a2-6a40-3588-b5bb-db56c3a30a04,ambulatory,Encounter for symptom,77.49,24.7,True,False
+1fa12065-437f-5397-a1b7-0bdc7c7c7782,2015-09-05 13:26:13,2015-09-05 14:26:13,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Encounter for problem,10018.24,34.5,True,False
+e51530b5-3aee-005c-90eb-d963579bfa01,2015-09-06 22:45:10,2015-09-06 23:44:56,49318f80-bd8b-3fc7-a096-ac43088b0c12,ambulatory,Outpatient procedure,11764.41,35.4,True,False
+0ddffbd2-919c-734c-9955-9aac464e2ce4,2015-09-08 11:29:38,2015-09-08 11:44:38,37eb7694-de8f-3407-b95f-1a6a31fb0f6a,outpatient,Encounter for check up (procedure),35894.61,17.0,True,False
+0b298a28-a4d9-6809-016f-7436811b32e5,2015-09-11 08:14:51,2015-09-11 09:14:51,c44f361c-2efb-3050-8f97-0354a12e2920,emergency,Emergency Room Admission,129.16,160.6,True,False
+65eb6330-a27d-7829-84dd-203a712303be,2015-09-11 13:26:30,2015-09-11 14:04:19,37b4d73f-652d-3033-a16e-d97b9e8b4cda,ambulatory,Outpatient procedure,10716.53,9.8,True,False
+aac72077-0113-31bc-18b5-11a608c039ca,2015-09-19 19:51:30,2015-09-19 20:06:30,ef58ea08-d883-3957-8300-150554edc8fb,outpatient,Encounter for problem (procedure),77.49,12.8,True,False
+NOSHOW-900161,2015-09-19 19:51:30,,ef58ea08-d883-3957-8300-150554edc8fb,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+72ea5914-4065-2e74-7457-280d47b9d443,2015-09-22 13:12:30,2015-09-22 13:27:30,d692e283-0833-3201-8e55-4f868a9c0736,ambulatory,Prenatal visit,17449.57,34.6,True,False
+2be8dcf7-bba0-faa9-2abb-fbdd03384dbe,2015-09-23 03:25:13,2015-09-23 04:25:13,5d4b9df1-93ae-3bc9-b680-03249990e558,emergency,Emergency Room Admission,129.16,175.9,True,False
+4783d4ba-202a-a0b7-b060-236e6361704c,2015-11-04 03:20:10,2015-11-04 03:35:10,db0acede-4abe-3c01-8d03-5c68a190d8c7,ambulatory,Prenatal initial visit,64649.86,12.7,True,False
+NOSHOW-900058,2015-11-04 03:20:10,,db0acede-4abe-3c01-8d03-5c68a190d8c7,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+NOSHOW-900149,2015-11-04 04:43:19,,4861d01f-019c-3dac-a153-8334e50919f9,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+3f96cdb4-5111-4083-463e-674dd3c27f9c,2015-11-04 04:43:19,2015-11-04 05:00:31,4861d01f-019c-3dac-a153-8334e50919f9,outpatient,Patient encounter procedure,2611.01,16.3,True,False
+089d47ee-4509-b460-4750-8796df12a344,2015-11-04 07:22:49,2015-11-04 07:37:49,c1c0c43e-ca87-3ee5-9549-be3f28afde81,wellness,General examination of patient (procedure),645.81,12.2,True,False
+016341b8-c938-3122-0a58-68a6f4da5305,2015-11-18 19:26:49,2015-11-18 19:41:49,49318f80-bd8b-3fc7-a096-ac43088b0c12,ambulatory,Prenatal visit,16809.21,17.8,True,False
+df6cc37f-6987-386e-3977-903542d661ea,2015-11-23 11:20:23,2015-11-23 11:35:23,fbf6180e-b800-3ebe-b91d-93d0288c400e,outpatient,Consultation for treatment,129.16,48.8,True,False
+37b84e8d-b68b-f857-c55c-e31651154044,2015-11-23 12:21:36,2015-11-23 13:21:36,e002090d-4e92-300e-b41e-7d1f21dee4c6,emergency,Emergency room admission (procedure),14533.57,414.5,True,False
+8c9078a4-75ee-dfe4-8551-4ba33764e974,2015-11-26 11:37:21,2015-11-26 11:52:21,69176529-fd1f-3b3f-abce-a0a3626769eb,ambulatory,Encounter for symptom,77.49,21.1,True,False
+78c56ee8-ac4e-f38a-20ae-ac7edbd3834a,2015-12-02 09:30:08,2015-12-02 09:45:08,49318f80-bd8b-3fc7-a096-ac43088b0c12,ambulatory,Encounter for symptom,77.49,19.3,True,False
+ce821f5b-196a-e427-7fdf-728ffe20c638,2015-12-03 08:24:46,2015-12-03 09:24:46,f4e7709c-02f6-37ca-aeea-8247d74e88e7,emergency,Emergency room admission (procedure),645.81,215.1,True,False
+6aabfae9-8fc2-e2c9-b422-a0bb23388eb7,2015-12-04 08:33:36,2015-12-04 08:48:36,f7a6cc79-3075-3124-9f62-6fe562440b1d,urgentcare,Urgent care clinic (procedure),129.16,39.3,True,False
+7e2fdc08-da16-fdce-71f6-2536333f75f1,2015-12-08 04:06:42,2015-12-08 04:23:42,b0e04623-b02c-3f8b-92ea-943fc4db60da,outpatient,Patient encounter procedure,4943.8,19.3,True,False
+e6822815-99aa-493e-ce0d-88d5774614c6,2015-12-09 11:41:54,2015-12-09 11:56:54,03347b4d-994e-302b-848b-58019a4e274d,ambulatory,Encounter for problem,19104.99,20.4,True,False
+af459928-8758-57d9-df25-81b68eb55450,2016-01-03 00:36:30,2016-01-03 00:51:30,f4e7709c-02f6-37ca-aeea-8247d74e88e7,outpatient,Encounter for problem (procedure),77.49,22.0,True,False
+f31fb1dc-62f8-bab9-663a-246d237308e7,2016-01-03 09:10:02,2016-01-03 09:28:45,69176529-fd1f-3b3f-abce-a0a3626769eb,outpatient,Patient encounter procedure,3656.07,11.3,True,False
+8a528510-64a0-415e-c9c0-65d5d23c06e3,2016-01-05 00:19:56,2016-01-05 00:34:56,5e765f2b-e908-3888-9fc7-df2cb87beb58,ambulatory,Encounter for symptom,3321.92,47.7,True,False
+60a90919-6db7-df25-2e52-b4e7ec370eb0,2016-01-17 08:36:36,2016-01-17 08:51:36,e002090d-4e92-300e-b41e-7d1f21dee4c6,ambulatory,Telemedicine consultation with patient,129.16,16.4,True,False
+3c3e6851-944f-7453-55af-5da27dbc9fa4,2016-01-19 21:19:37,2016-01-19 21:34:37,4861d01f-019c-3dac-a153-8334e50919f9,ambulatory,Follow-up encounter,77.49,9.8,True,False
+NOSHOW-900090,2016-01-19 21:19:37,,4861d01f-019c-3dac-a153-8334e50919f9,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+a2611f67-a554-3cd6-bddb-fdd2cd67a51b,2016-01-22 23:15:15,2016-01-22 23:30:15,be4c63f3-8d38-3fa9-a183-62045b5c85f6,wellness,General examination of patient (procedure),1473.02,9.4,True,False
+ee1f2e5c-470d-c2c7-a38e-9548c2bf5fa7,2016-01-23 06:44:29,2016-01-23 07:17:21,ef6ab57c-ed94-3dbe-9861-812d515918b3,ambulatory,Encounter for 'check-up',9787.25,31.2,True,False
+efcfe425-6231-808a-6428-fefc089fe4fe,2016-01-25 06:53:42,2016-01-26 06:53:42,226098a2-6a40-3588-b5bb-db56c3a30a04,inpatient,Encounter for problem,23250.87,,True,False
+7c5512ed-34e5-e04e-3dee-5fca8a187894,2016-01-31 09:22:20,2016-01-31 10:22:20,6f122869-a856-3d65-8db9-099bf4f5bbb8,emergency,Emergency room admission (procedure),14199.74,74.8,True,False
+7e094dd9-5b6e-69e1-8fc5-d7856abf27c4,2016-02-22 23:55:31,2016-02-23 00:10:31,ecc51621-0af3-3b35-ac3e-8b1e34022e92,ambulatory,Encounter for symptom,2403.28,35.0,True,False
+e8905eb7-5288-9ffc-0dd3-78a3200c494a,2016-02-24 05:45:36,2016-02-24 06:45:36,ef6ab57c-ed94-3dbe-9861-812d515918b3,emergency,Emergency room admission (procedure),129.16,184.6,True,False
+fd161ff6-607f-bcab-9849-cc66b8cfd0bf,2016-03-06 08:45:19,2016-03-06 09:00:19,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Encounter for symptom,77.49,18.3,True,False
+11dbf453-3989-8c0c-01ba-8e5dfb763fe4,2016-03-11 23:38:12,2016-03-11 23:53:12,12c9daf5-a29c-36c9-ac55-28972463e566,ambulatory,Prenatal visit,12404.46,26.8,True,False
+d2fd047c-7d08-3625-d47e-5b7034a99ece,2016-04-03 22:29:15,2016-04-03 22:44:15,8ad64ecf-c817-3753-bee7-006a8e662e06,ambulatory,Telemedicine consultation with patient,129.16,31.4,True,False
+NOSHOW-900094,2016-04-07 22:29:15,,8ad64ecf-c817-3753-bee7-006a8e662e06,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+5eb3b764-dea2-12c7-cb67-bdb073cbd599,2016-04-07 22:29:15,2016-04-07 22:44:15,8ad64ecf-c817-3753-bee7-006a8e662e06,ambulatory,Telemedicine consultation with patient,129.16,22.4,True,False
+872b8dfe-8aa0-933d-a2bd-ca04c74f78b3,2016-04-09 21:11:43,2016-04-09 22:11:43,e002090d-4e92-300e-b41e-7d1f21dee4c6,emergency,Obstetric emergency hospital admission,7629.79,120.5,True,False
+99923374-6952-d504-bd7e-446c6394f35d,2016-04-13 12:13:56,2016-04-13 12:28:56,226098a2-6a40-3588-b5bb-db56c3a30a04,ambulatory,Prenatal visit,13866.81,18.9,True,False
+cd80756a-f033-10fe-77ae-3c52af6e1b88,2016-04-19 06:29:35,2016-04-19 06:44:35,23834663-ed53-3da9-b330-d6e1ecb8428e,outpatient,Encounter for check up (procedure),77.49,24.3,True,False
+NOSHOW-900176,2016-04-29 12:25:13,,5d4b9df1-93ae-3bc9-b680-03249990e558,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+fad24fe1-952e-93a6-34f4-0f1628d07183,2016-04-29 12:25:13,2016-04-29 13:15:03,5d4b9df1-93ae-3bc9-b680-03249990e558,outpatient,Patient encounter procedure,14206.01,16.7,True,False
+0a3f394a-ec88-6ef5-1aca-b881fbfab149,2016-05-03 20:53:53,2016-05-03 21:16:06,226098a2-6a40-3588-b5bb-db56c3a30a04,ambulatory,Encounter for symptom,601.55,24.9,True,False
+5336f6d8-6937-c21d-ad20-602e92dccf09,2016-05-14 04:47:13,2016-05-14 05:02:13,b1ddf812-1fdd-3adf-b1d5-32cc8bd07ebb,ambulatory,Asthma follow-up,129.16,15.8,True,False
+c8e3ca2f-27ae-dd45-08e5-31e0187e6b74,2016-05-19 18:51:30,2016-05-19 19:06:30,ef58ea08-d883-3957-8300-150554edc8fb,ambulatory,Encounter for symptom,77.49,15.2,True,False
+0176e6c0-6036-6cab-4b97-89bf36bb3367,2016-06-30 00:13:23,2016-06-30 00:28:23,8ad64ecf-c817-3753-bee7-006a8e662e06,ambulatory,Telemedicine consultation with patient,129.16,27.9,True,False
+ee2835be-1cbc-3d98-c304-1717c75b705b,2016-07-01 20:21:02,2016-07-01 20:36:02,f7a6cc79-3075-3124-9f62-6fe562440b1d,urgentcare,Urgent care clinic (procedure),129.16,32.8,True,False
+8dbb2d5c-e975-8169-9a04-83396c650e1a,2016-07-16 08:57:46,2016-07-16 09:12:46,ecc51621-0af3-3b35-ac3e-8b1e34022e92,outpatient,Consultation for treatment,129.16,15.9,True,False
+ffc24f9c-9cee-29fa-8768-fefed93ddaa3,2016-07-17 04:44:39,2016-07-17 05:27:23,03347b4d-994e-302b-848b-58019a4e274d,ambulatory,Outpatient procedure,11894.2,12.7,True,False
+6439c681-620f-bbc0-405a-9a4c13237536,2016-07-21 22:59:05,2016-07-21 23:14:05,f7a6cc79-3075-3124-9f62-6fe562440b1d,urgentcare,Urgent care clinic (procedure),14580.52,24.7,True,False
+b3a540c5-d4bf-3dc4-14b0-21d1d0e73147,2016-07-22 09:35:20,2016-07-22 09:50:20,e002090d-4e92-300e-b41e-7d1f21dee4c6,ambulatory,Telemedicine consultation with patient,129.16,20.4,True,False
+84069855-4bec-8fed-f1cc-30837264733c,2016-08-07 03:50:32,2016-08-07 04:05:32,69176529-fd1f-3b3f-abce-a0a3626769eb,ambulatory,Prenatal visit,17464.23,10.7,True,False
+aab9957b-3bb0-a3a8-f618-e467279ea5f0,2016-08-19 00:21:22,2016-08-19 00:36:22,f1fbcbfb-fcfa-3bd2-b7f4-df20f1b3c3a4,ambulatory,Encounter for problem,77.49,9.7,True,False
+c50dd15a-a216-60ee-f13c-5d172fb8c3f9,2016-09-02 20:42:41,2016-09-02 20:57:41,7fb56531-86bd-3e4a-8619-4df9942da309,outpatient,Patient encounter procedure,1779.53,46.0,True,False
+NOSHOW-900157,2016-09-04 02:32:43,,e002090d-4e92-300e-b41e-7d1f21dee4c6,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+ef29c37a-f62b-8288-af80-112deb694dc8,2016-09-04 02:32:43,2016-09-04 02:47:43,e002090d-4e92-300e-b41e-7d1f21dee4c6,outpatient,Consultation for treatment,129.16,17.1,True,False
+NOSHOW-900043,2016-09-04 03:50:32,,69176529-fd1f-3b3f-abce-a0a3626769eb,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+NOSHOW-900122,2016-09-04 03:50:32,,69176529-fd1f-3b3f-abce-a0a3626769eb,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+5e8434d9-bc62-1239-69d0-6a3c1cc6ace8,2016-09-04 03:50:32,2016-09-04 04:05:32,69176529-fd1f-3b3f-abce-a0a3626769eb,ambulatory,Prenatal visit,15511.52,32.4,True,False
+97175eb2-8f57-b00f-8158-eec9c81ccb40,2016-09-05 14:22:48,2016-09-05 14:39:16,f71ce1a9-cca7-3295-9a1e-c88ac3479b6f,outpatient,Patient encounter procedure,3756.38,9.4,True,False
+b7e78708-6f37-8d3b-7a57-31d28e970430,2016-09-18 08:17:44,2016-09-18 08:32:44,4861d01f-019c-3dac-a153-8334e50919f9,outpatient,Encounter for check up (procedure),218.01,14.5,True,False
+41874493-5e70-35f4-d03c-88389107cff7,2016-09-19 14:50:58,2016-09-19 15:05:58,37b4d73f-652d-3033-a16e-d97b9e8b4cda,ambulatory,Prenatal visit,14457.99,10.3,True,False
+a2818c86-1649-7d4e-0167-89e5ddc3a5cf,2016-10-02 05:03:31,2016-10-02 05:18:31,db0acede-4abe-3c01-8d03-5c68a190d8c7,ambulatory,Hypertension follow-up encounter,77.49,14.4,True,False
+41032488-0ecc-ab82-0ca0-8e4aae908349,2016-10-10 14:58:35,2016-10-10 15:58:35,fbf6180e-b800-3ebe-b91d-93d0288c400e,emergency,Emergency Room Admission,129.16,326.5,True,False
+0d587b9f-01de-1574-dd69-7d6814cabeaf,2016-10-10 17:39:00,2016-10-10 17:54:00,ef58ea08-d883-3957-8300-150554edc8fb,ambulatory,Prenatal visit,129.16,18.6,True,False
+78450893-5508-8b48-02e7-defd3210db52,2016-10-21 20:21:02,2016-10-21 21:21:02,23834663-ed53-3da9-b330-d6e1ecb8428e,emergency,Emergency Encounter,129.16,179.9,True,False
+561f580b-4626-6bf7-7aac-43c1096ffdc8,2016-10-27 02:05:17,2016-10-27 02:50:52,49318f80-bd8b-3fc7-a096-ac43088b0c12,ambulatory,Patient encounter procedure (procedure),645.81,10.3,True,False
+6671a877-cc1f-f67f-b527-5cbe685c58fd,2016-11-17 13:19:56,2016-11-17 14:33:57,5e765f2b-e908-3888-9fc7-df2cb87beb58,ambulatory,Encounter for problem,1488.35,32.1,True,False
+22c3299b-20d7-35a8-792e-7229590afc35,2016-11-18 20:21:02,2016-11-18 21:21:02,23834663-ed53-3da9-b330-d6e1ecb8428e,emergency,Emergency Encounter,129.16,60.3,True,False
+45129ee4-8476-1897-a0fb-21342997e577,2016-12-07 04:10:56,2016-12-07 04:25:56,5e765f2b-e908-3888-9fc7-df2cb87beb58,ambulatory,Telemedicine consultation with patient,129.16,11.6,True,False
+05558a38-cdc6-5c0e-6635-2551fb659be5,2017-01-03 01:29:46,2017-01-03 02:29:46,ebc3f5c4-6700-34af-8323-85621c313726,emergency,Emergency room admission (procedure),129.16,263.5,True,False
+1845ad9d-3df8-513b-5245-e2c8a7f5e679,2017-01-04 02:15:20,2017-01-05 02:15:20,c44f361c-2efb-3050-8f97-0354a12e2920,inpatient,Screening surveillance (regime/therapy),310.15,,True,False
+df88408b-547a-09bd-1cce-60edb5850786,2017-01-11 03:06:29,2017-01-11 03:21:29,7fb56531-86bd-3e4a-8619-4df9942da309,ambulatory,Encounter for symptom,77.49,31.8,True,False
+57bc8a7d-3b40-1379-bc3a-16957d1aa641,2017-01-23 01:50:40,2017-01-23 02:27:20,37b4d73f-652d-3033-a16e-d97b9e8b4cda,ambulatory,Outpatient procedure,19157.06,10.3,True,False
+14b1a119-2052-825e-168e-61069db428aa,2017-01-25 21:47:56,2017-01-25 22:02:56,fbf6180e-b800-3ebe-b91d-93d0288c400e,ambulatory,Prenatal initial visit,63811.97,19.3,True,False
+8219d8c9-88d7-4a9f-d202-d6a2e8d97a71,2017-01-30 03:06:55,2017-01-30 03:21:55,c44f361c-2efb-3050-8f97-0354a12e2920,ambulatory,Prenatal visit,14877.43,42.6,True,False
+25629b89-f7b2-b9db-a475-60420959b513,2017-02-08 16:54:03,2017-02-08 17:46:12,7fb56531-86bd-3e4a-8619-4df9942da309,outpatient,Patient encounter procedure,15717.91,17.7,True,False
+520fc6d4-d901-f08c-ca19-42511f53f795,2017-03-01 22:09:04,2017-03-01 22:24:04,db0acede-4abe-3c01-8d03-5c68a190d8c7,ambulatory,Encounter for problem,77.49,42.7,True,False
+58f1848f-39c5-c41d-1757-132cdd50ed7e,2017-03-04 05:32:07,2017-03-04 05:47:07,d692e283-0833-3201-8e55-4f868a9c0736,outpatient,Encounter for check up (procedure),77.49,19.0,True,False
+21bfd96f-a3f9-e8db-0eb7-e810b8ae3ba3,2017-03-10 17:34:13,2017-03-11 17:34:13,ebc3f5c4-6700-34af-8323-85621c313726,inpatient,Gynecology service (qualifier value),2570.26,,True,False
+NOSHOW-900019,2017-03-21 05:14:56,,5e765f2b-e908-3888-9fc7-df2cb87beb58,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+5321349d-102c-8962-e737-c79df92c5ad3,2017-03-21 05:14:56,2017-03-21 05:29:56,5e765f2b-e908-3888-9fc7-df2cb87beb58,ambulatory,Prenatal initial visit,16945.32,9.1,True,False
+5e83960a-4946-1ed2-53df-7a4d2eedab9b,2017-03-24 17:19:09,2017-03-24 18:11:49,7fb56531-86bd-3e4a-8619-4df9942da309,ambulatory,Outpatient procedure,20422.98,42.8,True,False
+4c9e2566-3e84-47ea-acc4-834e8afccffc,2017-03-29 18:09:56,2017-03-29 18:33:45,3d10019f-c88e-3de5-9916-6107b9c0263d,outpatient,Consultation for treatment,11037.91,6.8,True,False
+NOSHOW-900039,2017-04-05 01:31:24,,d5117822-5756-389d-9547-891a372d580f,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+f6002091-9ba0-aa07-484a-29dbe78d3c4a,2017-04-05 01:31:24,2017-04-05 01:46:24,d5117822-5756-389d-9547-891a372d580f,ambulatory,Encounter for symptom,1998.15,12.4,True,False
+fa784e4b-f755-37b3-f12e-021bad7fe131,2017-04-05 08:34:14,2017-04-05 09:34:14,b1ddf812-1fdd-3adf-b1d5-32cc8bd07ebb,emergency,Emergency hospital admission for asthma,129.16,218.9,True,False
+877a66d9-c210-0dea-3a89-2296681e7c0f,2017-04-10 03:06:55,2017-04-10 03:25:41,226098a2-6a40-3588-b5bb-db56c3a30a04,outpatient,Consultation for treatment,3530.83,34.1,True,False
+f1d02ca5-8609-e4bb-8320-bee1bbf8b368,2017-04-10 09:39:15,2017-04-10 09:54:15,f71ce1a9-cca7-3295-9a1e-c88ac3479b6f,ambulatory,Prenatal visit,13745.74,14.7,True,False
+85666149-9f71-d896-5c9e-3116f23f3f1e,2017-04-28 15:24:10,2017-04-28 16:10:59,3d10019f-c88e-3de5-9916-6107b9c0263d,outpatient,Patient encounter procedure,16555.96,15.3,True,False
+b12f0beb-17fa-99d6-d4f0-4b03f06407dc,2017-05-05 21:52:09,2017-05-05 22:07:09,c44f361c-2efb-3050-8f97-0354a12e2920,outpatient,Patient encounter procedure,2921.06,39.0,True,False
+3daab11a-dfc8-d6f3-8987-34d30385a32a,2017-05-08 14:54:31,2017-05-08 15:09:31,3d10019f-c88e-3de5-9916-6107b9c0263d,outpatient,Encounter for problem (procedure),77.49,21.7,True,False
+aca8cfa9-813f-7280-2859-0464c02e1a35,2017-05-13 09:51:19,2017-05-13 10:06:19,ebc3f5c4-6700-34af-8323-85621c313726,ambulatory,Encounter for symptom,77.49,18.5,True,False
+4277c6f4-5db6-67ee-3ba7-9fd8f86162ef,2017-05-17 16:37:37,2017-05-17 17:27:07,3d10019f-c88e-3de5-9916-6107b9c0263d,ambulatory,Patient encounter procedure (procedure),645.81,18.0,True,False
+e5e721f4-92ab-8961-8667-157f132f4d08,2017-05-21 00:36:30,2017-05-21 00:51:30,f4e7709c-02f6-37ca-aeea-8247d74e88e7,outpatient,Encounter for problem (procedure),77.49,20.6,True,False
+95b6a69b-03ee-0a96-3422-bc5235975b91,2017-05-21 05:51:35,2017-05-21 06:18:54,24cb4eab-6166-3530-bddc-a5a8a14a4fc1,ambulatory,Encounter for 'check-up',19422.63,22.6,True,False
+NOSHOW-900187,2017-06-02 20:42:41,,7fb56531-86bd-3e4a-8619-4df9942da309,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+e6b87912-403e-0997-eca2-aea0f64e4f90,2017-06-02 20:42:41,2017-06-02 21:01:13,7fb56531-86bd-3e4a-8619-4df9942da309,outpatient,Patient encounter procedure,2886.77,20.4,True,False
+3f84e78f-e212-d04a-000f-18bc2de1f127,2017-06-03 10:57:54,2017-06-03 11:57:54,e002090d-4e92-300e-b41e-7d1f21dee4c6,emergency,Emergency room admission (procedure),11832.37,159.6,True,False
+85560667-60a9-7c1d-cf40-d428b6210271,2017-06-04 22:51:19,2017-06-04 23:06:19,ebc3f5c4-6700-34af-8323-85621c313726,ambulatory,Prenatal visit,11659.61,13.3,True,False
+NOSHOW-900091,2017-06-04 22:51:19,,ebc3f5c4-6700-34af-8323-85621c313726,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+NOSHOW-900032,2017-06-05 02:27:51,,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+edd4e8f4-24db-6527-d115-ce5740aae2e3,2017-06-05 02:27:51,2017-06-05 02:42:51,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Prenatal initial visit,66527.89,34.3,True,False
+68ec2040-8135-67f6-2e7b-66987762c239,2017-06-14 05:53:57,2017-06-14 06:08:57,3d10019f-c88e-3de5-9916-6107b9c0263d,outpatient,Consultation for treatment,129.16,24.0,True,False
+682a4396-c51c-60d1-fe46-eb6affe4c389,2017-06-16 16:33:15,2017-06-16 16:48:15,5e765f2b-e908-3888-9fc7-df2cb87beb58,ambulatory,Prenatal visit,11707.51,13.4,True,False
+NOSHOW-900065,2017-06-18 14:26:01,,03347b4d-994e-302b-848b-58019a4e274d,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+a674fbf6-7d9c-e240-58ab-a1c1db7026a8,2017-06-18 14:26:01,2017-06-18 15:18:40,03347b4d-994e-302b-848b-58019a4e274d,ambulatory,Outpatient procedure,7482.19,16.6,True,False
+NOSHOW-900173,2017-06-24 23:28:56,,8ad64ecf-c817-3753-bee7-006a8e662e06,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+03166700-c9ac-ba16-74e7-4bfb5e1b6472,2017-06-24 23:28:56,2017-06-24 23:43:56,8ad64ecf-c817-3753-bee7-006a8e662e06,outpatient,Consultation for treatment,129.16,24.0,True,False
+NOSHOW-900113,2017-07-21 11:59:15,,69176529-fd1f-3b3f-abce-a0a3626769eb,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+6762a21c-f85e-20a2-23d2-13a68ebdf305,2017-07-21 11:59:15,2017-07-21 12:14:15,69176529-fd1f-3b3f-abce-a0a3626769eb,ambulatory,Postoperative follow-up visit (procedure),129.16,40.4,True,False
+NOSHOW-900163,2017-07-24 17:39:00,,ef58ea08-d883-3957-8300-150554edc8fb,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+09fae923-cbe0-1e3c-7f46-b797d7d3dc53,2017-07-24 17:39:00,2017-07-24 17:54:00,ef58ea08-d883-3957-8300-150554edc8fb,outpatient,Patient encounter procedure,4296.02,13.2,True,False
+7db55822-8df7-f12a-0977-ff0a530c6233,2017-07-30 19:50:42,2017-07-30 20:05:42,b1ddf812-1fdd-3adf-b1d5-32cc8bd07ebb,ambulatory,Prenatal initial visit,10919.97,19.9,True,False
+68954964-7711-e09f-40a3-d008a0da36fe,2017-08-05 03:39:03,2017-08-05 03:54:03,3d10019f-c88e-3de5-9916-6107b9c0263d,ambulatory,Follow-up encounter,77.49,24.2,True,False
+cc753cca-26ee-dfb6-dab9-8ccf7193dd0b,2017-08-07 02:13:27,2017-08-07 02:43:11,c44f361c-2efb-3050-8f97-0354a12e2920,ambulatory,Outpatient procedure,11789.35,22.2,True,False
+d06b2339-7006-10e1-161b-816ecafb053f,2017-08-14 01:34:00,2017-08-14 01:49:00,be4c63f3-8d38-3fa9-a183-62045b5c85f6,wellness,General examination of patient (procedure),31572.56,13.3,True,False
+72421bd5-71d6-519b-fdb4-14b93c9b242c,2017-08-14 13:18:15,2017-08-14 13:33:15,b0e04623-b02c-3f8b-92ea-943fc4db60da,outpatient,Encounter for problem (procedure),77.49,21.1,True,False
+NOSHOW-900131,2017-08-14 13:18:15,,b0e04623-b02c-3f8b-92ea-943fc4db60da,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+7fa0dae9-3f24-5fcf-3cbb-5eb2603b68b8,2017-08-15 09:19:08,2017-08-15 09:49:12,3bd5eda0-16da-3ba5-8500-4dfd6ae118b8,outpatient,Consultation for treatment,9540.01,20.9,True,False
+bc792604-4788-732e-6601-4f1430031b81,2017-08-24 07:41:05,2017-08-24 07:56:05,d692e283-0833-3201-8e55-4f868a9c0736,ambulatory,Prenatal visit,2096.12,20.6,True,False
+NOSHOW-900085,2017-08-24 07:41:05,,d692e283-0833-3201-8e55-4f868a9c0736,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+NOSHOW-900018,2017-08-24 07:41:05,,d692e283-0833-3201-8e55-4f868a9c0736,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+2275fa80-82a0-e70d-3ecd-3f68c8c6769c,2017-09-06 03:07:09,2017-09-06 04:07:09,ecc51621-0af3-3b35-ac3e-8b1e34022e92,emergency,Emergency room admission (procedure),1162.46,217.7,True,False
+b19e7f03-140d-db20-bc04-c67efa5f0721,2017-09-16 16:47:01,2017-09-16 17:47:01,03347b4d-994e-302b-848b-58019a4e274d,emergency,Emergency hospital admission for asthma,129.16,42.9,True,False
+cec8c0cf-9fde-97aa-1dc1-dc52aff8646f,2017-09-17 04:30:47,2017-09-17 04:45:47,49318f80-bd8b-3fc7-a096-ac43088b0c12,ambulatory,Follow-up encounter,77.49,33.7,True,False
+247e4197-e350-4b75-6426-2d9706878285,2017-09-24 14:18:54,2017-09-24 14:33:54,37c0de84-bcaf-3624-82bf-a89b2ac441b8,ambulatory,Prenatal visit,17398.45,20.2,True,False
+29bd2fff-df18-a428-591b-1346dd4c3b10,2017-09-25 02:27:51,2017-09-25 02:42:51,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Prenatal visit,12665.56,14.8,True,False
+66834ee0-c397-7381-91d8-03434939dd03,2017-10-19 13:18:15,2017-10-19 13:33:15,b0e04623-b02c-3f8b-92ea-943fc4db60da,ambulatory,Prenatal initial visit,14938.69,24.4,True,False
+13e9af0f-29df-7f5b-c761-4736bf2c2160,2017-10-29 23:07:27,2017-10-30 00:05:26,7fb56531-86bd-3e4a-8619-4df9942da309,ambulatory,Outpatient procedure,15808.34,16.4,True,False
+4ddf641a-599a-6509-f5c2-d0a25687278e,2017-11-17 15:11:08,2017-11-17 15:26:39,c44f361c-2efb-3050-8f97-0354a12e2920,outpatient,Patient encounter procedure,3672.29,11.8,True,False
+3e6a04cc-8e15-1588-87d9-94ea8651a74c,2017-12-01 20:21:02,2017-12-01 20:36:02,f7a6cc79-3075-3124-9f62-6fe562440b1d,urgentcare,Urgent care clinic (procedure),129.16,33.0,True,False
+f737edbf-589b-2878-f8b9-59eb6fd2237b,2018-01-20 07:37:02,2018-01-20 07:52:02,24cb4eab-6166-3530-bddc-a5a8a14a4fc1,outpatient,Patient encounter procedure,2432.39,40.8,True,False
+e945da5c-6521-c613-fae8-f7792955fedb,2018-01-21 06:35:32,2018-01-21 07:24:41,c44f361c-2efb-3050-8f97-0354a12e2920,ambulatory,Outpatient procedure,16737.49,7.4,True,False
+d4b92772-77b1-b21c-fc69-b8735ed55299,2018-02-06 13:12:30,2018-02-06 13:27:30,d692e283-0833-3201-8e55-4f868a9c0736,ambulatory,Prenatal initial visit,64310.76,11.0,True,False
+NOSHOW-900162,2018-02-19 02:57:54,,6f122869-a856-3d65-8db9-099bf4f5bbb8,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+62a55a6a-859b-d8ce-ec0d-084f10843f0a,2018-02-19 02:57:54,2018-02-19 03:54:49,6f122869-a856-3d65-8db9-099bf4f5bbb8,outpatient,Patient encounter procedure,15690.1,9.1,True,False
+79967453-c998-0e20-1348-0d8c4d84674a,2018-02-21 12:13:56,2018-02-21 12:28:56,226098a2-6a40-3588-b5bb-db56c3a30a04,ambulatory,Prenatal visit,8418.87,19.9,True,False
+141e27ac-5bb4-1087-b716-215e44d79122,2018-03-20 00:36:30,2018-03-20 00:51:30,f4e7709c-02f6-37ca-aeea-8247d74e88e7,outpatient,Encounter for check up (procedure),41204.62,10.6,True,False
+NOSHOW-900146,2018-03-20 00:36:30,,f4e7709c-02f6-37ca-aeea-8247d74e88e7,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+046e99f2-77d4-c75f-0c03-556ce5c2adde,2018-04-05 20:21:45,2018-04-05 20:36:45,37b4d73f-652d-3033-a16e-d97b9e8b4cda,outpatient,Encounter for problem (procedure),77.49,18.2,True,False
+488018bd-3bd5-ea73-4320-515429f52112,2018-04-13 20:21:02,2018-04-13 20:36:02,f7a6cc79-3075-3124-9f62-6fe562440b1d,urgentcare,Urgent care clinic (procedure),129.16,36.6,True,False
+d18c4ac9-6f04-0473-9ca3-b400ab8dcaeb,2018-04-14 22:04:49,2018-04-14 22:56:44,37b4d73f-652d-3033-a16e-d97b9e8b4cda,ambulatory,Patient encounter procedure (procedure),645.81,5.8,True,False
+c1d11353-92d9-9557-0e6a-5c400ed78619,2018-04-22 21:36:50,2018-04-22 22:04:48,d692e283-0833-3201-8e55-4f868a9c0736,ambulatory,Encounter for 'check-up',10149.05,19.6,True,False
+f058c7dd-6283-94aa-2227-9622f07e00e8,2018-04-29 19:50:42,2018-04-29 20:05:42,b1ddf812-1fdd-3adf-b1d5-32cc8bd07ebb,ambulatory,Prenatal initial visit,61110.49,13.1,True,False
+NOSHOW-900185,2018-05-11 13:09:27,,ef6ab57c-ed94-3dbe-9861-812d515918b3,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+d3a6ea77-6b0b-cb90-7321-262bcbbab599,2018-05-11 13:09:27,2018-05-11 13:24:27,ef6ab57c-ed94-3dbe-9861-812d515918b3,outpatient,Consultation for treatment,3105.78,11.9,True,False
+NOSHOW-900025,2018-05-11 17:28:47,,c44f361c-2efb-3050-8f97-0354a12e2920,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+d88ee02a-7164-724d-bfaa-f58a52dd4a3e,2018-05-11 17:28:47,2018-05-11 17:43:47,c44f361c-2efb-3050-8f97-0354a12e2920,ambulatory,Encounter for symptom,77.49,8.5,True,False
+9cc83006-e953-20b6-b2ed-888411317b42,2018-05-15 11:37:50,2018-05-15 12:37:50,23834663-ed53-3da9-b330-d6e1ecb8428e,emergency,Emergency hospital admission for asthma,129.16,322.9,True,False
+cffb50b5-b847-0021-36ac-02f0e386b2c9,2018-06-03 14:26:59,2018-06-03 14:41:59,3bd5eda0-16da-3ba5-8500-4dfd6ae118b8,outpatient,Encounter for problem (procedure),77.49,15.9,True,False
+79d7baeb-ac60-7d68-2aaa-2b58b91cea35,2018-06-06 12:56:22,2018-06-06 13:11:22,e002090d-4e92-300e-b41e-7d1f21dee4c6,ambulatory,Prenatal visit,14185.91,27.1,True,False
+bb728c2b-90c8-95b7-acd4-7ca288047b0b,2018-06-09 19:21:05,2018-06-09 19:36:05,37c0de84-bcaf-3624-82bf-a89b2ac441b8,ambulatory,Prenatal visit,22841.27,37.2,True,False
+de8ccbb6-eaac-ac2a-3437-bb8ebb3e531f,2018-06-11 01:28:47,2018-06-11 01:43:47,c44f361c-2efb-3050-8f97-0354a12e2920,ambulatory,Prenatal visit,16708.49,14.9,True,False
+0d6d3db5-40f0-e11d-ede9-6cff77260648,2018-06-13 21:29:19,2018-06-13 21:44:19,4861d01f-019c-3dac-a153-8334e50919f9,ambulatory,Encounter for symptom,77.49,24.7,True,False
+622a66c6-a108-3649-8398-7316253b62bb,2018-06-17 17:26:19,2018-06-17 17:41:19,ef58ea08-d883-3957-8300-150554edc8fb,outpatient,Encounter for symptom,77.49,28.8,True,False
+NOSHOW-900138,2018-06-17 17:26:19,,ef58ea08-d883-3957-8300-150554edc8fb,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+8879b080-1c6e-854c-0ee9-358dce95703b,2018-06-17 21:25:22,2018-06-17 21:40:22,b1ddf812-1fdd-3adf-b1d5-32cc8bd07ebb,outpatient,Consultation for treatment,129.16,16.9,True,False
+2fcfe8a2-dd2e-5805-ad3d-05c696284cb0,2018-06-21 06:05:04,2018-06-21 06:20:04,37c0de84-bcaf-3624-82bf-a89b2ac441b8,outpatient,Encounter for problem (procedure),77.49,13.3,True,False
+38d749e9-a680-9021-84a6-5d031f6e35d6,2018-06-25 19:54:04,2018-06-25 20:09:04,fbf6180e-b800-3ebe-b91d-93d0288c400e,outpatient,Encounter for problem (procedure),77.49,12.7,True,False
+86275b0c-1f27-7eff-567a-f468961cd791,2018-06-28 08:19:01,2018-06-28 08:34:01,7fb56531-86bd-3e4a-8619-4df9942da309,ambulatory,Domiciliary or rest home patient evaluation and management,202.25,16.4,True,False
+NOSHOW-900078,2018-06-28 08:19:01,,7fb56531-86bd-3e4a-8619-4df9942da309,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+00b057bf-920f-fdd6-3bf2-891750e1720f,2018-07-08 17:35:19,2018-07-08 17:50:19,d5117822-5756-389d-9547-891a372d580f,ambulatory,Encounter for symptom,77.49,6.8,True,False
+1e1f0ba9-a33c-f1fb-3c83-ee4c6b782432,2018-07-12 18:48:47,2018-07-12 19:03:47,f1fbcbfb-fcfa-3bd2-b7f4-df20f1b3c3a4,ambulatory,Encounter for symptom,77.49,11.4,True,False
+48c0cfae-d732-9d7d-cfae-91efd7a6fc72,2018-07-15 19:50:42,2018-07-15 20:05:42,b1ddf812-1fdd-3adf-b1d5-32cc8bd07ebb,outpatient,Consultation for treatment,129.16,22.4,True,False
+77700dad-3d41-f734-2f76-a5ed4de4c04b,2018-07-19 14:11:07,2018-07-19 14:26:07,8ad64ecf-c817-3753-bee7-006a8e662e06,ambulatory,Follow-up encounter,77.49,14.2,True,False
+fefb29bc-043b-cedb-356f-e4b2bda28369,2018-08-01 12:31:49,2018-08-01 13:24:18,c44f361c-2efb-3050-8f97-0354a12e2920,ambulatory,Outpatient procedure,10198.24,8.8,True,False
+f39d3f1e-5bbc-bc85-5c11-d460d7f24fd3,2018-08-01 14:50:58,2018-08-01 15:05:58,37b4d73f-652d-3033-a16e-d97b9e8b4cda,outpatient,Encounter for problem (procedure),77.49,6.9,True,False
+db1e0edb-3566-9ef0-84cc-db2e08dccbc7,2018-08-04 15:11:08,2018-08-04 15:26:08,c44f361c-2efb-3050-8f97-0354a12e2920,outpatient,Encounter for problem (procedure),77.49,18.2,True,False
+519c41df-d38d-9470-4adf-3bbd07a05240,2018-08-09 03:13:14,2018-08-09 03:28:14,7fb56531-86bd-3e4a-8619-4df9942da309,outpatient,Encounter for problem (procedure),77.49,23.7,True,False
+NOSHOW-900198,2018-08-09 22:59:05,,f7a6cc79-3075-3124-9f62-6fe562440b1d,urgentcare,Scheduled appointment -- no-show (synthetic),,,False,True
+763972e6-bd4c-5545-ad51-af21948611f3,2018-08-09 22:59:05,2018-08-09 23:14:05,f7a6cc79-3075-3124-9f62-6fe562440b1d,urgentcare,Urgent care clinic (procedure),37171.54,17.3,True,False
+42c404da-8e96-0924-2c58-838998602a58,2018-08-10 20:21:02,2018-08-10 21:21:02,23834663-ed53-3da9-b330-d6e1ecb8428e,emergency,Emergency Encounter,129.16,169.3,True,False
+e9b07f18-ac04-d935-b34c-ee9065eccf70,2018-08-22 20:43:51,2018-08-22 20:58:51,d311e70d-86e7-3c03-b115-53892bcf7ef1,outpatient,Encounter for problem (procedure),77.49,34.0,True,False
+b263f33d-2f86-e0bf-26a3-cc56b6b63404,2018-08-23 23:19:36,2018-08-23 23:45:53,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Outpatient procedure,13218.35,25.7,True,False
+93f3f642-f944-521d-fcd9-f31de3306995,2018-08-25 19:21:05,2018-08-25 19:36:05,37c0de84-bcaf-3624-82bf-a89b2ac441b8,ambulatory,Prenatal visit,14850.87,17.5,True,False
+266b6e4c-1e3d-4113-6b6e-86c815e7348a,2018-08-27 07:04:12,2018-08-27 08:00:55,7fb56531-86bd-3e4a-8619-4df9942da309,ambulatory,Outpatient procedure,16796.21,19.7,True,False
+d2076f48-8573-740c-137b-6a87fe9b39b1,2018-09-04 04:06:42,2018-09-04 04:21:42,b0e04623-b02c-3f8b-92ea-943fc4db60da,outpatient,Patient encounter procedure,4918.77,6.3,True,False
+5a04024d-4002-a959-6979-3303fba0dd23,2018-09-13 19:33:07,2018-09-13 20:05:55,4861d01f-019c-3dac-a153-8334e50919f9,ambulatory,Outpatient procedure,18664.64,5.0,True,False
+NOSHOW-900195,2018-09-21 10:23:21,,f1fbcbfb-fcfa-3bd2-b7f4-df20f1b3c3a4,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+4f7914f3-facb-f395-8812-5cf1e7788b5d,2018-09-21 10:23:21,2018-09-21 10:38:21,f1fbcbfb-fcfa-3bd2-b7f4-df20f1b3c3a4,outpatient,Consultation for treatment,129.16,9.6,True,False
+d97f2556-c6b4-7136-1ad9-1a427e5b610f,2018-09-24 15:03:18,2018-09-24 15:18:18,226098a2-6a40-3588-b5bb-db56c3a30a04,ambulatory,Follow-up encounter,77.49,37.4,True,False
+05f825d0-7c84-c721-81ab-4ab70e5a93f1,2018-10-07 16:00:34,2018-10-08 16:00:34,c44f361c-2efb-3050-8f97-0354a12e2920,inpatient,Screening surveillance (regime/therapy),251.73,,True,False
+b0d4d60a-973f-5097-ae85-c351ff5b9df1,2018-10-29 01:28:47,2018-10-29 02:28:47,226098a2-6a40-3588-b5bb-db56c3a30a04,emergency,Obstetric emergency hospital admission,17470.76,157.2,True,False
+a460ad09-7ba4-0cc4-981f-6f0563ebf5fa,2018-10-29 15:11:08,2018-10-29 16:11:08,226098a2-6a40-3588-b5bb-db56c3a30a04,emergency,Emergency Room Admission,129.16,43.2,True,False
+c20351e5-f58c-635e-7b78-fa203a0f684f,2018-10-29 21:27:47,2018-10-29 22:27:47,3d10019f-c88e-3de5-9916-6107b9c0263d,ambulatory,Encounter for problem,8662.33,15.2,True,False
+6f2238ea-ef44-4036-ba85-a4f6eed2fd22,2018-11-01 12:01:59,2018-11-01 12:16:59,fbf6180e-b800-3ebe-b91d-93d0288c400e,outpatient,Encounter for symptom,77.49,13.8,True,False
+118cb401-d3b6-ee84-2e9c-60a7b5100ebb,2018-12-16 14:43:20,2018-12-16 14:58:20,5d4b9df1-93ae-3bc9-b680-03249990e558,outpatient,Encounter for check up (procedure),77.49,28.5,True,False
+730d66c1-e719-1bd4-98c0-fd1c9f288142,2018-12-25 23:35:02,2018-12-25 23:50:02,b0e04623-b02c-3f8b-92ea-943fc4db60da,outpatient,Encounter for check up (procedure),77.49,9.0,True,False
+d4e2203d-3668-8f2d-d7e9-22abceea2257,2019-01-05 01:12:47,2019-01-05 01:27:47,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Hypertension follow-up encounter,77.49,11.4,True,False
+dde1f01a-53a8-d1da-7c01-d075a2c4eb8f,2019-01-10 18:49:39,2019-01-10 19:49:39,f1fbcbfb-fcfa-3bd2-b7f4-df20f1b3c3a4,ambulatory,Encounter for problem,17659.06,44.2,True,False
+NOSHOW-900191,2019-01-28 12:58:53,,49318f80-bd8b-3fc7-a096-ac43088b0c12,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+bd697349-8b4e-764f-ce69-73ac567245a1,2019-01-28 12:58:53,2019-01-28 13:13:53,49318f80-bd8b-3fc7-a096-ac43088b0c12,outpatient,Encounter for problem (procedure),77.49,16.3,True,False
+NOSHOW-900152,2019-01-28 12:58:53,,49318f80-bd8b-3fc7-a096-ac43088b0c12,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+239b0e5b-275b-f13d-5fcb-27b3bf7258f2,2019-02-08 23:10:35,2019-02-08 23:51:50,4861d01f-019c-3dac-a153-8334e50919f9,ambulatory,Outpatient procedure,9346.16,20.3,True,False
+34fd95c4-573d-ee59-ba85-b1dbc363a744,2019-02-13 12:31:40,2019-02-13 12:48:14,7fb56531-86bd-3e4a-8619-4df9942da309,ambulatory,Outpatient procedure,8175.47,17.5,True,False
+447d805a-c79c-a441-25f0-b798593eff09,2019-02-17 05:42:41,2019-02-17 06:01:38,69176529-fd1f-3b3f-abce-a0a3626769eb,ambulatory,Encounter for symptom,441.15,17.6,True,False
+b5badb1c-2962-30c8-be95-bb1b1a1e0938,2019-02-19 02:41:42,2019-02-19 02:56:42,69176529-fd1f-3b3f-abce-a0a3626769eb,ambulatory,Encounter for problem,77.49,13.9,True,False
+NOSHOW-900024,2019-02-19 02:41:42,,69176529-fd1f-3b3f-abce-a0a3626769eb,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+NOSHOW-900115,2019-02-22 17:56:47,,3bd5eda0-16da-3ba5-8500-4dfd6ae118b8,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+b2a3736f-39e6-32fa-b49d-95dddfdcaea6,2019-02-22 17:56:47,2019-02-22 19:07:35,3bd5eda0-16da-3ba5-8500-4dfd6ae118b8,ambulatory,Encounter for problem,1371.68,11.8,True,False
+662903f1-a962-5793-5524-c5d45bb641f7,2019-02-23 20:45:19,2019-02-23 21:45:19,6f122869-a856-3d65-8db9-099bf4f5bbb8,emergency,Emergency Room Admission,129.16,102.2,True,False
+d270eb3c-edc5-1826-6277-eaae45983339,2019-02-25 00:20:22,2019-02-25 00:35:22,03347b4d-994e-302b-848b-58019a4e274d,ambulatory,Domiciliary or rest home patient evaluation and management,205.09,11.4,True,False
+1751445c-7652-aa5c-13d1-abc27baab270,2019-03-06 00:03:36,2019-03-06 01:03:36,ef6ab57c-ed94-3dbe-9861-812d515918b3,emergency,Emergency room admission (procedure),129.16,78.6,True,False
+NOSHOW-900042,2019-03-19 09:16:07,,23834663-ed53-3da9-b330-d6e1ecb8428e,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+f6b340d7-64a2-a570-49ae-0be365078567,2019-03-19 09:16:07,2019-03-19 09:37:56,23834663-ed53-3da9-b330-d6e1ecb8428e,ambulatory,Allergic disorder initial assessment,645.81,11.5,True,False
+1fedb753-657c-4f3c-ab0c-9ed645318198,2019-03-29 12:37:23,2019-03-29 13:03:01,5e765f2b-e908-3888-9fc7-df2cb87beb58,ambulatory,Outpatient procedure,11955.09,26.0,True,False
+fe9a835c-ca93-25f4-4464-7696e0212527,2019-04-02 07:36:01,2019-04-02 07:51:01,f4e7709c-02f6-37ca-aeea-8247d74e88e7,outpatient,Encounter for check up (procedure),218.01,7.6,True,False
+NOSHOW-900168,2019-04-02 07:36:01,,f4e7709c-02f6-37ca-aeea-8247d74e88e7,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+aa846167-3d7e-3f3b-b0b5-15cf66aab6bb,2019-04-05 05:36:20,2019-04-05 06:36:20,5e765f2b-e908-3888-9fc7-df2cb87beb58,emergency,Emergency room admission (procedure),129.16,85.3,True,False
+7c249486-f83b-3510-cea7-38cb3fde9baa,2019-04-13 14:05:02,2019-04-13 14:20:02,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Prenatal visit,9431.09,6.6,True,False
+9787133c-17ab-3702-4dc3-f635ba14b957,2019-04-26 21:49:39,2019-04-26 22:49:39,f1fbcbfb-fcfa-3bd2-b7f4-df20f1b3c3a4,ambulatory,Encounter for problem,17131.17,4.1,True,False
+34f831b1-c376-a1e5-4ed4-333de78cfe55,2019-04-28 14:12:42,2019-04-28 14:33:00,24cb4eab-6166-3530-bddc-a5a8a14a4fc1,ambulatory,Outpatient procedure,17519.74,14.1,True,False
+5b3d7ba4-8876-50c8-c18e-50ab415e6ec6,2019-05-08 01:22:39,2019-05-08 01:37:39,3bd5eda0-16da-3ba5-8500-4dfd6ae118b8,ambulatory,Prenatal visit,10838.68,14.9,True,False
+NOSHOW-900031,2019-05-24 15:11:08,,c44f361c-2efb-3050-8f97-0354a12e2920,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+54e79a52-4b81-2b33-0b19-89a8f5a3774d,2019-05-24 15:11:08,2019-05-24 15:26:08,c44f361c-2efb-3050-8f97-0354a12e2920,ambulatory,Prenatal visit,15134.43,21.1,True,False
+ce8e8aff-2a82-e14f-2f66-6f4c91ffdc21,2019-06-05 13:32:16,2019-06-05 13:47:16,69176529-fd1f-3b3f-abce-a0a3626769eb,ambulatory,Postoperative follow-up visit (procedure),129.16,24.6,True,False
+4b434680-2156-5990-f683-47dfe4a6650f,2019-06-09 08:50:34,2019-06-09 09:05:34,f71ce1a9-cca7-3295-9a1e-c88ac3479b6f,outpatient,Consultation for treatment,129.16,23.4,True,False
+a6ee5445-22a6-8f8b-3745-99cda85e7980,2019-06-12 21:25:22,2019-06-12 21:40:22,b1ddf812-1fdd-3adf-b1d5-32cc8bd07ebb,outpatient,Consultation for treatment,129.16,22.1,True,False
+NOSHOW-900180,2019-06-12 21:25:22,,b1ddf812-1fdd-3adf-b1d5-32cc8bd07ebb,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+d0670416-64ef-a468-6d24-7afb88864ba9,2019-06-19 07:58:49,2019-06-19 08:13:49,f99c74cc-7d1a-3f95-9a33-4a9357bf2f2a,ambulatory,Encounter for symptom,77.49,21.1,True,False
+4a8c90c2-31c2-36d1-0cde-fbcaf17e08c8,2019-07-13 03:06:58,2019-07-13 03:21:58,69176529-fd1f-3b3f-abce-a0a3626769eb,outpatient,Consultation for treatment,129.16,14.9,True,False
+0c7e9f86-ecec-fe8b-9f2a-60eab0f4c0fd,2019-07-14 22:20:59,2019-07-14 22:35:59,5e765f2b-e908-3888-9fc7-df2cb87beb58,ambulatory,Encounter for 'check-up',77.49,25.3,True,False
+53797eaf-ef81-0ffd-8c37-90eab23b8f78,2019-07-19 15:41:33,2019-07-19 15:56:33,d5117822-5756-389d-9547-891a372d580f,ambulatory,Follow-up encounter,77.49,22.8,True,False
+465d1a22-a136-881c-852c-ccb46cffe4c1,2019-07-24 12:56:22,2019-07-24 13:11:22,e002090d-4e92-300e-b41e-7d1f21dee4c6,ambulatory,Prenatal visit,8820.96,18.3,True,False
+2ac8bbd0-5ebc-5bf6-b904-1f5fdf48c757,2019-07-28 08:30:48,2019-07-28 08:45:48,d5117822-5756-389d-9547-891a372d580f,ambulatory,Encounter for symptom,3752.9,21.1,True,False
+b2670f67-dbe6-fc00-665e-c2d53b328b9a,2019-08-04 11:12:39,2019-08-04 11:27:39,5d4b9df1-93ae-3bc9-b680-03249990e558,ambulatory,Encounter for symptom,77.49,48.9,True,False
+3d02d1a5-1b79-a1e6-e362-e269f5c97c2d,2019-08-05 18:12:39,2019-08-05 18:27:39,5d4b9df1-93ae-3bc9-b680-03249990e558,outpatient,Encounter for check up (procedure),218.01,21.8,True,False
+4f68c153-8cb5-3847-067b-4def6f7ad9cb,2019-08-09 17:09:35,2019-08-09 17:24:35,d692e283-0833-3201-8e55-4f868a9c0736,ambulatory,Encounter for symptom,3695.73,7.5,True,False
+12c4cdef-3f9e-bcb0-b998-13b9e22e2107,2019-08-14 01:22:39,2019-08-14 01:37:39,3bd5eda0-16da-3ba5-8500-4dfd6ae118b8,ambulatory,Prenatal visit,15427.19,15.1,True,False
+131eb808-c0aa-6549-e994-d397e48bd331,2019-08-20 13:12:30,2019-08-20 13:27:30,d692e283-0833-3201-8e55-4f868a9c0736,outpatient,Patient encounter procedure,2782.81,15.9,True,False
+d9afa3c6-aabf-9345-bae2-6a14debbf847,2019-08-21 16:34:11,2019-08-21 17:33:15,5d4b9df1-93ae-3bc9-b680-03249990e558,ambulatory,Patient encounter procedure (procedure),645.81,26.4,True,False
+ba504b07-238b-23ca-c044-b7a985e82103,2019-08-25 16:05:01,2019-08-25 16:20:01,37b4d73f-652d-3033-a16e-d97b9e8b4cda,ambulatory,Encounter for symptom,6365.08,13.2,True,False
+60795c7f-fa10-21dd-5dd2-13314d35538b,2019-08-27 05:30:21,2019-08-27 05:45:21,5e765f2b-e908-3888-9fc7-df2cb87beb58,ambulatory,Encounter for symptom,559.68,26.6,True,False
+NOSHOW-900074,2019-09-04 22:02:55,,ef6ab57c-ed94-3dbe-9861-812d515918b3,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+NOSHOW-900116,2019-09-04 22:02:55,,ef6ab57c-ed94-3dbe-9861-812d515918b3,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+c143b3b2-112b-7a29-5c17-82cf87fda843,2019-09-04 22:02:55,2019-09-04 22:17:55,ef6ab57c-ed94-3dbe-9861-812d515918b3,ambulatory,Prenatal visit,17366.18,24.1,True,False
+f6cc0546-539e-bf57-b3f5-682dc5211f6a,2019-09-13 15:11:08,2019-09-13 15:26:08,c44f361c-2efb-3050-8f97-0354a12e2920,ambulatory,Prenatal visit,17264.58,15.3,True,False
+NOSHOW-900093,2019-09-13 15:11:08,,c44f361c-2efb-3050-8f97-0354a12e2920,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+0f7e59a8-d0fa-deb7-5b07-62e317343b28,2019-09-14 14:30:17,2019-09-14 15:30:17,f99c74cc-7d1a-3f95-9a33-4a9357bf2f2a,emergency,Stroke,18145.38,124.6,True,False
+42c425ab-7cb7-3911-47fd-8fbc29020a20,2019-09-19 01:35:30,2019-09-19 01:50:30,12c9daf5-a29c-36c9-ac55-28972463e566,ambulatory,Encounter for 'check-up',77.49,36.4,True,False
+efb2df45-4ba0-2bb0-76af-c5360809d575,2019-10-18 03:11:33,2019-10-18 03:43:39,12c9daf5-a29c-36c9-ac55-28972463e566,ambulatory,Outpatient procedure,13728.89,16.3,True,False
+2a58cd32-4367-8e2d-42d2-e4e5c4fdc252,2019-10-21 22:01:47,2019-10-21 22:16:47,3bd5eda0-16da-3ba5-8500-4dfd6ae118b8,ambulatory,Follow-up encounter,77.49,8.6,True,False
+0b8210a1-089d-5590-5888-b8932a039b60,2019-10-31 22:45:56,2019-10-31 23:00:56,226098a2-6a40-3588-b5bb-db56c3a30a04,ambulatory,Postoperative follow-up visit (procedure),129.16,20.1,True,False
+00460923-8b70-d947-73ef-f249c8c17361,2019-11-08 14:56:33,2019-11-08 15:11:33,226098a2-6a40-3588-b5bb-db56c3a30a04,ambulatory,Encounter for symptom,2433.27,21.0,True,False
+18758dd6-c1e3-ca59-fd89-727b8ff76928,2019-11-08 20:21:02,2019-11-08 21:21:02,23834663-ed53-3da9-b330-d6e1ecb8428e,emergency,Emergency Encounter,129.16,182.4,True,False
+c2d950f0-c36e-5467-e931-13f973352829,2019-11-09 22:51:19,2019-11-09 23:06:19,ebc3f5c4-6700-34af-8323-85621c313726,outpatient,Consultation for treatment,129.16,21.7,True,False
+74ff6450-8ebf-f058-9c6c-0ab4368ca50b,2019-11-10 05:42:37,2019-11-10 06:40:43,8ad64ecf-c817-3753-bee7-006a8e662e06,ambulatory,Outpatient procedure,11560.69,23.4,True,False
+a0c39f05-887e-7124-daf9-f6b7ea34355c,2019-11-13 12:46:42,2019-11-14 12:46:42,226098a2-6a40-3588-b5bb-db56c3a30a04,inpatient,Encounter for problem,14688.78,,True,False
+91b0bcfc-fd24-dc3e-c48e-a5a1fbfe80f9,2019-11-25 01:14:55,2019-11-25 01:40:58,b0e04623-b02c-3f8b-92ea-943fc4db60da,ambulatory,Encounter for problem,594.14,66.0,True,False
+23f4bc03-e50f-1c22-e30a-ed5b73a19716,2019-12-02 04:16:12,2019-12-02 04:33:47,12c9daf5-a29c-36c9-ac55-28972463e566,ambulatory,Outpatient procedure,16786.59,8.7,True,False
+ed6f51ae-c657-880b-81e0-a9ff6448ad02,2019-12-02 14:31:34,2019-12-03 14:31:34,ecc51621-0af3-3b35-ac3e-8b1e34022e92,inpatient,Encounter for problem,594.14,,True,False
+49cd9b6b-9d2e-76c3-fff4-e2db3ea8f7c6,2019-12-09 20:04:23,2019-12-09 20:35:19,e002090d-4e92-300e-b41e-7d1f21dee4c6,ambulatory,Encounter for problem,594.14,11.7,True,False
+c19a46ef-4d54-4c9c-b76a-a3965daa1b9e,2019-12-17 20:02:39,2019-12-17 20:17:39,4861d01f-019c-3dac-a153-8334e50919f9,ambulatory,Encounter for symptom,77.49,8.5,True,False
+93f03131-68b8-c875-d419-9820dc9ea233,2019-12-24 20:16:13,2019-12-24 20:31:13,e002090d-4e92-300e-b41e-7d1f21dee4c6,outpatient,Encounter for symptom,77.49,26.7,True,False
+b8c9c578-fc90-3142-c790-a092c0e2fa17,2019-12-25 04:33:47,2019-12-25 04:50:41,12c9daf5-a29c-36c9-ac55-28972463e566,ambulatory,Outpatient procedure,13259.64,22.5,True,False
+f37f615b-3ae3-9650-dd70-c5fcd5220cf9,2020-01-08 11:55:47,2020-01-08 12:10:47,37c0de84-bcaf-3624-82bf-a89b2ac441b8,outpatient,Consultation for treatment,129.16,11.2,True,False
+5f98ac0d-d06d-314e-98dc-aa1a46059c36,2020-01-16 13:18:15,2020-01-16 13:33:15,b0e04623-b02c-3f8b-92ea-943fc4db60da,ambulatory,Prenatal visit,10024.75,12.7,True,False
+d2df6843-6453-6dfc-f625-0764954fd5db,2020-01-20 17:39:00,2020-01-20 17:58:51,ef58ea08-d883-3957-8300-150554edc8fb,outpatient,Patient encounter procedure,2669.51,18.1,True,False
+3577795b-6673-f1e8-fb6e-a9a5a2f7f979,2020-01-31 09:55:01,2020-01-31 10:10:46,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Outpatient procedure,20806.71,29.4,True,False
+NOSHOW-900114,2020-02-03 01:37:10,,4861d01f-019c-3dac-a153-8334e50919f9,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+795e9c97-51f3-381c-2550-379bb53c32cc,2020-02-03 01:37:10,2020-02-03 01:52:10,4861d01f-019c-3dac-a153-8334e50919f9,ambulatory,Prenatal visit,21069.72,16.5,True,False
+3c078fdc-2623-3ad2-ef86-a7286933b2f8,2020-02-04 15:56:07,2020-02-04 16:11:07,24cb4eab-6166-3530-bddc-a5a8a14a4fc1,ambulatory,Follow-up encounter,77.49,14.3,True,False
+2594f228-9800-0889-412e-a23fdb1561d0,2020-02-07 08:33:36,2020-02-07 09:33:36,ecc51621-0af3-3b35-ac3e-8b1e34022e92,emergency,Emergency Encounter,129.16,85.7,True,False
+a86e92b0-d3ec-52db-4cfb-fb00be5957cc,2020-02-09 14:31:23,2020-02-09 14:46:23,5e765f2b-e908-3888-9fc7-df2cb87beb58,outpatient,Consultation for treatment,129.16,26.4,True,False
+NOSHOW-900199,2020-02-14 20:21:02,,f7a6cc79-3075-3124-9f62-6fe562440b1d,urgentcare,Scheduled appointment -- no-show (synthetic),,,False,True
+640ec203-a480-4248-b253-e49d3eb1591e,2020-02-14 20:21:02,2020-02-14 20:36:02,f7a6cc79-3075-3124-9f62-6fe562440b1d,urgentcare,Urgent care clinic (procedure),129.16,48.1,True,False
+565dd163-9334-8506-d8ed-cee8865bcd65,2020-02-23 08:56:33,2020-02-23 09:36:12,6f122869-a856-3d65-8db9-099bf4f5bbb8,ambulatory,Encounter for 'check-up',9978.71,32.7,True,False
+59721b8c-ef0f-127b-754d-cb1f70ab0c2f,2020-02-24 11:29:02,2020-02-24 11:44:02,03347b4d-994e-302b-848b-58019a4e274d,outpatient,Consultation for treatment,129.16,21.6,True,False
+30492a81-4050-b584-246b-2ce9fb3d8c66,2020-02-26 21:44:31,2020-02-26 22:00:48,8ad64ecf-c817-3753-bee7-006a8e662e06,ambulatory,Encounter for symptom,581.0,14.6,True,False
+39f211b0-0d7e-846d-a1c8-4eb3c6bc3e51,2020-03-26 15:11:08,2020-03-26 15:26:08,c44f361c-2efb-3050-8f97-0354a12e2920,outpatient,Encounter for problem (procedure),77.49,24.2,True,False
+NOSHOW-900179,2020-03-26 15:11:08,,c44f361c-2efb-3050-8f97-0354a12e2920,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+6c7a4308-603c-a189-40b4-b3a2b97b066a,2020-03-29 09:10:02,2020-03-29 09:25:02,69176529-fd1f-3b3f-abce-a0a3626769eb,outpatient,Patient encounter procedure,7103.67,18.5,True,False
+c94060b5-ef92-8613-ad7a-254c27eeb53b,2020-03-31 23:35:02,2020-04-01 00:43:43,b0e04623-b02c-3f8b-92ea-943fc4db60da,outpatient,Patient encounter procedure,11828.38,19.2,True,False
+30ce5abd-982c-b483-62ef-f9cd3299f1a6,2020-04-08 16:34:46,2020-04-08 17:03:26,12c9daf5-a29c-36c9-ac55-28972463e566,ambulatory,Encounter for 'check-up',9911.52,13.3,True,False
+NOSHOW-900072,2020-04-14 20:41:31,,d5117822-5756-389d-9547-891a372d580f,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+b2d22681-6957-249e-f569-03d76efc9886,2020-04-14 20:41:31,2020-04-14 20:56:31,d5117822-5756-389d-9547-891a372d580f,ambulatory,Prenatal visit,15929.36,40.3,True,False
+c8080fa1-05ea-ec28-61cb-6cfdd5f3e51f,2020-04-18 15:02:14,2020-04-18 15:17:14,ef58ea08-d883-3957-8300-150554edc8fb,ambulatory,Follow-up encounter,77.49,7.7,True,False
+272d6ecb-734c-93ec-3f48-36a858f6c1c2,2020-04-19 10:04:09,2020-04-19 10:45:09,4861d01f-019c-3dac-a153-8334e50919f9,ambulatory,Outpatient procedure,10271.05,35.5,True,False
+7d49a3b5-f0e2-5520-a1c8-57716ea02ec1,2020-05-15 16:47:31,2020-05-15 17:02:31,23834663-ed53-3da9-b330-d6e1ecb8428e,ambulatory,Encounter for symptom,77.49,15.6,True,False
+NOSHOW-900189,2020-05-20 06:05:04,,37c0de84-bcaf-3624-82bf-a89b2ac441b8,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+d81df00e-0235-622b-b8e9-3bd9141ab5dd,2020-05-20 06:05:04,2020-05-20 06:20:33,37c0de84-bcaf-3624-82bf-a89b2ac441b8,outpatient,Patient encounter procedure,4273.38,19.1,True,False
+7a4bf629-3f8b-d074-ea5b-2186c30609a8,2020-05-23 09:35:42,2020-05-24 09:35:42,226098a2-6a40-3588-b5bb-db56c3a30a04,inpatient,Encounter for problem,12919.83,,True,False
+2b9dab18-b447-e95e-7303-7f98f8d1b7fc,2020-05-28 16:39:07,2020-05-28 16:54:07,37b4d73f-652d-3033-a16e-d97b9e8b4cda,outpatient,Consultation for treatment,129.16,54.3,True,False
+NOSHOW-900169,2020-05-28 16:39:07,,37b4d73f-652d-3033-a16e-d97b9e8b4cda,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+NOSHOW-900021,2020-05-29 03:24:10,,49318f80-bd8b-3fc7-a096-ac43088b0c12,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+527693d7-9ef2-5aa5-e23a-9db30f16a2ee,2020-05-29 03:24:10,2020-05-29 04:19:58,49318f80-bd8b-3fc7-a096-ac43088b0c12,ambulatory,Patient encounter procedure (procedure),645.81,15.9,True,False
+46cfd486-13ab-36ae-2468-39e85c4f0008,2020-06-02 11:09:06,2020-06-02 11:24:06,24cb4eab-6166-3530-bddc-a5a8a14a4fc1,ambulatory,Prenatal visit,14258.08,29.7,True,False
+fef7e40c-f075-7fb0-920f-de3ab673a69f,2020-06-03 03:57:20,2020-06-03 04:12:20,ef6ab57c-ed94-3dbe-9861-812d515918b3,outpatient,Encounter for check up (procedure),77.49,12.2,True,False
+NOSHOW-900165,2020-06-03 03:57:20,,ef6ab57c-ed94-3dbe-9861-812d515918b3,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+5553a3bb-bb9c-7a0c-28e3-73905e137aeb,2020-06-08 20:43:51,2020-06-08 20:58:51,d311e70d-86e7-3c03-b115-53892bcf7ef1,outpatient,Encounter for problem (procedure),77.49,24.3,True,False
+1ddcae62-3c9f-8e19-df6e-035882bf61ea,2020-06-18 09:58:58,2020-06-18 10:58:58,37c0de84-bcaf-3624-82bf-a89b2ac441b8,emergency,Emergency room admission (procedure),129.16,174.6,True,False
+40c02883-b292-1f1a-b9fb-42259b14d13c,2020-06-30 18:09:46,2020-06-30 18:29:18,f1fbcbfb-fcfa-3bd2-b7f4-df20f1b3c3a4,ambulatory,Outpatient procedure,16094.49,9.8,True,False
+5f83b65c-eaee-5637-e097-505b9b0d33d3,2020-07-01 15:41:42,2020-07-01 16:41:42,69176529-fd1f-3b3f-abce-a0a3626769eb,ambulatory,Encounter for problem,11332.71,18.6,True,False
+4823121e-8c4c-8fe9-1b17-f4b2d5dfe5fd,2020-07-26 15:07:05,2020-07-26 15:22:05,226098a2-6a40-3588-b5bb-db56c3a30a04,outpatient,Encounter for check up (procedure),218.01,11.6,True,False
+70ce7ee8-d8a8-4de7-294f-78927b11852d,2020-07-27 18:29:18,2020-07-27 19:29:02,f1fbcbfb-fcfa-3bd2-b7f4-df20f1b3c3a4,ambulatory,Outpatient procedure,10349.4,27.4,True,False
+NOSHOW-900045,2020-08-03 12:27:18,,03347b4d-994e-302b-848b-58019a4e274d,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+NOSHOW-900105,2020-08-03 12:27:18,,03347b4d-994e-302b-848b-58019a4e274d,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+NOSHOW-900004,2020-08-03 12:27:18,,03347b4d-994e-302b-848b-58019a4e274d,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+8b296d15-a33e-4485-2519-4f68020ba4ca,2020-08-03 12:27:18,2020-08-03 12:42:18,03347b4d-994e-302b-848b-58019a4e274d,ambulatory,Encounter for symptom,77.49,30.8,True,False
+75e98243-a101-3db7-7023-3c2e38eb9201,2020-08-10 00:12:34,2020-08-10 00:27:34,226098a2-6a40-3588-b5bb-db56c3a30a04,ambulatory,Encounter for symptom,77.49,20.7,True,False
+c544509c-92b1-2410-e60d-c559c688e60b,2020-08-12 17:52:09,2020-08-12 18:07:09,b1ddf812-1fdd-3adf-b1d5-32cc8bd07ebb,ambulatory,Encounter for symptom,77.49,10.4,True,False
+39051e1d-a80d-6787-adde-b8e82a254bee,2020-08-17 13:13:15,2020-08-17 13:35:22,d692e283-0833-3201-8e55-4f868a9c0736,ambulatory,Outpatient procedure,14018.14,28.7,True,False
+996bb787-6dbf-5c8b-dd0e-7b717f42a07e,2020-08-25 18:42:55,2020-08-25 18:57:55,db0acede-4abe-3c01-8d03-5c68a190d8c7,outpatient,Encounter for check up (procedure),11662.41,25.2,True,False
+93f8b4f3-c560-cf7f-e70f-a31663b60564,2020-08-26 18:44:36,2020-08-26 18:59:36,4861d01f-019c-3dac-a153-8334e50919f9,outpatient,Encounter for check up (procedure),77.49,18.4,True,False
+f368f310-7d5f-21e0-0841-2aa5727f9a78,2020-08-30 06:05:04,2020-08-30 06:20:04,37c0de84-bcaf-3624-82bf-a89b2ac441b8,outpatient,Encounter for problem (procedure),77.49,15.7,True,False
+NOSHOW-900156,2020-08-30 06:57:17,,226098a2-6a40-3588-b5bb-db56c3a30a04,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+4711516a-6807-572b-4ed3-bd832fcc1167,2020-08-30 06:57:17,2020-08-30 07:12:27,226098a2-6a40-3588-b5bb-db56c3a30a04,outpatient,Patient encounter procedure,3822.86,26.2,True,False
+2a75c922-b3c5-eaaf-69e3-ce05e60449ee,2020-09-03 09:46:29,2020-09-03 10:01:29,03347b4d-994e-302b-848b-58019a4e274d,ambulatory,Postnatal visit,1162.46,10.8,True,False
+07eeaed1-87e1-93c8-cf7c-bdd4ad18d21e,2020-09-10 10:23:21,2020-09-10 10:38:21,f1fbcbfb-fcfa-3bd2-b7f4-df20f1b3c3a4,outpatient,Consultation for treatment,129.16,58.4,True,False
+f4e8090e-57a6-c805-9762-e19462d64178,2020-09-17 11:55:40,2020-09-17 12:10:40,37b4d73f-652d-3033-a16e-d97b9e8b4cda,outpatient,Encounter for check up (procedure),218.01,5.3,True,False
+NOSHOW-900147,2020-09-17 11:55:40,,37b4d73f-652d-3033-a16e-d97b9e8b4cda,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+NOSHOW-900145,2020-09-26 15:50:42,,ef6ab57c-ed94-3dbe-9861-812d515918b3,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+a650b63f-1781-0354-e3e8-4a2d9669effd,2020-09-26 15:50:42,2020-09-26 17:35:22,ef6ab57c-ed94-3dbe-9861-812d515918b3,outpatient,Encounter for problem,16191.19,18.3,True,False
+b656b664-cc8f-850a-a014-086eda3a0946,2020-09-27 14:18:54,2020-09-27 14:33:54,37c0de84-bcaf-3624-82bf-a89b2ac441b8,outpatient,Patient encounter procedure,3363.27,30.0,True,False
+7df58fda-2653-f656-2421-4afb68913fc5,2020-10-01 00:09:05,2020-10-01 00:24:05,f71ce1a9-cca7-3295-9a1e-c88ac3479b6f,ambulatory,Follow-up encounter,77.49,31.0,True,False
+51031177-76eb-b3ae-b15f-0fc8f0fd8f03,2020-10-04 11:07:35,2020-10-04 11:22:35,e002090d-4e92-300e-b41e-7d1f21dee4c6,outpatient,Consultation for treatment,129.16,50.1,True,False
+NOSHOW-900101,2020-10-08 05:13:42,,24cb4eab-6166-3530-bddc-a5a8a14a4fc1,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+fe6b2b20-afac-cd61-0cef-0cbf53f37fdb,2020-10-08 05:13:42,2020-10-08 05:40:24,24cb4eab-6166-3530-bddc-a5a8a14a4fc1,ambulatory,Outpatient procedure,10972.74,22.3,True,False
+fe42b256-76f3-eca1-4191-39798b8fc73f,2020-10-20 06:05:04,2020-10-20 06:20:04,37c0de84-bcaf-3624-82bf-a89b2ac441b8,outpatient,Encounter for problem (procedure),77.49,23.7,True,False
+143a3b90-c999-e05a-71ce-14ba2a0cc5c0,2020-10-24 06:29:53,2020-10-24 07:17:28,b0e04623-b02c-3f8b-92ea-943fc4db60da,ambulatory,Outpatient procedure,21278.32,10.2,True,False
+NOSHOW-900097,2020-10-24 06:29:53,,b0e04623-b02c-3f8b-92ea-943fc4db60da,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+7fbda1dc-9387-53df-52f2-82e69feaff28,2020-10-25 03:50:32,2020-10-25 04:05:32,69176529-fd1f-3b3f-abce-a0a3626769eb,ambulatory,Prenatal visit,12505.48,11.8,True,False
+b9b52ccb-ea12-c9d6-8e69-1561efe5870c,2020-11-01 03:50:32,2020-11-01 04:05:32,69176529-fd1f-3b3f-abce-a0a3626769eb,ambulatory,Prenatal visit,14770.89,25.7,True,False
+e1aa12ad-6f23-b623-a646-670ec94cb35f,2020-11-12 04:02:13,2020-11-12 04:17:15,7fb56531-86bd-3e4a-8619-4df9942da309,outpatient,Patient encounter procedure,2499.44,29.0,True,False
+1b3d031b-ecaa-d539-338b-3954003d9566,2020-11-21 00:20:22,2020-11-21 00:35:22,03347b4d-994e-302b-848b-58019a4e274d,outpatient,Consultation for treatment,129.16,19.0,True,False
+c9bfa927-da3f-bd9e-aa5a-c5dadde410dc,2020-12-03 22:59:05,2020-12-03 23:14:05,f7a6cc79-3075-3124-9f62-6fe562440b1d,urgentcare,Urgent care clinic (procedure),12333.94,44.5,True,False
+b24cfe9a-b435-15f4-5501-285a1cdf7bc2,2020-12-04 01:11:54,2020-12-04 01:36:38,23834663-ed53-3da9-b330-d6e1ecb8428e,ambulatory,Outpatient procedure,14469.19,10.5,True,False
+2915f1f0-123e-a274-10de-0c3289326017,2020-12-14 00:08:33,2020-12-14 01:08:33,d5117822-5756-389d-9547-891a372d580f,emergency,Emergency room admission (procedure),11073.37,90.0,True,False
+a575702d-7c7f-6124-cd7c-78434ca635f9,2020-12-23 19:54:04,2020-12-23 20:09:04,fbf6180e-b800-3ebe-b91d-93d0288c400e,outpatient,Encounter for problem (procedure),77.49,8.6,True,False
+d69b937e-2718-8c11-667d-7bd519ddd20d,2020-12-31 17:36:35,2020-12-31 18:36:35,3bd5eda0-16da-3ba5-8500-4dfd6ae118b8,emergency,Emergency room admission (procedure),10815.7,77.9,True,False
+NOSHOW-900050,2021-01-02 06:34:57,,e002090d-4e92-300e-b41e-7d1f21dee4c6,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+190180e6-8a5d-8c8e-beb2-cfee88dc03ab,2021-01-02 06:34:57,2021-01-02 07:29:54,e002090d-4e92-300e-b41e-7d1f21dee4c6,ambulatory,Outpatient procedure,12827.3,14.2,True,False
+59a70752-28ba-eb8f-987e-51b1f2940500,2021-01-11 05:30:59,2021-01-11 06:30:59,37b4d73f-652d-3033-a16e-d97b9e8b4cda,emergency,Obstetric emergency hospital admission,645.81,298.4,True,False
+67abd212-a88a-90b6-8655-6273dc2226e4,2021-01-11 16:58:51,2021-01-11 17:41:54,d692e283-0833-3201-8e55-4f868a9c0736,ambulatory,Outpatient procedure,23964.35,6.4,True,False
+64011577-2462-319c-3341-3e8ed45e8da0,2021-01-20 07:03:42,2021-01-20 07:52:27,49318f80-bd8b-3fc7-a096-ac43088b0c12,ambulatory,Encounter for symptom (procedure),81.23,38.3,True,False
+c0c3404a-c0bc-397c-2912-e724ca46720e,2021-01-27 06:05:04,2021-01-27 06:20:04,37c0de84-bcaf-3624-82bf-a89b2ac441b8,outpatient,Encounter for check up (procedure),218.01,17.3,True,False
+513717f9-43d4-fb7d-0404-7a0e06e77081,2021-01-31 06:57:45,2021-01-31 07:12:45,37c0de84-bcaf-3624-82bf-a89b2ac441b8,outpatient,Administration of vaccine to produce active immunity (procedure),269.68,16.6,True,False
+533819d4-d952-e272-e5c1-fd47ed1881f1,2021-02-15 15:38:57,2021-02-15 15:53:57,4861d01f-019c-3dac-a153-8334e50919f9,outpatient,Administration of vaccine to produce active immunity (procedure),269.68,22.5,True,False
+5b373a33-c9a5-62d8-ed45-bb4f017a49c0,2021-02-18 22:01:47,2021-02-18 22:16:47,3bd5eda0-16da-3ba5-8500-4dfd6ae118b8,outpatient,Administration of vaccine to produce active immunity (procedure),269.68,23.2,True,False
+5d2a1cee-0d73-3e44-35eb-fca8f61df614,2021-02-19 07:30:48,2021-02-19 07:45:48,db0acede-4abe-3c01-8d03-5c68a190d8c7,outpatient,Encounter for check up (procedure),77.49,16.9,True,False
+92dbcd05-78ad-b4c7-63a8-a4f105722ede,2021-02-22 01:37:10,2021-02-22 01:52:10,4861d01f-019c-3dac-a153-8334e50919f9,outpatient,Administration of vaccine to produce active immunity (procedure),269.68,40.9,True,False
+ef3b9c45-651e-8012-2844-a984fabb77ad,2021-02-25 01:58:41,2021-02-25 02:52:40,f4e7709c-02f6-37ca-aeea-8247d74e88e7,ambulatory,Patient encounter procedure (procedure),645.81,20.1,True,False
+NOSHOW-900107,2021-02-25 01:58:41,,f4e7709c-02f6-37ca-aeea-8247d74e88e7,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+6b525a06-cf39-7980-4951-f1e7abc2de47,2021-03-03 07:45:38,2021-03-03 08:16:41,5e765f2b-e908-3888-9fc7-df2cb87beb58,ambulatory,Outpatient procedure,12578.66,11.7,True,False
+f540b7f2-a725-5151-6399-cd25d28eccd0,2021-03-03 20:43:51,2021-03-03 20:58:51,d311e70d-86e7-3c03-b115-53892bcf7ef1,ambulatory,Follow-up encounter,77.49,10.2,True,False
+23c5e5b4-9736-9333-d3e8-a984e2f6b8ed,2021-03-05 20:21:02,2021-03-05 20:36:02,23834663-ed53-3da9-b330-d6e1ecb8428e,outpatient,Encounter for check up (procedure),77.49,14.9,True,False
+b6c5df27-7b71-0ede-a527-650a22e8bfab,2021-03-06 07:16:07,2021-03-06 07:31:07,ef6ab57c-ed94-3dbe-9861-812d515918b3,outpatient,Administration of vaccine to produce active immunity (procedure),269.68,8.2,True,False
+NOSHOW-900174,2021-03-10 00:20:18,,69176529-fd1f-3b3f-abce-a0a3626769eb,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+447f136d-5108-e4b6-f96d-a05ba2be7afb,2021-03-10 00:20:18,2021-03-10 00:35:18,69176529-fd1f-3b3f-abce-a0a3626769eb,outpatient,Administration of vaccine to produce active immunity (procedure),269.68,13.1,True,False
+b3ceaf71-32a3-a070-f954-a108da5500a0,2021-03-12 08:53:53,2021-03-12 09:08:53,226098a2-6a40-3588-b5bb-db56c3a30a04,ambulatory,Prenatal visit,24920.5,44.7,True,False
+896cbee4-7e0d-a28a-2e7f-a5ec566b8e9b,2021-03-21 21:12:26,2021-03-21 21:27:26,c44f361c-2efb-3050-8f97-0354a12e2920,outpatient,Administration of vaccine to produce active immunity (procedure),269.68,24.2,True,False
+d6a163b2-8cf6-6ab7-1b6e-d397e70f4f98,2021-03-23 21:11:23,2021-03-23 21:26:23,d692e283-0833-3201-8e55-4f868a9c0736,outpatient,Encounter for check up (procedure),218.01,9.2,True,False
+NOSHOW-900137,2021-03-23 21:11:23,,d692e283-0833-3201-8e55-4f868a9c0736,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+NOSHOW-900182,2021-03-23 21:11:23,,d692e283-0833-3201-8e55-4f868a9c0736,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+d62e427a-04d4-82c7-d47a-47c2014367e9,2021-03-25 06:15:42,2021-03-25 06:30:42,24cb4eab-6166-3530-bddc-a5a8a14a4fc1,ambulatory,Encounter for symptom,77.49,17.9,True,False
+NOSHOW-900119,2021-03-25 06:15:42,,24cb4eab-6166-3530-bddc-a5a8a14a4fc1,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+e5b6621b-f5f0-341f-f6f4-e70b31b0a9a9,2021-03-27 14:54:31,2021-03-27 15:09:31,3d10019f-c88e-3de5-9916-6107b9c0263d,outpatient,Administration of vaccine to produce active immunity (procedure),269.68,11.6,True,False
+511768be-2b39-106b-b7d4-ac3d00e95388,2021-03-27 17:28:39,2021-03-27 17:43:39,f4e7709c-02f6-37ca-aeea-8247d74e88e7,outpatient,Administration of vaccine to produce active immunity (procedure),269.68,11.1,True,False
+b7f23950-b9f4-9348-5839-b33121766339,2021-03-28 03:21:54,2021-03-28 03:36:54,c44f361c-2efb-3050-8f97-0354a12e2920,outpatient,Administration of vaccine to produce active immunity (procedure),269.68,26.2,True,False
+NOSHOW-900194,2021-04-02 04:15:42,,4861d01f-019c-3dac-a153-8334e50919f9,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+0b363d70-88df-e778-2364-9446593e3a54,2021-04-02 04:15:42,2021-04-02 04:30:42,4861d01f-019c-3dac-a153-8334e50919f9,outpatient,Encounter for check up (procedure),358.53,21.2,True,False
+195ca490-99d3-6d04-c9af-25ccc354f546,2021-04-07 12:10:26,2021-04-07 12:25:26,ebc3f5c4-6700-34af-8323-85621c313726,ambulatory,Prenatal visit,14268.11,18.1,True,False
+3a837a5a-1473-27aa-0a1f-3eb95edec619,2021-04-10 02:56:17,2021-04-10 03:11:17,5d4b9df1-93ae-3bc9-b680-03249990e558,outpatient,Administration of vaccine to produce active immunity (procedure),269.68,18.5,True,False
+NOSHOW-900155,2021-04-13 02:02:10,,23834663-ed53-3da9-b330-d6e1ecb8428e,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+4045b9b9-9c14-6eb3-4af3-862a17d7f866,2021-04-13 02:02:10,2021-04-13 02:17:10,23834663-ed53-3da9-b330-d6e1ecb8428e,outpatient,Administration of vaccine to produce active immunity (procedure),269.68,21.9,True,False
+2264cab9-8320-c5a9-7552-4b892dbd35df,2021-04-13 10:12:22,2021-04-13 10:27:22,ef58ea08-d883-3957-8300-150554edc8fb,outpatient,Administration of vaccine to produce active immunity (procedure),269.68,16.9,True,False
+ab40dc16-bb8e-4d2f-d8ce-143b9ae79bba,2021-04-14 17:17:10,2021-04-14 17:32:10,ef58ea08-d883-3957-8300-150554edc8fb,ambulatory,Telemedicine consultation with patient,129.16,17.4,True,False
+01176856-9791-1f04-b08b-52eed17a6d74,2021-04-16 03:07:09,2021-04-16 03:22:09,23834663-ed53-3da9-b330-d6e1ecb8428e,outpatient,Administration of vaccine to produce active immunity (procedure),269.68,17.1,True,False
+ed4dcf48-f967-6101-bdc6-4502f7854d28,2021-04-17 02:22:45,2021-04-17 02:37:45,465de31f-3098-365c-af70-48a071e1f5aa,outpatient,Administration of vaccine to produce active immunity (procedure),269.68,24.2,True,False
+NOSHOW-900164,2021-04-17 02:22:45,,465de31f-3098-365c-af70-48a071e1f5aa,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+02e8cedb-52eb-cdc9-a6ed-b3ae3a0a2afd,2021-04-18 17:17:10,2021-04-18 17:32:10,ef58ea08-d883-3957-8300-150554edc8fb,ambulatory,Telemedicine consultation with patient,129.16,11.7,True,False
+41300c98-f953-7c4b-ca4b-c602a1cfb838,2021-04-22 22:59:05,2021-04-22 23:14:05,f7a6cc79-3075-3124-9f62-6fe562440b1d,urgentcare,Urgent care clinic (procedure),9894.64,28.9,True,False
+08dec6d7-0ffc-ea77-f90f-1fc79622d768,2021-04-24 02:33:33,2021-04-24 02:48:33,d692e283-0833-3201-8e55-4f868a9c0736,outpatient,Administration of vaccine to produce active immunity (procedure),269.68,27.2,True,False
+2113d201-e07f-bf2e-952b-df4d6d8733bf,2021-04-30 07:38:58,2021-04-30 07:53:58,4861d01f-019c-3dac-a153-8334e50919f9,outpatient,Administration of vaccine to produce active immunity (procedure),269.68,12.5,True,False
+05349a15-28e5-b06e-112f-633e8ba1e011,2021-05-01 03:50:32,2021-05-01 04:05:32,69176529-fd1f-3b3f-abce-a0a3626769eb,ambulatory,Prenatal visit,1903.52,12.8,True,False
+6aba1355-3b86-7968-87e5-3074c4c0bab2,2021-05-04 14:40:02,2021-05-04 14:55:02,5e765f2b-e908-3888-9fc7-df2cb87beb58,outpatient,Administration of vaccine to produce active immunity (procedure),269.68,22.5,True,False
+506a9cdc-652a-53db-c9b4-4d4e27f874b2,2021-05-07 19:09:35,2021-05-07 19:24:35,d5117822-5756-389d-9547-891a372d580f,outpatient,Administration of vaccine to produce active immunity (procedure),269.68,11.6,True,False
+6fd3f454-d2e7-8e98-67b2-09541184818b,2021-05-08 23:44:18,2021-05-08 23:59:18,4861d01f-019c-3dac-a153-8334e50919f9,outpatient,Administration of vaccine to produce active immunity (procedure),269.68,30.5,True,False
+351fbc41-5f7a-95d2-bb8a-c57141156fbc,2021-05-19 02:27:56,2021-05-19 02:42:56,e002090d-4e92-300e-b41e-7d1f21dee4c6,ambulatory,Prenatal initial visit,60501.97,43.6,True,False
+aa55cd01-1dfd-fc36-3c8a-ccfd094db925,2021-05-20 17:05:34,2021-05-20 17:20:34,d692e283-0833-3201-8e55-4f868a9c0736,outpatient,Administration of vaccine to produce active immunity (procedure),269.68,17.2,True,False
+a2536023-a285-206f-3d89-a46bf3bca345,2021-05-21 05:34:46,2021-05-21 05:49:46,c44f361c-2efb-3050-8f97-0354a12e2920,outpatient,Consultation for treatment,129.16,16.7,True,False
+0e278ea2-0d29-80c0-4bec-209962a6d780,2021-06-10 22:12:13,2021-06-10 22:27:13,3bd5eda0-16da-3ba5-8500-4dfd6ae118b8,outpatient,Encounter for problem (procedure),77.49,15.8,True,False
+de08e6c6-26a1-54e8-63df-66217028bcce,2021-06-14 05:59:43,2021-06-14 06:55:31,23834663-ed53-3da9-b330-d6e1ecb8428e,ambulatory,Outpatient procedure,11703.32,23.3,True,False
+NOSHOW-900007,2021-06-22 06:52:19,,e002090d-4e92-300e-b41e-7d1f21dee4c6,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+5ea36b02-af2f-716d-aea3-c214b7f63740,2021-06-22 06:52:19,2021-06-22 07:07:19,e002090d-4e92-300e-b41e-7d1f21dee4c6,ambulatory,Encounter for symptom,77.49,22.4,True,False
+cfcc25cf-8b1b-8df1-f31b-ec7bd0e6ab7b,2021-07-10 17:17:10,2021-07-10 17:32:10,ef58ea08-d883-3957-8300-150554edc8fb,ambulatory,Telemedicine consultation with patient,129.16,26.7,True,False
+96591415-4b9f-9a2b-c8aa-0f9e5af5360a,2021-07-11 00:15:57,2021-07-11 00:30:57,ef6ab57c-ed94-3dbe-9861-812d515918b3,outpatient,Administration of vaccine to produce active immunity (procedure),269.68,8.0,True,False
+cf6c272b-a29f-4c7a-25ea-7f1c2396fd4d,2021-07-12 01:34:00,2021-07-12 01:49:00,be4c63f3-8d38-3fa9-a183-62045b5c85f6,outpatient,Encounter for check up (procedure),42055.1,15.7,True,False
+f019d68d-40dd-5ccd-2530-842c94fa40cd,2021-07-12 02:58:06,2021-07-12 03:13:06,24cb4eab-6166-3530-bddc-a5a8a14a4fc1,ambulatory,Encounter for symptom,77.49,20.4,True,False
+NOSHOW-900044,2021-07-12 02:58:06,,24cb4eab-6166-3530-bddc-a5a8a14a4fc1,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+6a654c29-d1c7-4d29-14e5-6d658dba07a3,2021-07-19 06:54:59,2021-07-19 07:09:59,ef58ea08-d883-3957-8300-150554edc8fb,outpatient,Encounter for problem (procedure),77.49,30.0,True,False
+NOSHOW-900184,2021-07-30 14:12:42,,ecc51621-0af3-3b35-ac3e-8b1e34022e92,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+NOSHOW-900153,2021-07-30 14:12:42,,ecc51621-0af3-3b35-ac3e-8b1e34022e92,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+bec04427-6f15-7ec5-4198-b2e3f5c80acd,2021-07-30 14:12:42,2021-07-30 14:27:42,ecc51621-0af3-3b35-ac3e-8b1e34022e92,outpatient,Administration of vaccine to produce active immunity (procedure),269.68,6.0,True,False
+8b2407fc-e0c8-b199-bcc1-7f26a9d639b5,2021-07-30 17:47:46,2021-07-30 18:02:46,5d4b9df1-93ae-3bc9-b680-03249990e558,ambulatory,Postoperative follow-up visit (procedure),129.16,19.5,True,False
+NOSHOW-900102,2021-07-30 17:47:46,,5d4b9df1-93ae-3bc9-b680-03249990e558,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+34034568-3efc-9d00-58b6-6c96afca5f8f,2021-07-31 05:41:11,2021-07-31 06:22:01,3bd5eda0-16da-3ba5-8500-4dfd6ae118b8,outpatient,Patient encounter procedure,10749.72,11.9,True,False
+NOSHOW-900139,2021-08-30 10:49:12,,3bd5eda0-16da-3ba5-8500-4dfd6ae118b8,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+6d705ce0-83ba-972e-73a7-6b829db7cc5e,2021-08-30 10:49:12,2021-08-30 11:04:12,3bd5eda0-16da-3ba5-8500-4dfd6ae118b8,outpatient,Administration of vaccine to produce active immunity (procedure),269.68,11.8,True,False
+5cb1b360-c201-53a0-e589-6afb242539a1,2021-09-05 07:36:32,2021-09-05 07:51:32,e002090d-4e92-300e-b41e-7d1f21dee4c6,ambulatory,Prenatal visit,16877.33,17.5,True,False
+d539316f-53c5-6592-bfd4-9d414d52ec85,2021-09-07 22:54:02,2021-09-07 23:31:04,db0acede-4abe-3c01-8d03-5c68a190d8c7,ambulatory,Encounter for 'check-up',7744.32,16.1,True,False
+e4ddf36b-dd11-df15-8c6c-5f18c0e857cb,2021-09-11 07:30:48,2021-09-11 07:45:48,d5117822-5756-389d-9547-891a372d580f,ambulatory,Prenatal initial visit,65218.74,42.7,True,False
+b88a0629-23b5-77fe-80a9-046a0bd184e6,2021-09-16 05:48:23,2021-09-16 06:03:23,6f122869-a856-3d65-8db9-099bf4f5bbb8,outpatient,Consultation for treatment,129.16,22.5,True,False
+d5afd7bc-7b29-0faa-f627-0200ad4ee58a,2021-09-23 01:12:47,2021-09-23 02:12:47,6f122869-a856-3d65-8db9-099bf4f5bbb8,emergency,Obstetric emergency hospital admission,3637.42,203.1,True,False
+0af851e5-e31a-0234-8449-8e928e9e4e15,2021-09-23 22:37:32,2021-09-23 23:37:32,fbf6180e-b800-3ebe-b91d-93d0288c400e,emergency,Emergency room admission (procedure),129.16,102.5,True,False
+4426a908-cf70-145f-cbaa-ea9716b7ba81,2021-09-27 10:44:24,2021-09-27 11:09:26,f71ce1a9-cca7-3295-9a1e-c88ac3479b6f,ambulatory,Allergic disorder initial assessment,645.81,6.5,True,False
+f466ae22-6e6d-d795-9565-3c0d3182c087,2021-10-02 23:13:04,2021-10-02 23:28:04,4861d01f-019c-3dac-a153-8334e50919f9,ambulatory,Prenatal initial visit,66347.07,18.3,True,False
+NOSHOW-900141,2021-10-03 22:28:32,,e002090d-4e92-300e-b41e-7d1f21dee4c6,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+8ea33266-d596-b554-61ba-6c0e3d6279f0,2021-10-03 22:28:32,2021-10-03 22:43:32,e002090d-4e92-300e-b41e-7d1f21dee4c6,outpatient,Encounter for check up (procedure),218.01,12.4,True,False
+NOSHOW-900158,2021-10-03 22:28:32,,e002090d-4e92-300e-b41e-7d1f21dee4c6,outpatient,Scheduled appointment -- no-show (synthetic),,,False,True
+deaf21b7-a5ea-0d06-14e6-e47a893212ca,2021-10-13 22:02:55,2021-10-13 22:17:55,ef6ab57c-ed94-3dbe-9861-812d515918b3,ambulatory,Prenatal visit,17056.39,18.1,True,False
+1b55317a-263b-b79b-ab7c-db6370766de3,2021-10-22 19:25:40,2021-10-22 19:40:40,226098a2-6a40-3588-b5bb-db56c3a30a04,ambulatory,Encounter for symptom,77.49,14.6,True,False
+NOSHOW-900052,2021-10-22 19:25:40,,226098a2-6a40-3588-b5bb-db56c3a30a04,ambulatory,Scheduled appointment -- no-show (synthetic),,,False,True
+b2c6fbfc-4618-0758-8156-73409307644d,2021-10-26 16:24:51,2021-10-26 16:39:51,3d10019f-c88e-3de5-9916-6107b9c0263d,ambulatory,Encounter for symptom,77.49,20.2,True,False
+274cbd19-7fbc-1eb4-aec2-4e337a12db3e,2021-11-05 13:56:03,2021-11-05 14:45:01,e002090d-4e92-300e-b41e-7d1f21dee4c6,ambulatory,Outpatient procedure,12441.78,21.5,True,False
+e658ae40-9879-a0ad-b144-df91b611db39,2021-11-05 14:50:53,2021-11-05 15:05:53,f71ce1a9-cca7-3295-9a1e-c88ac3479b6f,ambulatory,Encounter for symptom,77.49,28.1,True,False
+e1c5e3c2-6c89-6fbb-e8b9-ef74ca5ef950,2021-11-06 17:10:18,2021-11-06 17:25:18,69176529-fd1f-3b3f-abce-a0a3626769eb,outpatient,Administration of vaccine to produce active immunity (procedure),269.68,27.5,True,False
+b283e880-4b08-1f2f-e040-7493f24b8b34,2021-11-09 14:20:29,2021-11-09 14:35:29,465de31f-3098-365c-af70-48a071e1f5aa,ambulatory,Follow-up encounter,77.49,10.0,True,False

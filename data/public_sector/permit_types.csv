@@ -1,0 +1,9 @@
+permit_type,permit_type_name
+DM,Demolition
+EW,Equipment Work
+PL,Plumbing
+NB,New Building
+SG,Sign
+AL,"Alteration (raw DOB code, not independently confirmed)"
+FO,"Foundation (raw DOB code, not independently confirmed)"
+EQ,"Construction Equipment (raw DOB code, not independently confirmed)"
