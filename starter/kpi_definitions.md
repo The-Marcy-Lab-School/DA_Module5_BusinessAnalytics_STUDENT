@@ -5,7 +5,7 @@ first, work backward to which KPIs actually inform it.
 
 ## The decision
 
-**Stakeholder (role, not a name):** TODO
+**Stakeholder (role, not a name — Stakeholder A, see `SCENARIOS.md`):** TODO
 **Decision this dashboard needs to inform:** TODO — one sentence.
 
 ## Your 3 required KPI cards
